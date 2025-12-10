@@ -330,4 +330,4 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
 
 if __name__ == '__main__':
     # Debug mode is great for local dev, turn off for prod if desired
-    app.run(debug=True)
+    app.run(debug=True, use_reloader=False, port=8052)
