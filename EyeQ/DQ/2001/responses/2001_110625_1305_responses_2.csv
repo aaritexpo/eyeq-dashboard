@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+2001,BDY,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 12:55:35.540,563,600,-37,2,"Glasses screen",false
+2001,BDY,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 12:55:38.069,566,600,-34,2,"Glasses screen",false
+2001,BDY,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 13:05:29.589,1157,1200,-43,3,"Glasses screen",false
+2001,BDY,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 13:05:31.408,1159,1200,-41,3,"Glasses screen",false

@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+10029,2025-10-30 13:12:34.838,53,"Participant able to open WhatsApp. No recent messages"
+10029,2025-10-30 13:13:20.787,99,"Participant states scrolling doesn’t seem to register each time. Intuition is to swipe to the left but it goes to the right when they swipe left."
+10029,2025-10-30 13:14:25.980,164,"Participant not sure how to send new messages. Asks if he should go to messenger."
+10029,2025-10-30 13:19:39.197,477,"Participant began to play HyperTrail."

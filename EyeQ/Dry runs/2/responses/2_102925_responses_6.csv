@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Missed
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T17:56:37.732Z,615,600,NA,NA,true
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T17:56:37.732Z,615,600,NA,NA,true
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:06:25.024Z,1202,1200,2,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:06:37.645Z,1215,1200,NA,NA,true
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:16:19.916Z,1797,1800,-3,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-10-29T18:16:28.430Z,1805,1800,5,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:16:36.561Z,1813,1800,13,1,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:26:23.859Z,2401,2400,1,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:26:29.695Z,2407,2400,7,2,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:36:20.608Z,2997,3000,-3,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:36:33.704Z,3011,3000,11,1,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:46:15.408Z,3592,3600,-8,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-10-29T18:46:22.039Z,3599,3600,-1,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:46:28.802Z,3606,3600,6,1,false

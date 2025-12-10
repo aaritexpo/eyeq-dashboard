@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,35:01.7,566,600,-34,0,"Glasses screen, Phone screen",FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,35:05.3,570,600,-30,1,"Glasses screen, Phone screen",FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,44:58.1,1163,1200,-37,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,45:03.5,1168,1200,-32,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,55:08.1,1773,1800,-27,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,55:09.3,1774,1800,-26,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,55:11.3,1776,1800,-24,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,05:00.9,2366,2400,-34,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,05:02.3,2367,2400,-33,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,14:59.6,2964,3000,-36,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,15:02.2,2967,3000,-33,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,24:56.8,3562,3600,-38,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,24:58.7,3563,3600,-37,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,25:00.5,3565,3600,-35,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,34:58.3,4163,4200,-37,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,34:59.5,4164,4200,-36,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,44:56.3,4761,4800,-39,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,44:58.5,4763,4800,-37,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,55:11.4,5376,5400,-24,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,55:15.8,5380,5400,-20,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,55:17.4,5382,5400,-18,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,04:56.9,5962,6000,-38,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,05:01.6,5966,6000,-34,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,15:34.7,6599,6600,-1,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,15:41.1,6606,6600,6,1,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,misc,24:59.4,7164,7200,-36,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,25:03.0,7168,7200,-32,0,Glasses screen,FALSE
+1068,Jh,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,25:04.1,7169,7200,-31,1,Glasses screen,FALSE

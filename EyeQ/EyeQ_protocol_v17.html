@@ -1,0 +1,1411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EyeQ Study Protocol</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            min-height: 100vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            transition: background-color 0.2s ease; padding: 20px;
+        }
+        body.flash { background-color: #dc2626 !important; }
+        .container {
+            background: white; border-radius: 20px; padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); max-width: 700px; width: 100%;
+            text-align: center; position: relative; margin-bottom: 20px;
+        }
+        .global-timer {
+            position: absolute; top: 20px; right: 20px; font-size: 1.5em; font-weight: bold;
+            color: #667eea; background: #f3f4f6; padding: 10px 20px; border-radius: 10px;
+        }
+        .global-timer-label { font-size: 0.6em; color: #888; display: block; margin-bottom: 5px; }
+        .page h1 { color: #333; margin-bottom: 30px; font-size: 2em; }
+        .input-group { margin: 20px 0; }
+        .input-group label { display: block; margin-bottom: 10px; color: #666; font-size: 1.1em; text-align: left; }
+        .input-group input, .input-group select, .input-group textarea {
+            width: 100%; padding: 15px; font-size: 1.2em;
+            border: 2px solid #ddd; border-radius: 10px; text-align: center;
+        }
+        .input-group textarea { min-height: 100px; font-family: inherit; resize: vertical; text-align: left; }
+        .input-group select { cursor: pointer; }
+        .input-group small { display: block; margin-top: 5px; color: #999; font-size: 0.9em; }
+        .input-group input:focus, .input-group select:focus, .input-group textarea:focus {
+            outline: none; border-color: #667eea;
+        }
+        .two-column { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        .three-column { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+        .scale-description {
+            text-align: left; background: #f9fafb; padding: 15px; border-radius: 8px;
+            margin: 20px 0; font-size: 0.85em; line-height: 1.6; color: #555;
+            max-height: 300px; overflow-y: auto;
+        }
+        .scale-description h4 { margin-bottom: 10px; color: #333; font-size: 0.95em; }
+        .scale-description ul { list-style: none; padding-left: 0; }
+        .scale-description li { margin: 5px 0; padding: 3px 0; }
+        .radio-group { display: flex; justify-content: space-between; margin: 30px 0; gap: 8px; }
+        .radio-option { flex: 1; text-align: center; }
+        .radio-option input[type="radio"] { display: none; }
+        .radio-option label {
+            display: block; padding: 15px 8px; border: 2px solid #ddd;
+            border-radius: 8px; cursor: pointer; transition: all 0.2s; font-size: 0.9em;
+        }
+        .radio-option input[type="radio"]:checked + label {
+            background: #667eea; color: white; border-color: #667eea; font-weight: bold;
+        }
+        .radio-option label:hover { border-color: #667eea; }
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; border: none; padding: 15px 40px; font-size: 1.2em;
+            border-radius: 10px; cursor: pointer; transition: transform 0.2s; margin-top: 20px;
+        }
+        .btn:hover { transform: translateY(-2px); }
+        .btn:active { transform: translateY(0); }
+        .btn-danger {
+            background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+            padding: 10px 30px; font-size: 1em;
+        }
+        .btn-secondary {
+            background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+            padding: 10px 20px; font-size: 0.9em;
+        }
+        .hidden { display: none; }
+        .status-info { font-size: 1.8em; color: #333; margin-top: 60px; font-weight: 500; }
+        .next-prompt-info { font-size: 1.2em; color: #888; margin-top: 20px; }
+        .survey-screen { margin: 40px 0; }
+        .survey-screen h2 { color: #333; margin-bottom: 20px; margin-top: 60px; }
+        .survey-indicator {
+            background: #667eea; color: white; padding: 8px 16px;
+            border-radius: 20px; font-size: 0.9em; display: inline-block; margin-bottom: 15px;
+        }
+        .response-timer { font-size: 1.5em; color: #dc2626; margin-top: 20px; font-weight: bold; }
+        .notes-panel {
+            background: white; border-radius: 20px; padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); max-width: 700px; width: 100%;
+        }
+        .notes-panel h3 { color: #333; margin-bottom: 15px; text-align: left; }
+        .button-group { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px; }
+        .completion-screen h1 { color: #22c55e; margin-bottom: 30px; }
+        .completion-screen p { color: #666; font-size: 1.2em; margin-bottom: 30px; }
+        .data-summary {
+            background: #f3f4f6; padding: 20px; border-radius: 10px;
+            margin: 20px 0; text-align: left;
+        }
+        .data-summary h3 { color: #333; margin-bottom: 10px; }
+        .data-summary p { color: #666; font-size: 1em; margin: 5px 0; }
+        
+        /* New styles for confirmation screen */
+        .confirmation-screen {
+            margin: 40px 0;
+        }
+        .confirmation-screen h2 {
+            color: #dc2626;
+            margin-bottom: 30px;
+            font-size: 2em;
+        }
+        .confirmation-screen p {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        .confirmation-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 40px;
+        }
+        .btn-confirm {
+            background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+            padding: 15px 30px;
+        }
+        .btn-cancel {
+            background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+            padding: 15px 30px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div id="page1" class="page">
+        <h1>EyeQ Study Protocol</h1>
+        <div class="two-column">
+            <div class="input-group">
+                <label for="participantId">Participant ID:</label>
+                <input type="text" id="participantId" placeholder="Enter participant ID">
+            </div>
+            <div class="input-group">
+                <label for="moderatorInitials">Moderator Initials:</label>
+                <input type="text" id="moderatorInitials" placeholder="Enter moderator initials">
+            </div>
+        </div>
+        <div class="input-group">
+            <label for="deviceType">Device Type:</label>
+            <select id="deviceType">
+                <option value="">Select device type</option>
+                <option value="AI Glasses & Neural Band">AI Glasses & Neural Band</option>
+                <option value="Gen 2 Glasses">Gen 2 Glasses</option>
+            </select>
+        </div>
+        <div class="input-group">
+            <label for="sessionType">Session Type:</label>
+            <select id="sessionType">
+                <option value="">Select session type</option>
+                <option value="Setup & Device Management">Setup & Device Management</option>
+                <option value="Capture & Share">Capture & Share</option>
+                <option value="Discover & Learn">Discover & Learn</option>
+                <option value="Watching">Watching</option>
+            </select>
+        </div>
+        <div class="two-column">
+            <div class="input-group">
+                <label for="studyDay">Study Day:</label>
+                <select id="studyDay">
+                    <option value="">Select study day</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="dailySession">Daily Session #:</label>
+                <select id="dailySession">
+                    <option value="">Select session</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </select>
+            </div>
+        </div>
+        <button class="btn" id="nextBtn">Next</button>
+    </div>
+
+    <div id="page2" class="page hidden">
+        <h1>Lux Measurements - Start of Session</h1>
+        <p style="color: #666; margin-bottom: 30px;">Take 3 measurements at each location</p>
+        
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 1</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc1LuxStart1">Lux Start #1:</label>
+                    <input type="text" id="loc1LuxStart1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc1LuxStart2">Lux Start #2:</label>
+                    <input type="text" id="loc1LuxStart2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc1LuxStart3">Lux Start #3:</label>
+                    <input type="text" id="loc1LuxStart3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 2</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc2LuxStart1">Lux Start #1:</label>
+                    <input type="text" id="loc2LuxStart1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc2LuxStart2">Lux Start #2:</label>
+                    <input type="text" id="loc2LuxStart2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc2LuxStart3">Lux Start #3:</label>
+                    <input type="text" id="loc2LuxStart3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 3</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc3LuxStart1">Lux Start #1:</label>
+                    <input type="text" id="loc3LuxStart1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc3LuxStart2">Lux Start #2:</label>
+                    <input type="text" id="loc3LuxStart2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc3LuxStart3">Lux Start #3:</label>
+                    <input type="text" id="loc3LuxStart3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 4</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc4LuxStart1">Lux Start #1:</label>
+                    <input type="text" id="loc4LuxStart1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc4LuxStart2">Lux Start #2:</label>
+                    <input type="text" id="loc4LuxStart2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc4LuxStart3">Lux Start #3:</label>
+                    <input type="text" id="loc4LuxStart3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <button class="btn" id="luxStartNextBtn">Next</button>
+    </div>
+
+    <div id="page3" class="page hidden">
+        <h1>Study Configuration</h1>
+        <div class="two-column">
+            <div class="input-group">
+                <label for="miscInterval">MISC Interval:</label>
+                <input type="number" id="miscInterval" value="10" min="1" max="120">
+                <small>Survey frequency (minutes)</small>
+            </div>
+            <div class="input-group">
+                <label for="discomfortInterval">Physical Discomfort Interval:</label>
+                <input type="number" id="discomfortInterval" value="30" min="1" max="120">
+                <small>Survey frequency (minutes)</small>
+            </div>
+        </div>
+        <div class="input-group">
+            <label for="eyestrainInterval">Eye Strain Interval:</label>
+            <input type="number" id="eyestrainInterval" value="10" min="1" max="120">
+            <small>Survey frequency (minutes)</small>
+        </div>
+        <div class="input-group">
+            <label for="studyDuration">Total Study Duration:</label>
+            <input type="number" id="studyDuration" value="120" min="2" max="480">
+            <small>Total length (minutes)</small>
+        </div>
+        <div class="input-group">
+            <label for="responseWindow">Response Window Duration:</label>
+            <input type="number" id="responseWindow" value="90" min="10" max="120">
+            <small>Time to respond (seconds)</small>
+        </div>
+        <button class="btn" id="startBtn">Start Study</button>
+    </div>
+
+    <div id="globalTimerDisplay" class="global-timer hidden">
+        <span class="global-timer-label">STUDY TIME</span>
+        <span id="globalTimerText">00:00</span>
+    </div>
+
+    <div id="waitingScreen" class="hidden">
+        <div class="status-info">Waiting for next prompt...</div>
+        <div class="next-prompt-info" id="nextPromptInfo"></div>
+        <div class="button-group">
+            <button class="btn btn-danger" id="endEarlyBtn">End Session Early</button>
+        </div>
+    </div>
+
+    <div id="miscScreen" class="hidden survey-screen">
+        <div class="survey-indicator">Survey <span id="miscSurveyNum">1</span> of <span id="surveyCount">1</span></div>
+        <h2>Rate your current symptoms</h2>
+        <div class="scale-description">
+            <h4>Misery Scale (MISC)</h4>
+            <ul>
+                <li><strong>0</strong> - No problems</li>
+                <li><strong>1</strong> - Uneasiness</li>
+                <li><strong>2</strong> - Vague dizziness, headache, stomach awareness, sweating</li>
+                <li><strong>3</strong> - Slight dizziness, headache, stomach awareness, sweating</li>
+                <li><strong>4</strong> - Fair dizziness, headache, stomach awareness, sweating</li>
+                <li><strong>5</strong> - Severe dizziness, headache, stomach awareness, sweating</li>
+                <li><strong>6</strong> - Slight nausea</li>
+                <li><strong>7</strong> - Fair nausea</li>
+                <li><strong>8</strong> - Severe nausea</li>
+                <li><strong>9</strong> - (Near) retching</li>
+                <li><strong>10</strong> - Vomiting</li>
+            </ul>
+        </div>
+        <div class="radio-group" id="miscRadios"></div>
+        <div class="response-timer">Time remaining: <span id="responseTimer">60</span>s</div>
+        <button class="btn" id="submitMiscBtn">Submit Response</button>
+    </div>
+
+    <div id="discomfortScreen" class="hidden survey-screen">
+        <div class="survey-indicator">Survey <span id="discomfortSurveyNum">2</span> of <span id="discomfortSurveyCount">2</span></div>
+        <h2>Rate your physical discomfort</h2>
+        <div class="scale-description">
+            <h4>Physical Discomfort Scale</h4>
+            <p style="margin-bottom: 10px;"><strong>Overall, how would you describe the severity of physical discomfort you are experiencing right now as a result of wearing the glasses?</strong></p>
+            <ul>
+                <li><strong>0</strong> - None: no discomfort experienced</li>
+                <li><strong>1</strong> - Just noticeable: discomfort is perceptible but not irritating</li>
+                <li><strong>2</strong> - Mild: discomfort is minimal and only slightly irritating</li>
+                <li><strong>3</strong> - Moderate: discomfort is significant and somewhat irritating</li>
+                <li><strong>4</strong> - Severe: discomfort is intense and makes it difficult to continue wearing/using</li>
+                <li><strong>5</strong> - Unbearable: discomfort is very severe and can no longer be endured</li>
+            </ul>
+        </div>
+        <div class="radio-group" id="discomfortRadios"></div>
+        <div class="response-timer">Time remaining: <span id="responseTimer2">60</span>s</div>
+        <button class="btn" id="submitDiscomfortBtn">Submit Response</button>
+    </div>
+
+    <div id="eyestrainScreen" class="hidden survey-screen">
+        <div class="survey-indicator">Survey <span id="eyestrainSurveyNum">3</span> of <span id="eyestrainSurveyCount">3</span></div>
+        <h2>Rate your eye strain</h2>
+        <div class="scale-description">
+            <h4>Eye Strain Scale</h4>
+            <p style="margin-bottom: 10px;"><strong>How bothered are you with eye strain when using or after using this device? Example symptoms include tired or heavy eyes, soreness, or dry eyes.</strong></p>
+            <ul>
+                <li><strong>1</strong> - Not an issue at all</li>
+                <li><strong>2</strong> - Noticeable, but not bothered</li>
+                <li><strong>3</strong> - Noticeable, and slightly bothered</li>
+                <li><strong>4</strong> - Noticeable, and moderately bothered</li>
+                <li><strong>5</strong> - Noticeable, and very bothered</li>
+            </ul>
+        </div>
+        <div class="radio-group" id="eyestrainRadios"></div>
+        <div class="response-timer">Time remaining: <span id="responseTimer3">60</span>s</div>
+        <button class="btn" id="submitEyestrainBtn">Submit Response</button>
+    </div>
+
+    <div id="focusScreen" class="hidden survey-screen">
+        <div class="survey-indicator">Final Question</div>
+        <h2>Visual Attention Focus</h2>
+        <div class="scale-description">
+            <p style="margin-bottom: 20px; font-size: 1.05em;"><strong>On which of the following surfaces did you focus <span style="font-weight: bold;">most</span> of your visual attention in the preceding interval? Select all that apply:</strong></p>
+        </div>
+        <div style="text-align: left; margin: 30px auto; max-width: 500px;">
+            <div style="margin: 15px 0;">
+                <label style="display: flex; align-items: center; cursor: pointer; font-size: 1.1em;">
+                    <input type="checkbox" id="focusGlasses" value="Glasses screen" style="width: 20px; height: 20px; margin-right: 12px; cursor: pointer;">
+                    <span>Glasses screen</span>
+                </label>
+            </div>
+            <div style="margin: 15px 0;">
+                <label style="display: flex; align-items: center; cursor: pointer; font-size: 1.1em;">
+                    <input type="checkbox" id="focusPhone" value="Phone screen" style="width: 20px; height: 20px; margin-right: 12px; cursor: pointer;">
+                    <span>Phone screen</span>
+                </label>
+            </div>
+            <div style="margin: 15px 0;">
+                <label style="display: flex; align-items: center; cursor: pointer; font-size: 1.1em;">
+                    <input type="checkbox" id="focusPlain" value="Real world, plain backdrop" style="width: 20px; height: 20px; margin-right: 12px; cursor: pointer;">
+                    <span>Real world, plain backdrop</span>
+                </label>
+            </div>
+            <div style="margin: 15px 0;">
+                <label style="display: flex; align-items: center; cursor: pointer; font-size: 1.1em;">
+                    <input type="checkbox" id="focusBusy" value="Real world, busy/mixed backdrop" style="width: 20px; height: 20px; margin-right: 12px; cursor: pointer;">
+                    <span>Real world, busy/mixed backdrop</span>
+                </label>
+            </div>
+        </div>
+        <div class="response-timer">Time remaining: <span id="responseTimer4">60</span>s</div>
+        <button class="btn" id="submitFocusBtn">Submit Response</button>
+    </div>
+
+    <!-- New confirmation screen -->
+    <div id="confirmEndScreen" class="confirmation-screen hidden">
+        <h2>⚠️ End Session Early?</h2>
+        <p>Are you sure you want to end this session early?<br>
+        Current session time: <span id="confirmTimeDisplay">00:00</span></p>
+        <p style="font-size: 1em; color: #888;">This action cannot be undone. All data collected so far will be saved.</p>
+        <div class="confirmation-buttons">
+            <button class="btn btn-confirm" id="confirmEndBtn">Yes, End Session</button>
+            <button class="btn btn-cancel" id="cancelEndBtn">No, Go Back</button>
+        </div>
+    </div>
+
+    <!-- Interim ending page for Lux End measurements -->
+    <div id="interimEndScreen" class="page hidden">
+        <h1>Lux Measurements - End of Session</h1>
+        <p style="color: #666; margin-bottom: 30px;">Take 3 measurements at each location</p>
+        
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 1</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc1LuxEnd1">Lux End #1:</label>
+                    <input type="text" id="loc1LuxEnd1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc1LuxEnd2">Lux End #2:</label>
+                    <input type="text" id="loc1LuxEnd2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc1LuxEnd3">Lux End #3:</label>
+                    <input type="text" id="loc1LuxEnd3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 2</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc2LuxEnd1">Lux End #1:</label>
+                    <input type="text" id="loc2LuxEnd1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc2LuxEnd2">Lux End #2:</label>
+                    <input type="text" id="loc2LuxEnd2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc2LuxEnd3">Lux End #3:</label>
+                    <input type="text" id="loc2LuxEnd3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 3</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc3LuxEnd1">Lux End #1:</label>
+                    <input type="text" id="loc3LuxEnd1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc3LuxEnd2">Lux End #2:</label>
+                    <input type="text" id="loc3LuxEnd2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc3LuxEnd3">Lux End #3:</label>
+                    <input type="text" id="loc3LuxEnd3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 30px;">
+            <h3 style="color: #667eea; text-align: left; margin-bottom: 15px;">Location 4</h3>
+            <div class="three-column">
+                <div class="input-group">
+                    <label for="loc4LuxEnd1">Lux End #1:</label>
+                    <input type="text" id="loc4LuxEnd1" placeholder="Measurement 1">
+                </div>
+                <div class="input-group">
+                    <label for="loc4LuxEnd2">Lux End #2:</label>
+                    <input type="text" id="loc4LuxEnd2" placeholder="Measurement 2">
+                </div>
+                <div class="input-group">
+                    <label for="loc4LuxEnd3">Lux End #3:</label>
+                    <input type="text" id="loc4LuxEnd3" placeholder="Measurement 3">
+                </div>
+            </div>
+        </div>
+
+        <button class="btn" id="finishBtn">Finish Session</button>
+    </div>
+
+    <div id="completionScreen" class="hidden completion-screen">
+        <h1>✓ Study Complete</h1>
+        <p>Thank you for participating!</p>
+        <div class="data-summary">
+            <h3>Session Summary</h3>
+            <p>Participant ID: <span id="summaryParticipantId"></span></p>
+            <p>Moderator: <span id="summaryModerator"></span></p>
+            <p>Device: <span id="summaryDevice"></span></p>
+            <p>Session: <span id="summarySession"></span></p>
+            <p>Total Duration: <span id="summaryDuration"></span></p>
+            <p>MISC: <span id="summaryMisc"></span> collected, <span id="summaryMiscMissed"></span> missed</p>
+            <p>Discomfort: <span id="summaryDiscomfort"></span> collected, <span id="summaryDiscomfortMissed"></span> missed</p>
+            <p>Eye Strain: <span id="summaryEyestrain"></span> collected, <span id="summaryEyestrainMissed"></span> missed</p>
+            <p>Moderator notes: <span id="summaryNotes"></span></p>
+        </div>
+        <div class="button-group">
+            <button class="btn" id="exportSurveyBtn">Download Survey Data</button>
+            <button class="btn" id="exportNotesBtn">Download Moderator Notes</button>
+            <button class="btn" id="exportLuxBtn">Download Lux</button>
+        </div>
+    </div>
+</div>
+
+<div id="notesPanel" class="notes-panel hidden">
+    <h3>Moderator Notes</h3>
+    <div class="input-group">
+        <textarea id="notesInput" placeholder="Enter notes here..."></textarea>
+    </div>
+    <button class="btn btn-secondary" id="submitNoteBtn">Submit Note</button>
+</div>
+
+<script>
+(function() {
+    var state = {
+        participantId: '', moderatorInitials: '', deviceType: '', sessionType: '',
+        studyDay: '', dailySession: '',
+        loc1LuxStart1: '', loc1LuxStart2: '', loc1LuxStart3: '',
+        loc2LuxStart1: '', loc2LuxStart2: '', loc2LuxStart3: '',
+        loc3LuxStart1: '', loc3LuxStart2: '', loc3LuxStart3: '',
+        loc4LuxStart1: '', loc4LuxStart2: '', loc4LuxStart3: '',
+        loc1LuxEnd1: '', loc1LuxEnd2: '', loc1LuxEnd3: '',
+        loc2LuxEnd1: '', loc2LuxEnd2: '', loc2LuxEnd3: '',
+        loc3LuxEnd1: '', loc3LuxEnd2: '', loc3LuxEnd3: '',
+        loc4LuxEnd1: '', loc4LuxEnd2: '', loc4LuxEnd3: '',
+        studyStartTime: null, studyData: [], notesData: [],
+        MISC_INTERVAL: 600, DISCOMFORT_INTERVAL: 1800, EYESTRAIN_INTERVAL: 600,
+        STUDY_DURATION: 7200, PROMPT_OFFSET: 30, RESPONSE_WINDOW: 60,
+        currentPromptActive: false, hasFlashed: false, promptOpenedAt: null,
+        currentSurveySeq: [], currentSurveyIdx: 0, surveyResponses: [], currentFocusResponse: '',
+        lastCompletedMisc: -1, lastCompletedDiscomfort: -1, lastCompletedEyestrain: -1,
+        globalTimer: null, responseTimer: null, downloadCounter: 0, notesCounter: 0
+    };
+
+    function init() {
+        createRadioButtons();
+        document.getElementById('nextBtn').addEventListener('click', goToPage2);
+        document.getElementById('luxStartNextBtn').addEventListener('click', goToPage3);
+        document.getElementById('startBtn').addEventListener('click', startStudy);
+        document.getElementById('endEarlyBtn').addEventListener('click', endEarly);
+        document.getElementById('submitMiscBtn').addEventListener('click', submitMisc);
+        document.getElementById('submitDiscomfortBtn').addEventListener('click', submitDiscomfort);
+        document.getElementById('submitEyestrainBtn').addEventListener('click', submitEyestrain);
+        document.getElementById('submitFocusBtn').addEventListener('click', submitFocus);
+        document.getElementById('submitNoteBtn').addEventListener('click', submitNote);
+        document.getElementById('exportSurveyBtn').addEventListener('click', exportSurvey);
+        document.getElementById('exportNotesBtn').addEventListener('click', exportNotes);
+        document.getElementById('exportLuxBtn').addEventListener('click', exportLux);
+        // Add event listeners for confirmation screen buttons
+        document.getElementById('confirmEndBtn').addEventListener('click', confirmEndSession);
+        document.getElementById('cancelEndBtn').addEventListener('click', cancelEndSession);
+        // Add event listener for finish button on interim end screen
+        document.getElementById('finishBtn').addEventListener('click', finishSession);
+    }
+
+    function createRadioButtons() {
+        var miscDiv = document.getElementById('miscRadios');
+        for (var i = 0; i <= 10; i++) {
+            miscDiv.innerHTML += '<div class="radio-option"><input type="radio" name="misc" value="' + i + '" id="misc' + i + '"><label for="misc' + i + '">' + i + '</label></div>';
+        }
+        
+        var discomfortDiv = document.getElementById('discomfortRadios');
+        var dLabels = ['None', 'Just noticeable', 'Mild', 'Moderate', 'Severe', 'Unbearable'];
+        for (var i = 0; i <= 5; i++) {
+            discomfortDiv.innerHTML += '<div class="radio-option"><input type="radio" name="discomfort" value="' + i + '" id="dis' + i + '"><label for="dis' + i + '">' + i + '<br><small>' + dLabels[i] + '</small></label></div>';
+        }
+
+        var eyestrainDiv = document.getElementById('eyestrainRadios');
+        var eLabels = ['Not an issue', 'Not bothered', 'Slightly bothered', 'Moderately bothered', 'Very bothered'];
+        for (var i = 1; i <= 5; i++) {
+            eyestrainDiv.innerHTML += '<div class="radio-option"><input type="radio" name="eyestrain" value="' + i + '" id="eye' + i + '"><label for="eye' + i + '">' + i + '<br><small>' + eLabels[i-1] + '</small></label></div>';
+        }
+    }
+
+    function goToPage2() {
+        var pid = document.getElementById('participantId').value.trim();
+        var init = document.getElementById('moderatorInitials').value.trim();
+        var dev = document.getElementById('deviceType').value;
+        var ses = document.getElementById('sessionType').value;
+        var day = document.getElementById('studyDay').value;
+        var session = document.getElementById('dailySession').value;
+
+        if (!pid || !init || !dev || !ses || !day || !session) {
+            alert('Please complete all fields');
+            return;
+        }
+
+        state.participantId = pid;
+        state.moderatorInitials = init;
+        state.deviceType = dev;
+        state.sessionType = ses;
+        state.studyDay = day;
+        state.dailySession = session;
+
+        document.getElementById('page1').classList.add('hidden');
+        document.getElementById('page2').classList.remove('hidden');
+    }
+
+    function goToPage3() {
+        // Capture all 12 Lux Start values (optional fields)
+        state.loc1LuxStart1 = document.getElementById('loc1LuxStart1').value.trim();
+        state.loc1LuxStart2 = document.getElementById('loc1LuxStart2').value.trim();
+        state.loc1LuxStart3 = document.getElementById('loc1LuxStart3').value.trim();
+        state.loc2LuxStart1 = document.getElementById('loc2LuxStart1').value.trim();
+        state.loc2LuxStart2 = document.getElementById('loc2LuxStart2').value.trim();
+        state.loc2LuxStart3 = document.getElementById('loc2LuxStart3').value.trim();
+        state.loc3LuxStart1 = document.getElementById('loc3LuxStart1').value.trim();
+        state.loc3LuxStart2 = document.getElementById('loc3LuxStart2').value.trim();
+        state.loc3LuxStart3 = document.getElementById('loc3LuxStart3').value.trim();
+        state.loc4LuxStart1 = document.getElementById('loc4LuxStart1').value.trim();
+        state.loc4LuxStart2 = document.getElementById('loc4LuxStart2').value.trim();
+        state.loc4LuxStart3 = document.getElementById('loc4LuxStart3').value.trim();
+
+        // Download lux file with Start values (End values will be empty)
+        downloadLux();
+
+        document.getElementById('page2').classList.add('hidden');
+        document.getElementById('page3').classList.remove('hidden');
+    }
+
+    function startStudy() {
+        var misc = parseInt(document.getElementById('miscInterval').value);
+        var discomfort = parseInt(document.getElementById('discomfortInterval').value);
+        var eyestrain = parseInt(document.getElementById('eyestrainInterval').value);
+        var duration = parseInt(document.getElementById('studyDuration').value);
+        var window = parseInt(document.getElementById('responseWindow').value);
+
+        if (!misc || misc < 1 || !discomfort || discomfort < 1 || !eyestrain || eyestrain < 1 || !duration || duration < 4 || !window || window < 10) {
+            alert('Please check all configuration values');
+            return;
+        }
+
+        state.MISC_INTERVAL = misc * 60;
+        state.DISCOMFORT_INTERVAL = discomfort * 60;
+        state.EYESTRAIN_INTERVAL = eyestrain * 60;
+        state.STUDY_DURATION = duration * 60;
+        state.RESPONSE_WINDOW = window;
+        state.PROMPT_OFFSET = Math.floor(window / 2);
+        state.studyStartTime = Date.now();
+
+        document.getElementById('page3').classList.add('hidden');
+        document.getElementById('globalTimerDisplay').classList.remove('hidden');
+        document.getElementById('waitingScreen').classList.remove('hidden');
+        document.getElementById('notesPanel').classList.remove('hidden');
+
+        updateNextPrompt();
+        state.globalTimer = setInterval(tick, 100);
+    }
+
+    function tick() {
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        var m = Math.floor(elapsed / 60);
+        var s = elapsed % 60;
+        document.getElementById('globalTimerText').textContent = pad(m) + ':' + pad(s);
+
+        if (elapsed >= state.STUDY_DURATION && !state.currentPromptActive) {
+            endStudy();
+            return;
+        }
+
+        if (!state.currentPromptActive) {
+            var surveys = checkDue(elapsed);
+            if (surveys.length > 0) {
+                if (!state.hasFlashed) {
+                    flash();
+                    state.hasFlashed = true;
+                }
+                showSurveys(surveys, elapsed);
+            }
+        }
+
+        if (state.currentPromptActive && state.promptOpenedAt !== null) {
+            if (elapsed - state.promptOpenedAt >= state.RESPONSE_WINDOW) {
+                missedAll();
+            }
+        }
+    }
+
+    function checkDue(elapsed) {
+        var surveys = [];
+        var tM = elapsed % state.MISC_INTERVAL;
+        var tD = elapsed % state.DISCOMFORT_INTERVAL;
+        var tE = elapsed % state.EYESTRAIN_INTERVAL;
+
+        if (tM >= state.MISC_INTERVAL - state.PROMPT_OFFSET && tM <= state.MISC_INTERVAL + state.PROMPT_OFFSET) {
+            var cycle = Math.floor(elapsed / state.MISC_INTERVAL);
+            var target = (cycle + 1) * state.MISC_INTERVAL;
+            if (!isRecorded('misc', target)) surveys.push({type: 'misc', target: target});
+        }
+
+        if (tD >= state.DISCOMFORT_INTERVAL - state.PROMPT_OFFSET && tD <= state.DISCOMFORT_INTERVAL + state.PROMPT_OFFSET) {
+            var cycle = Math.floor(elapsed / state.DISCOMFORT_INTERVAL);
+            var target = (cycle + 1) * state.DISCOMFORT_INTERVAL;
+            if (!isRecorded('discomfort', target)) surveys.push({type: 'discomfort', target: target});
+        }
+
+        if (tE >= state.EYESTRAIN_INTERVAL - state.PROMPT_OFFSET && tE <= state.EYESTRAIN_INTERVAL + state.PROMPT_OFFSET) {
+            var cycle = Math.floor(elapsed / state.EYESTRAIN_INTERVAL);
+            var target = (cycle + 1) * state.EYESTRAIN_INTERVAL;
+            if (!isRecorded('eyestrain', target)) surveys.push({type: 'eyestrain', target: target});
+        }
+
+        return surveys;
+    }
+
+    function isRecorded(type, target) {
+        for (var i = 0; i < state.studyData.length; i++) {
+            if (state.studyData[i].surveyType === type && state.studyData[i].targetTimeSeconds === target) return true;
+        }
+        return false;
+    }
+
+    function showSurveys(surveys, elapsed) {
+        state.currentPromptActive = true;
+        state.promptOpenedAt = elapsed;
+        state.currentSurveySeq = surveys;
+        state.currentSurveyIdx = 0;
+        state.surveyResponses = [];
+        state.hasFlashed = false;
+        
+        document.getElementById('waitingScreen').classList.add('hidden');
+        
+        var remaining = state.RESPONSE_WINDOW;
+        document.getElementById('responseTimer').textContent = remaining;
+        document.getElementById('responseTimer2').textContent = remaining;
+        document.getElementById('responseTimer3').textContent = remaining;
+        document.getElementById('responseTimer4').textContent = remaining;
+        
+        state.responseTimer = setInterval(function() {
+            remaining--;
+            document.getElementById('responseTimer').textContent = Math.max(0, remaining);
+            document.getElementById('responseTimer2').textContent = Math.max(0, remaining);
+            document.getElementById('responseTimer3').textContent = Math.max(0, remaining);
+            document.getElementById('responseTimer4').textContent = Math.max(0, remaining);
+            if (remaining <= 0) clearInterval(state.responseTimer);
+        }, 1000);
+        
+        showNext();
+    }
+
+    function showNext() {
+        if (state.currentSurveyIdx >= state.currentSurveySeq.length) {
+            // All surveys complete, now show focus question
+            document.getElementById('miscScreen').classList.add('hidden');
+            document.getElementById('discomfortScreen').classList.add('hidden');
+            document.getElementById('eyestrainScreen').classList.add('hidden');
+            document.getElementById('focusScreen').classList.remove('hidden');
+            // Clear checkboxes
+            document.getElementById('focusGlasses').checked = false;
+            document.getElementById('focusPhone').checked = false;
+            document.getElementById('focusPlain').checked = false;
+            document.getElementById('focusBusy').checked = false;
+            return;
+        }
+        
+        var survey = state.currentSurveySeq[state.currentSurveyIdx];
+        var total = state.currentSurveySeq.length;
+        
+        document.getElementById('surveyCount').textContent = total;
+        document.getElementById('miscSurveyNum').textContent = state.currentSurveyIdx + 1;
+        document.getElementById('discomfortSurveyNum').textContent = state.currentSurveyIdx + 1;
+        document.getElementById('eyestrainSurveyNum').textContent = state.currentSurveyIdx + 1;
+        document.getElementById('discomfortSurveyCount').textContent = total;
+        document.getElementById('eyestrainSurveyCount').textContent = total;
+        
+        if (survey.type === 'misc') {
+            clearRadios('misc');
+            document.getElementById('miscScreen').classList.remove('hidden');
+            document.getElementById('discomfortScreen').classList.add('hidden');
+            document.getElementById('eyestrainScreen').classList.add('hidden');
+            document.getElementById('focusScreen').classList.add('hidden');
+        } else if (survey.type === 'discomfort') {
+            clearRadios('discomfort');
+            document.getElementById('discomfortScreen').classList.remove('hidden');
+            document.getElementById('miscScreen').classList.add('hidden');
+            document.getElementById('eyestrainScreen').classList.add('hidden');
+            document.getElementById('focusScreen').classList.add('hidden');
+        } else {
+            clearRadios('eyestrain');
+            document.getElementById('eyestrainScreen').classList.remove('hidden');
+            document.getElementById('miscScreen').classList.add('hidden');
+            document.getElementById('discomfortScreen').classList.add('hidden');
+            document.getElementById('focusScreen').classList.add('hidden');
+        }
+    }
+
+    function clearRadios(name) {
+        var radios = document.getElementsByName(name);
+        for (var i = 0; i < radios.length; i++) radios[i].checked = false;
+    }
+
+    function getSelectedRadio(name) {
+        var radios = document.getElementsByName(name);
+        for (var i = 0; i < radios.length; i++) {
+            if (radios[i].checked) return parseInt(radios[i].value);
+        }
+        return null;
+    }
+
+    function submitMisc() {
+        var val = getSelectedRadio('misc');
+        if (val === null) {
+            alert('Please select a response');
+            return;
+        }
+        recordResponse(val);
+    }
+
+    function submitDiscomfort() {
+        var val = getSelectedRadio('discomfort');
+        if (val === null) {
+            alert('Please select a response');
+            return;
+        }
+        recordResponse(val);
+    }
+
+    function submitEyestrain() {
+        var val = getSelectedRadio('eyestrain');
+        if (val === null) {
+            alert('Please select a response');
+            return;
+        }
+        recordResponse(val);
+    }
+
+    function submitFocus() {
+        // Get all checked checkboxes
+        var checked = [];
+        if (document.getElementById('focusGlasses').checked) checked.push('Glasses screen');
+        if (document.getElementById('focusPhone').checked) checked.push('Phone screen');
+        if (document.getElementById('focusPlain').checked) checked.push('Real world, plain backdrop');
+        if (document.getElementById('focusBusy').checked) checked.push('Real world, busy/mixed backdrop');
+        
+        if (checked.length === 0) {
+            alert('Please select at least one option');
+            return;
+        }
+        
+        // Store comma-separated focus values
+        state.currentFocusResponse = checked.join(', ');
+        
+        // Now complete the sequence
+        completeSeq();
+    }
+
+    function recordResponse(val) {
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        var survey = state.currentSurveySeq[state.currentSurveyIdx];
+
+        state.surveyResponses.push({
+            survey: survey,
+            response: val,
+            timestamp: getLocalTimestamp(),
+            globalTime: elapsed,
+            deviation: elapsed - survey.target
+        });
+
+        state.currentSurveyIdx++;
+        showNext();
+    }
+
+    function completeSeq() {
+        clearInterval(state.responseTimer);
+
+        for (var i = 0; i < state.surveyResponses.length; i++) {
+            var sr = state.surveyResponses[i];
+            state.studyData.push({
+                participantId: state.participantId,
+                moderatorInitials: state.moderatorInitials,
+                deviceType: state.deviceType,
+                sessionType: state.sessionType,
+                studyDay: state.studyDay,
+                dailySession: state.dailySession,
+                surveyType: sr.survey.type,
+                timestamp: sr.timestamp,
+                globalTimeSeconds: sr.globalTime,
+                targetTimeSeconds: sr.survey.target,
+                deviationSeconds: sr.deviation,
+                response: sr.response,
+                focus: state.currentFocusResponse,
+                missed: false
+            });
+
+            if (sr.survey.type === 'misc') state.lastCompletedMisc = sr.survey.target;
+            else if (sr.survey.type === 'discomfort') state.lastCompletedDiscomfort = sr.survey.target;
+            else state.lastCompletedEyestrain = sr.survey.target;
+        }
+
+        save();
+        autoDownloadSurvey();
+        returnToWaiting();
+    }
+
+    function missedAll() {
+        clearInterval(state.responseTimer);
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        var ts = getLocalTimestamp();
+
+        for (var i = 0; i < state.surveyResponses.length; i++) {
+            var sr = state.surveyResponses[i];
+            state.studyData.push({
+                participantId: state.participantId,
+                moderatorInitials: state.moderatorInitials,
+                deviceType: state.deviceType,
+                sessionType: state.sessionType,
+                studyDay: state.studyDay,
+                dailySession: state.dailySession,
+                surveyType: sr.survey.type,
+                timestamp: sr.timestamp,
+                globalTimeSeconds: sr.globalTime,
+                targetTimeSeconds: sr.survey.target,
+                deviationSeconds: sr.deviation,
+                response: sr.response,
+                focus: state.currentFocusResponse,
+                missed: false
+            });
+
+            if (sr.survey.type === 'misc') state.lastCompletedMisc = sr.survey.target;
+            else if (sr.survey.type === 'discomfort') state.lastCompletedDiscomfort = sr.survey.target;
+            else state.lastCompletedEyestrain = sr.survey.target;
+        }
+
+        for (var i = state.surveyResponses.length; i < state.currentSurveySeq.length; i++) {
+            var survey = state.currentSurveySeq[i];
+            state.studyData.push({
+                participantId: state.participantId,
+                moderatorInitials: state.moderatorInitials,
+                deviceType: state.deviceType,
+                sessionType: state.sessionType,
+                studyDay: state.studyDay,
+                dailySession: state.dailySession,
+                surveyType: survey.type,
+                timestamp: ts,
+                globalTimeSeconds: elapsed,
+                targetTimeSeconds: survey.target,
+                deviationSeconds: null,
+                response: null,
+                focus: '',
+                missed: true
+            });
+
+            if (survey.type === 'misc') state.lastCompletedMisc = survey.target;
+            else if (survey.type === 'discomfort') state.lastCompletedDiscomfort = survey.target;
+            else state.lastCompletedEyestrain = survey.target;
+        }
+
+        save();
+        autoDownloadSurvey();
+        returnToWaiting();
+    }
+
+    function returnToWaiting() {
+        state.currentPromptActive = false;
+        state.promptOpenedAt = null;
+        state.currentSurveySeq = [];
+        state.currentSurveyIdx = 0;
+        state.surveyResponses = [];
+        state.currentFocusResponse = '';
+        document.getElementById('miscScreen').classList.add('hidden');
+        document.getElementById('discomfortScreen').classList.add('hidden');
+        document.getElementById('eyestrainScreen').classList.add('hidden');
+        document.getElementById('focusScreen').classList.add('hidden');
+        document.getElementById('waitingScreen').classList.remove('hidden');
+        updateNextPrompt();
+    }
+
+    function updateNextPrompt() {
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+
+        var nextM = Math.ceil((elapsed + 1) / state.MISC_INTERVAL) * state.MISC_INTERVAL;
+        while (nextM <= state.lastCompletedMisc) nextM += state.MISC_INTERVAL;
+
+        var nextD = Math.ceil((elapsed + 1) / state.DISCOMFORT_INTERVAL) * state.DISCOMFORT_INTERVAL;
+        while (nextD <= state.lastCompletedDiscomfort) nextD += state.DISCOMFORT_INTERVAL;
+
+        var nextE = Math.ceil((elapsed + 1) / state.EYESTRAIN_INTERVAL) * state.EYESTRAIN_INTERVAL;
+        while (nextE <= state.lastCompletedEyestrain) nextE += state.EYESTRAIN_INTERVAL;
+
+        var next = Math.min(nextM, nextD, nextE);
+
+        if (next >= state.STUDY_DURATION) {
+            document.getElementById('nextPromptInfo').textContent = 'Study ending soon...';
+            return;
+        }
+
+        var m = Math.floor(next / 60);
+        var s = next % 60;
+        var types = [];
+        if (next === nextM) types.push('MISC');
+        if (next === nextD) types.push('Physical Discomfort');
+        if (next === nextE) types.push('Eye Strain');
+
+        document.getElementById('nextPromptInfo').innerHTML =
+            'Next prompt at: ' + pad(m) + ':' + pad(s) +
+            '<br><small style="font-size: 0.9em;">(' + types.join(' + ') + ')</small>';
+    }
+
+    function flash() {
+        var count = 0;
+        var interval = setInterval(function() {
+            if (count % 2 === 0) document.body.classList.add('flash');
+            else document.body.classList.remove('flash');
+            count++;
+            if (count >= 8) {
+                clearInterval(interval);
+                document.body.classList.remove('flash');
+            }
+        }, 500);
+    }
+
+    function submitNote() {
+        var text = document.getElementById('notesInput').value.trim();
+        if (!text) {
+            alert('Please enter a note');
+            return;
+        }
+
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        state.notesData.push({
+            participantId: state.participantId,
+            timestamp: getLocalTimestamp(),
+            globalTimeSeconds: elapsed,
+            note: text
+        });
+
+        save();
+        autoDownloadNotes();
+        document.getElementById('notesInput').value = '';
+        // Note saved successfully (avoiding alert for iPad compatibility)
+        console.log('Note saved');
+    }
+
+    function endEarly() {
+        // Store which screen was active before showing confirmation  
+        state.lastScreenBeforeConfirm = null;
+        if (!document.getElementById('waitingScreen').classList.contains('hidden')) {
+            state.lastScreenBeforeConfirm = 'waiting';
+        } else if (!document.getElementById('miscScreen').classList.contains('hidden')) {
+            state.lastScreenBeforeConfirm = 'misc';
+        } else if (!document.getElementById('discomfortScreen').classList.contains('hidden')) {
+            state.lastScreenBeforeConfirm = 'discomfort';
+        } else if (!document.getElementById('eyestrainScreen').classList.contains('hidden')) {
+            state.lastScreenBeforeConfirm = 'eyestrain';
+        }
+
+        // Update the time display in the confirmation screen
+        var elapsed = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        var minutes = Math.floor(elapsed / 60);
+        var seconds = elapsed % 60;
+        document.getElementById('confirmTimeDisplay').textContent = pad(minutes) + ':' + pad(seconds);
+
+        // Hide all screens and show confirmation
+        document.getElementById('waitingScreen').classList.add('hidden');
+        document.getElementById('miscScreen').classList.add('hidden');
+        document.getElementById('discomfortScreen').classList.add('hidden');
+        document.getElementById('eyestrainScreen').classList.add('hidden');
+        document.getElementById('confirmEndScreen').classList.remove('hidden');
+    }
+    
+    function confirmEndSession() {
+        // User confirmed - end the session
+        clearInterval(state.globalTimer);
+        clearInterval(state.responseTimer);
+        document.getElementById('confirmEndScreen').classList.add('hidden');
+        endStudy();
+    }
+    
+    function cancelEndSession() {
+        // User cancelled - go back to previous screen
+        document.getElementById('confirmEndScreen').classList.add('hidden');
+        
+        // Restore the previous screen
+        if (state.lastScreenBeforeConfirm === 'waiting') {
+            document.getElementById('waitingScreen').classList.remove('hidden');
+        } else if (state.lastScreenBeforeConfirm === 'misc') {
+            document.getElementById('miscScreen').classList.remove('hidden');
+        } else if (state.lastScreenBeforeConfirm === 'discomfort') {
+            document.getElementById('discomfortScreen').classList.remove('hidden');
+        } else if (state.lastScreenBeforeConfirm === 'eyestrain') {
+            document.getElementById('eyestrainScreen').classList.remove('hidden');
+        } else {
+            // Default to waiting screen if somehow no screen was tracked
+            document.getElementById('waitingScreen').classList.remove('hidden');
+        }
+    }
+
+    function endStudy() {
+        clearInterval(state.globalTimer);
+        clearInterval(state.responseTimer);
+        document.getElementById('waitingScreen').classList.add('hidden');
+        document.getElementById('miscScreen').classList.add('hidden');
+        document.getElementById('discomfortScreen').classList.add('hidden');
+        document.getElementById('eyestrainScreen').classList.add('hidden');
+        document.getElementById('notesPanel').classList.add('hidden');
+        document.getElementById('globalTimerDisplay').classList.add('hidden');
+        document.getElementById('confirmEndScreen').classList.add('hidden');
+        
+        // Show interim end screen for lux measurements instead of completion screen
+        document.getElementById('interimEndScreen').classList.remove('hidden');
+    }
+    
+    function finishSession() {
+        // Capture all 12 Lux End values (optional fields)
+        state.loc1LuxEnd1 = document.getElementById('loc1LuxEnd1').value.trim();
+        state.loc1LuxEnd2 = document.getElementById('loc1LuxEnd2').value.trim();
+        state.loc1LuxEnd3 = document.getElementById('loc1LuxEnd3').value.trim();
+        state.loc2LuxEnd1 = document.getElementById('loc2LuxEnd1').value.trim();
+        state.loc2LuxEnd2 = document.getElementById('loc2LuxEnd2').value.trim();
+        state.loc2LuxEnd3 = document.getElementById('loc2LuxEnd3').value.trim();
+        state.loc3LuxEnd1 = document.getElementById('loc3LuxEnd1').value.trim();
+        state.loc3LuxEnd2 = document.getElementById('loc3LuxEnd2').value.trim();
+        state.loc3LuxEnd3 = document.getElementById('loc3LuxEnd3').value.trim();
+        state.loc4LuxEnd1 = document.getElementById('loc4LuxEnd1').value.trim();
+        state.loc4LuxEnd2 = document.getElementById('loc4LuxEnd2').value.trim();
+        state.loc4LuxEnd3 = document.getElementById('loc4LuxEnd3').value.trim();
+        
+        // Download lux file with both Start and End values (same filename as first download)
+        downloadLux();
+        
+        // Hide interim screen and show completion screen
+        document.getElementById('interimEndScreen').classList.add('hidden');
+        document.getElementById('completionScreen').classList.remove('hidden');
+
+        var total = Math.floor((Date.now() - state.studyStartTime) / 1000);
+        var m = Math.floor(total / 60);
+        var s = total % 60;
+
+        document.getElementById('summaryParticipantId').textContent = state.participantId;
+        document.getElementById('summaryModerator').textContent = state.moderatorInitials;
+        document.getElementById('summaryDevice').textContent = state.deviceType;
+        document.getElementById('summarySession').textContent = state.sessionType;
+        document.getElementById('summaryDuration').textContent = m + ':' + pad(s);
+
+        var mResp = 0, mMiss = 0, dResp = 0, dMiss = 0, eResp = 0, eMiss = 0;
+        for (var i = 0; i < state.studyData.length; i++) {
+            if (state.studyData[i].surveyType === 'misc') {
+                if (state.studyData[i].missed) mMiss++; else mResp++;
+            } else if (state.studyData[i].surveyType === 'discomfort') {
+                if (state.studyData[i].missed) dMiss++; else dResp++;
+            } else {
+                if (state.studyData[i].missed) eMiss++; else eResp++;
+            }
+        }
+
+        document.getElementById('summaryMisc').textContent = mResp;
+        document.getElementById('summaryMiscMissed').textContent = mMiss;
+        document.getElementById('summaryDiscomfort').textContent = dResp;
+        document.getElementById('summaryDiscomfortMissed').textContent = dMiss;
+        document.getElementById('summaryEyestrain').textContent = eResp;
+        document.getElementById('summaryEyestrainMissed').textContent = eMiss;
+        document.getElementById('summaryNotes').textContent = state.notesData.length;
+    }
+
+    function save() {
+        localStorage.setItem('eyeqStudyData', JSON.stringify({
+            participantId: state.participantId,
+            moderatorInitials: state.moderatorInitials,
+            deviceType: state.deviceType,
+            sessionType: state.sessionType,
+            studyDay: state.studyDay,
+            dailySession: state.dailySession,
+            loc1LuxStart1: state.loc1LuxStart1,
+            loc1LuxStart2: state.loc1LuxStart2,
+            loc1LuxStart3: state.loc1LuxStart3,
+            loc2LuxStart1: state.loc2LuxStart1,
+            loc2LuxStart2: state.loc2LuxStart2,
+            loc2LuxStart3: state.loc2LuxStart3,
+            loc3LuxStart1: state.loc3LuxStart1,
+            loc3LuxStart2: state.loc3LuxStart2,
+            loc3LuxStart3: state.loc3LuxStart3,
+            loc4LuxStart1: state.loc4LuxStart1,
+            loc4LuxStart2: state.loc4LuxStart2,
+            loc4LuxStart3: state.loc4LuxStart3,
+            loc1LuxEnd1: state.loc1LuxEnd1,
+            loc1LuxEnd2: state.loc1LuxEnd2,
+            loc1LuxEnd3: state.loc1LuxEnd3,
+            loc2LuxEnd1: state.loc2LuxEnd1,
+            loc2LuxEnd2: state.loc2LuxEnd2,
+            loc2LuxEnd3: state.loc2LuxEnd3,
+            loc3LuxEnd1: state.loc3LuxEnd1,
+            loc3LuxEnd2: state.loc3LuxEnd2,
+            loc3LuxEnd3: state.loc3LuxEnd3,
+            loc4LuxEnd1: state.loc4LuxEnd1,
+            loc4LuxEnd2: state.loc4LuxEnd2,
+            loc4LuxEnd3: state.loc4LuxEnd3,
+            studyStartTime: state.studyStartTime,
+            data: state.studyData,
+            notes: state.notesData,
+            downloadCounter: state.downloadCounter,
+            notesCounter: state.notesCounter
+        }));
+    }
+
+    function getDateString() {
+        var d = new Date();
+        return pad(d.getMonth() + 1) + pad(d.getDate()) + d.getFullYear().toString().slice(-2);
+    }
+
+    function getDateTimeString() {
+        var d = new Date();
+        var dateStr = pad(d.getMonth() + 1) + pad(d.getDate()) + d.getFullYear().toString().slice(-2);
+        var timeStr = pad(d.getHours()) + pad(d.getMinutes());
+        return dateStr + '_' + timeStr;
+    }
+
+    function getLocalTimestamp() {
+        var d = new Date();
+        var year = d.getFullYear();
+        var month = pad(d.getMonth() + 1);
+        var day = pad(d.getDate());
+        var hours = pad(d.getHours());
+        var minutes = pad(d.getMinutes());
+        var seconds = pad(d.getSeconds());
+        var ms = d.getMilliseconds().toString().padStart(3, '0');
+        return year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':' + seconds + '.' + ms;
+    }
+
+    function buildFilename(fileType, counter) {
+        // Format: PID_DxSy_filetype_date_time_n.csv
+        var d = new Date();
+        var dateStr = pad(d.getMonth() + 1) + pad(d.getDate()) + d.getFullYear().toString().slice(-2);
+        var timeStr = pad(d.getHours()) + pad(d.getMinutes());
+        var daySession = 'D' + state.studyDay + 'S' + state.dailySession;
+        return state.participantId + '_' + daySession + '_' + fileType + '_' + dateStr + '_' + timeStr + '_' + counter + '.csv';
+    }
+
+    function autoDownloadSurvey() {
+        state.downloadCounter++;
+        save();
+        var csv = 'Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed\n';
+        for (var i = 0; i < state.studyData.length; i++) {
+            var r = state.studyData[i];
+            csv += r.participantId + ',' + r.moderatorInitials + ',' + r.deviceType + ',' +
+                   r.sessionType + ',' + r.studyDay + ',' + r.dailySession + ',' +
+                   r.surveyType + ',' + r.timestamp + ',' +
+                   r.globalTimeSeconds + ',' + r.targetTimeSeconds + ',' +
+                   (r.deviationSeconds !== null ? r.deviationSeconds : 'NA') + ',' +
+                   (r.response !== null ? r.response : 'NA') + ',"' + (r.focus || '') + '",' + r.missed + '\n';
+        }
+        var filename = buildFilename('responses', state.downloadCounter);
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function autoDownloadNotes() {
+        state.notesCounter++;
+        save();
+        var csv = 'Participant ID,Timestamp,Global Time (seconds),Note\n';
+        for (var i = 0; i < state.notesData.length; i++) {
+            var n = state.notesData[i];
+            csv += n.participantId + ',' + n.timestamp + ',' + n.globalTimeSeconds + ',"' +
+                   n.note.replace(/"/g, '""') + '"\n';
+        }
+        var filename = buildFilename('notes', state.notesCounter);
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function exportSurvey() {
+        var csv = 'Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed\n';
+        for (var i = 0; i < state.studyData.length; i++) {
+            var r = state.studyData[i];
+            csv += r.participantId + ',' + r.moderatorInitials + ',' + r.deviceType + ',' +
+                   r.sessionType + ',' + r.studyDay + ',' + r.dailySession + ',' +
+                   r.surveyType + ',' + r.timestamp + ',' +
+                   r.globalTimeSeconds + ',' + r.targetTimeSeconds + ',' +
+                   (r.deviationSeconds !== null ? r.deviationSeconds : 'NA') + ',' +
+                   (r.response !== null ? r.response : 'NA') + ',"' + (r.focus || '') + '",' + r.missed + '\n';
+        }
+        var filename = buildFilename('responses_final', state.downloadCounter);
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function exportNotes() {
+        if (state.notesData.length === 0) {
+            alert('No notes to export');
+            return;
+        }
+        var csv = 'Participant ID,Timestamp,Global Time (seconds),Note\n';
+        for (var i = 0; i < state.notesData.length; i++) {
+            var n = state.notesData[i];
+            csv += n.participantId + ',' + n.timestamp + ',' + n.globalTimeSeconds + ',"' +
+                   n.note.replace(/"/g, '""') + '"\n';
+        }
+        var filename = buildFilename('notes_final', state.notesCounter);
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function exportLux() {
+        // Create CSV in long format with one row per measurement
+        var csv = 'Start_End,Location,Iteration,Lux_value\n';
+        
+        // Add Start measurements for all 4 locations
+        csv += 'Start,1,1,' + (state.loc1LuxStart1 || '') + '\n';
+        csv += 'Start,1,2,' + (state.loc1LuxStart2 || '') + '\n';
+        csv += 'Start,1,3,' + (state.loc1LuxStart3 || '') + '\n';
+        csv += 'Start,2,1,' + (state.loc2LuxStart1 || '') + '\n';
+        csv += 'Start,2,2,' + (state.loc2LuxStart2 || '') + '\n';
+        csv += 'Start,2,3,' + (state.loc2LuxStart3 || '') + '\n';
+        csv += 'Start,3,1,' + (state.loc3LuxStart1 || '') + '\n';
+        csv += 'Start,3,2,' + (state.loc3LuxStart2 || '') + '\n';
+        csv += 'Start,3,3,' + (state.loc3LuxStart3 || '') + '\n';
+        csv += 'Start,4,1,' + (state.loc4LuxStart1 || '') + '\n';
+        csv += 'Start,4,2,' + (state.loc4LuxStart2 || '') + '\n';
+        csv += 'Start,4,3,' + (state.loc4LuxStart3 || '') + '\n';
+        
+        // Add End measurements for all 4 locations
+        csv += 'End,1,1,' + (state.loc1LuxEnd1 || '') + '\n';
+        csv += 'End,1,2,' + (state.loc1LuxEnd2 || '') + '\n';
+        csv += 'End,1,3,' + (state.loc1LuxEnd3 || '') + '\n';
+        csv += 'End,2,1,' + (state.loc2LuxEnd1 || '') + '\n';
+        csv += 'End,2,2,' + (state.loc2LuxEnd2 || '') + '\n';
+        csv += 'End,2,3,' + (state.loc2LuxEnd3 || '') + '\n';
+        csv += 'End,3,1,' + (state.loc3LuxEnd1 || '') + '\n';
+        csv += 'End,3,2,' + (state.loc3LuxEnd2 || '') + '\n';
+        csv += 'End,3,3,' + (state.loc3LuxEnd3 || '') + '\n';
+        csv += 'End,4,1,' + (state.loc4LuxEnd1 || '') + '\n';
+        csv += 'End,4,2,' + (state.loc4LuxEnd2 || '') + '\n';
+        csv += 'End,4,3,' + (state.loc4LuxEnd3 || '') + '\n';
+        
+        // Format: PID_DxSy_lux_final_date_time_1.csv
+        var d = new Date();
+        var dateStr = pad(d.getMonth() + 1) + pad(d.getDate()) + d.getFullYear().toString().slice(-2);
+        var timeStr = pad(d.getHours()) + pad(d.getMinutes());
+        var daySession = 'D' + state.studyDay + 'S' + state.dailySession;
+        var filename = state.participantId + '_' + daySession + '_lux_final_' + dateStr + '_' + timeStr + '_1.csv';
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function downloadLux() {
+        // Create CSV in long format with one row per measurement
+        var csv = 'Start_End,Location,Iteration,Lux_value\n';
+        
+        // Add Start measurements for all 4 locations
+        csv += 'Start,1,1,' + (state.loc1LuxStart1 || '') + '\n';
+        csv += 'Start,1,2,' + (state.loc1LuxStart2 || '') + '\n';
+        csv += 'Start,1,3,' + (state.loc1LuxStart3 || '') + '\n';
+        csv += 'Start,2,1,' + (state.loc2LuxStart1 || '') + '\n';
+        csv += 'Start,2,2,' + (state.loc2LuxStart2 || '') + '\n';
+        csv += 'Start,2,3,' + (state.loc2LuxStart3 || '') + '\n';
+        csv += 'Start,3,1,' + (state.loc3LuxStart1 || '') + '\n';
+        csv += 'Start,3,2,' + (state.loc3LuxStart2 || '') + '\n';
+        csv += 'Start,3,3,' + (state.loc3LuxStart3 || '') + '\n';
+        csv += 'Start,4,1,' + (state.loc4LuxStart1 || '') + '\n';
+        csv += 'Start,4,2,' + (state.loc4LuxStart2 || '') + '\n';
+        csv += 'Start,4,3,' + (state.loc4LuxStart3 || '') + '\n';
+        
+        // Add End measurements for all 4 locations
+        csv += 'End,1,1,' + (state.loc1LuxEnd1 || '') + '\n';
+        csv += 'End,1,2,' + (state.loc1LuxEnd2 || '') + '\n';
+        csv += 'End,1,3,' + (state.loc1LuxEnd3 || '') + '\n';
+        csv += 'End,2,1,' + (state.loc2LuxEnd1 || '') + '\n';
+        csv += 'End,2,2,' + (state.loc2LuxEnd2 || '') + '\n';
+        csv += 'End,2,3,' + (state.loc2LuxEnd3 || '') + '\n';
+        csv += 'End,3,1,' + (state.loc3LuxEnd1 || '') + '\n';
+        csv += 'End,3,2,' + (state.loc3LuxEnd2 || '') + '\n';
+        csv += 'End,3,3,' + (state.loc3LuxEnd3 || '') + '\n';
+        csv += 'End,4,1,' + (state.loc4LuxEnd1 || '') + '\n';
+        csv += 'End,4,2,' + (state.loc4LuxEnd2 || '') + '\n';
+        csv += 'End,4,3,' + (state.loc4LuxEnd3 || '') + '\n';
+        
+        // Format: PID_DxSy_lux_date_time_1.csv
+        var d = new Date();
+        var dateStr = pad(d.getMonth() + 1) + pad(d.getDate()) + d.getFullYear().toString().slice(-2);
+        var timeStr = pad(d.getHours()) + pad(d.getMinutes());
+        var daySession = 'D' + state.studyDay + 'S' + state.dailySession;
+        var filename = state.participantId + '_' + daySession + '_lux_' + dateStr + '_' + timeStr + '_1.csv';
+        downloadWithDir(csv, filename, 'text/csv');
+    }
+
+    function downloadWithDir(content, filename, type) {
+        var fullPath = filename;
+        var blob = new Blob([content], {type: type});
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = fullPath;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    function pad(n) {
+        return n.toString().padStart(2, '0');
+    }
+
+    init();
+})();
+</script>
+</body>
+</html>

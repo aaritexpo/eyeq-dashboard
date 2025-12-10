@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:23:45.948,560,600,-40,0,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:23:48.765,562,600,-38,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:33:50.918,1165,1200,-35,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:33:56.731,1170,1200,-30,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:43:43.430,1757,1800,-43,0,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 15:43:49.770,1763,1800,-37,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:43:57.480,1771,1800,-29,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:53:43.914,2358,2400,-42,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:53:45.062,2359,2400,-41,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:03:43.419,2957,3000,-43,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:03:44.752,2958,3000,-42,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:13:46.147,3560,3600,-40,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 16:13:47.564,3561,3600,-39,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:13:50.226,3564,3600,-36,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:23:53.469,4167,4200,-33,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:23:55.552,4169,4200,-31,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:33:53.479,4767,4800,-33,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:33:58.678,4772,4800,-28,2,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:43:48.272,5362,5400,-38,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 16:43:49.870,5364,5400,-36,1,"Glasses screen, Phone screen",false
+1015,RO,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:43:52.671,5366,5400,-34,2,"Glasses screen, Phone screen",false

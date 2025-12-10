@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:21:37.021,595,600,-5,0,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:21:42.632,600,600,0,1,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:31:33.479,1191,1200,-9,0,"Glasses screen",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:31:37.603,1195,1200,-5,1,"Glasses screen",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:41:37.528,1795,1800,-5,1,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,discomfort,2025-10-30 13:41:41.257,1799,1800,-1,2,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:41:50.730,1809,1800,9,2,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:51:35.637,2394,2400,-6,0,"Real world, busy/mixed backdrop",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:51:39.719,2398,2400,-2,2,"Real world, busy/mixed backdrop",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 14:01:33.325,2991,3000,-9,0,"Real world, busy/mixed backdrop",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 14:01:36.689,2995,3000,-5,1,"Real world, busy/mixed backdrop",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 14:11:34.369,3592,3600,-8,0,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,discomfort,2025-10-30 14:11:40.067,3598,3600,-2,2,"",false
+10029,KM,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 14:11:49.208,3607,3600,7,1,"",false

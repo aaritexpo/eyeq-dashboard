@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Missed
+8,WJ,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:08:02.142Z,605,600,5,0,false
+8,WJ,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:08:11.806Z,615,600,NA,NA,true
+8,WJ,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:17:53.006Z,1196,1200,-4,0,false
+8,WJ,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:17:57.165Z,1200,1200,0,3,false

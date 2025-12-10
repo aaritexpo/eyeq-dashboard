@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:08:28.135,572,600,-28,0,"Real world, busy/mixed backdrop",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:08:32.118,576,600,-24,1,"Real world, busy/mixed backdrop",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:18:24.944,1168,1200,-32,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:18:32.291,1176,1200,-24,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:28:26.198,1770,1800,-30,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-11-10 10:28:47.010,1791,1800,-9,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:29:00.488,1804,1800,4,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:38:37.705,2381,2400,-19,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:38:40.686,2384,2400,-16,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:48:32.278,2976,3000,-24,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:48:36.042,2980,3000,-20,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 10:58:36.434,3580,3600,-20,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-11-10 10:58:38.512,3582,3600,-18,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 10:58:45.534,3589,3600,-11,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 11:08:22.962,4166,4200,-34,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 11:08:26.778,4170,4200,-30,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 11:18:21.873,4765,4800,-35,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 11:18:23.672,4767,4800,-33,1,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 11:28:30.851,5374,5400,-26,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-11-10 11:28:38.615,5382,5400,-18,0,"Glasses screen",false
+1048,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 11:28:43.047,5387,5400,-13,1,"Glasses screen",false

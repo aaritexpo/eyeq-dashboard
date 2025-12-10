@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 08:59:56.488,603,600,3,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 08:59:58.173,604,600,4,1,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 09:09:19.830,1166,1200,-34,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 09:09:21.592,1168,1200,-32,1,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 09:19:16.088,1762,1800,-38,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-04 09:19:18.255,1764,1800,-36,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 09:19:20.293,1766,1800,-34,1,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 09:29:16.219,2362,2400,-38,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 09:29:18.483,2365,2400,-35,1,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 09:39:23.267,2969,3000,-31,0,"Phone screen",false
+1032,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 09:39:28.581,2975,3000,-25,1,"Phone screen",false

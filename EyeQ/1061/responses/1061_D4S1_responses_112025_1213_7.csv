@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 11:13:33.448,562,600,-38,0,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 11:13:35.661,564,600,-36,1,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 11:23:40.726,1169,1200,-31,0,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 11:23:42.489,1171,1200,-29,1,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 11:33:33.306,1762,1800,-38,0,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,discomfort,2025-11-20 11:33:34.806,1763,1800,-37,0,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 11:33:36.704,1765,1800,-35,1,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 11:44:27.498,2416,2400,16,2,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 11:44:32.884,2421,2400,21,1,"Glasses screen, Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 11:53:36.298,2965,3000,-35,0,"Glasses screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 11:53:39.900,2968,3000,-32,1,"Glasses screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 12:03:31.804,3560,3600,-40,0,"Glasses screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,discomfort,2025-11-20 12:03:35.870,3564,3600,-36,0,"Glasses screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 12:03:38.253,3567,3600,-33,1,"Glasses screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,misc,2025-11-20 12:13:37.019,4166,4200,-34,0,"Phone screen",false
+1061,KAM,AI Glasses & Neural Band,Watching,4,1,eyestrain,2025-11-20 12:13:39.715,4168,4200,-32,1,"Phone screen",false

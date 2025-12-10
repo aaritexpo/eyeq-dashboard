@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1005,KAM,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-05 15:52:24.457,562,600,-38,0,"Real world, plain backdrop",false
+1005,KAM,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-05 15:52:26.221,564,600,-36,1,"Real world, plain backdrop",false
+1005,KAM,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-05 16:02:22.042,1160,1200,-40,0,"Real world, plain backdrop",false
+1005,KAM,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-05 16:02:24.461,1162,1200,-38,1,"Real world, plain backdrop",false

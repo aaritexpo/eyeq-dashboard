@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-03 15:10:15.454,563,600,-37,0,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-03 15:10:18.647,567,600,-33,1,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-03 15:20:13.636,1162,1200,-38,0,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-03 15:20:15.971,1164,1200,-36,1,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-03 15:30:20.778,1769,1800,-31,0,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-03 15:30:27.760,1776,1800,-24,0,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-03 15:30:35.657,1784,1800,-16,1,"Phone screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-03 15:40:19.112,2367,2400,-33,0,"Glasses screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-03 15:40:21.075,2369,2400,-31,1,"Glasses screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-03 15:50:13.714,2962,3000,-38,0,"Glasses screen",false
+1031,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-03 15:50:16.179,2964,3000,-36,1,"Glasses screen",false

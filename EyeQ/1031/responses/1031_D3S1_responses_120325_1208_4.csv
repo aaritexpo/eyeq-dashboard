@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 11:38:51.243,566,600,-34,1,"Glasses screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 11:38:54.812,570,600,-30,1,"Glasses screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 11:48:50.940,1166,1200,-34,0,"Glasses screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 11:48:53.606,1168,1200,-32,1,"Glasses screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 11:58:51.371,1766,1800,-34,0,"Phone screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 11:58:55.883,1771,1800,-29,0,"Phone screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 11:58:59.965,1775,1800,-25,1,"Phone screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:08:47.937,2363,2400,-37,0,"Phone screen",false
+1031,RSI,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:08:50.634,2365,2400,-35,1,"Phone screen",false

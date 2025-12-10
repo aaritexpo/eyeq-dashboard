@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:53:09.911,572,600,-28,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:53:22.626,584,600,-16,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:03:01.208,1163,1200,-37,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:03:09.386,1171,1200,-29,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:13:02.641,1764,1800,-36,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 16:13:13.636,1775,1800,-25,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:13:28.018,1790,1800,-10,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:23:10.647,2372,2400,-28,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:23:16.280,2378,2400,-22,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:33:05.873,2967,3000,-33,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:33:12.037,2974,3000,-26,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:43:04.333,3566,3600,-34,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 16:43:17.043,3579,3600,-21,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:43:28.738,3590,3600,-10,4,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:53:14.830,4176,4200,-24,4,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:53:21.410,4183,4200,-17,4,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 17:03:04.923,4767,4800,-33,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 17:03:10.825,4772,4800,-28,4,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 17:13:08.931,5371,5400,-29,4,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 17:13:19.275,5381,5400,-19,3,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 17:13:25.606,5387,5400,-13,4,"Real world, busy/mixed backdrop",false

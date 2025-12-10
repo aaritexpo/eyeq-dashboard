@@ -1,0 +1,23 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,57:12.5,563,600,-37,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,57:15.1,566,600,-34,1,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,07:12.2,1163,1200,-37,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,07:17.0,1168,1200,-32,2,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,17:13.8,1765,1800,-35,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,17:24.9,1776,1800,-24,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,17:27.8,1779,1800,-21,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,27:13.2,2364,2400,-36,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,27:16.3,2367,2400,-33,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,37:16.3,2967,3000,-33,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,37:21.9,2973,3000,-27,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,47:09.2,3560,3600,-40,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,47:14.3,3565,3600,-35,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,47:20.9,3572,3600,-28,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,57:33.5,4184,4200,-16,0,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,57:40.4,4191,4200,-9,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,07:14.8,4766,4800,-34,2,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,07:19.4,4770,4800,-30,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,17:15.1,5366,5400,-34,2,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,17:20.5,5371,5400,-29,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,17:24.8,5376,5400,-24,3,Glasses screen,FALSE
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,21:54.3,5645,5645,0,10,,FALSE

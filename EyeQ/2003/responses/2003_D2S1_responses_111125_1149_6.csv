@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 10:59:38.025,567,600,-33,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 10:59:40.430,569,600,-31,1,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 11:09:43.307,1172,1200,-28,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 11:09:45.325,1174,1200,-26,1,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 11:19:38.718,1767,1800,-33,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-11-11 11:19:41.515,1770,1800,-30,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 11:19:43.915,1773,1800,-27,1,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 11:29:42.075,2371,2400,-29,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 11:29:43.906,2373,2400,-27,1,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 11:40:01.836,2991,3000,-9,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 11:40:04.071,2993,3000,-7,1,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-11 11:49:42.770,3571,3600,-29,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-11-11 11:49:44.956,3574,3600,-26,0,"Glasses screen",false
+2003,ABG,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-11 11:49:47.336,3576,3600,-24,1,"Glasses screen",false

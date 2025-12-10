@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 14:17:26.621,570,600,-30,0,"Phone screen, Real world, plain backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 14:17:30.212,573,600,-27,2,"Phone screen, Real world, plain backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 14:27:16.254,1159,1200,-41,1,"Phone screen, Real world, plain backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 14:27:18.261,1161,1200,-39,2,"Phone screen, Real world, plain backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 14:37:15.243,1758,1800,-42,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,discomfort,2025-11-06 14:37:18.001,1761,1800,-39,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 14:37:22.365,1765,1800,-35,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 14:47:50.023,2393,2400,-7,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 14:47:52.731,2396,2400,-4,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 14:57:33.915,2977,3000,-23,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 14:57:36.054,2979,3000,-21,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 15:07:20.353,3563,3600,-37,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,discomfort,2025-11-06 15:07:23.180,3566,3600,-34,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 15:07:25.729,3569,3600,-31,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 15:17:16.112,4159,4200,-41,0,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 15:17:19.992,4163,4200,-37,2,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 15:27:24.628,4768,4800,-32,0,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 15:27:26.744,4770,4800,-30,2,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,misc,2025-11-06 15:37:19.650,5363,5400,-37,0,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,discomfort,2025-11-06 15:37:21.109,5364,5400,-36,0,"Phone screen",false
+1048,MAX,Gen 2 Glasses,Discover & Learn,eyestrain,2025-11-06 15:37:22.692,5366,5400,-34,2,"Phone screen",false

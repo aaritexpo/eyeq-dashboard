@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1006,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-11-12 15:03:13.410,636,600,36,0,"",false
+1006,MNA,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-11-12 15:03:18.320,641,600,41,2,"",false

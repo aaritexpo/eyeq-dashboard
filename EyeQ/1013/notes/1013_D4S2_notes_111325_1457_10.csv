@@ -1,0 +1,11 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1013,2025-11-13 13:08:13.886,153,"PT is trying to send multiple photos at a time using meta"
+1013,2025-11-13 13:11:24.041,343,"PT is trying to zoom the camera"
+1013,2025-11-13 13:12:22.302,401,"Won’t allow PT to send a photo"
+1013,2025-11-13 13:13:08.488,447,"Glasses are telling PT that it doesn’t have the ability to do that on the glasses"
+1013,2025-11-13 13:21:52.701,971,"PT noted that you have to import the photos to the phone each time and that it’s not automatic"
+1013,2025-11-13 14:15:00.183,4159,"PT was struggling to get the glasses to read messages to them."
+1013,2025-11-13 14:30:33.949,5093,"Meta is struggling to pickup voice"
+1013,2025-11-13 14:31:39.666,5158,"PT says they have to repeat things, causing frustration"
+1013,2025-11-13 14:51:45.322,6364,"When asking meta about the closest grocery store it send PT to a money transfer spot"
+1013,2025-11-13 14:57:27.754,6706,"Meta has talked over PT a few times, PT says it’s frustrating"

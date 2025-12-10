@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:21:37.526,591,600,-9,0,"",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:21:44.955,599,600,-1,1,"",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:31:34.395,1188,1200,-12,0,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:31:38.442,1192,1200,-8,1,"Glasses screen",false

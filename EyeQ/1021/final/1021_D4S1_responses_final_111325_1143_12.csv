@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,45:32.8,567,600,-33,0,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,45:33.9,568,600,-32,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,56:37.0,1231,1200,31,0,"Glasses screen, Phone screen",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,56:39.3,1233,1200,33,1,"Glasses screen, Phone screen",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,05:34.6,1768,1800,-32,0,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,discomfort,05:35.6,1769,1800,-31,0,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,05:36.5,1770,1800,-30,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,15:34.8,2368,2400,-32,0,Glasses screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,15:36.0,2370,2400,-30,1,Glasses screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,25:32.0,2966,3000,-34,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,25:39.4,2973,3000,-27,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,35:37.3,3571,3600,-29,1,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,discomfort,35:43.6,3577,3600,-23,2,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,35:47.9,3582,3600,-18,3,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,45:49.7,4183,4200,-17,1,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,45:51.4,4185,4200,-15,2,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,55:31.7,4765,4800,-35,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,55:33.6,4767,4800,-33,2,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,05:31.9,5366,5400,-34,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,discomfort,05:33.7,5367,5400,-33,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,05:35.1,5369,5400,-31,2,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,15:35.4,5969,6000,-31,1,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,15:36.7,5970,6000,-30,2,Phone screen,FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,25:29.5,6563,6600,-37,1,"Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,25:30.9,6565,6600,-35,2,"Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,misc,35:28.8,7163,7200,-37,0,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,discomfort,35:31.7,7165,7200,-35,0,"Glasses screen, Real world, plain backdrop",FALSE
+1021,Jh,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,35:33.6,7167,7200,-33,2,"Glasses screen, Real world, plain backdrop",FALSE

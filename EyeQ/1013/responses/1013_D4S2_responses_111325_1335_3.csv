@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:15:23.418,582,600,-18,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:15:25.447,584,600,-16,1,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:25:04.449,1163,1200,-37,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:25:06.150,1165,1200,-35,1,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:35:03.945,1763,1800,-37,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-11-13 13:35:05.097,1764,1800,-36,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:35:06.575,1765,1800,-35,1,"Phone screen",false

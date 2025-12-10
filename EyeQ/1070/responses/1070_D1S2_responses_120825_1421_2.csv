@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1070,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:11:00.433,564,600,-36,0,"Glasses screen",false
+1070,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:11:02.082,566,600,-34,1,"Glasses screen",false
+1070,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:20:59.686,1163,1200,-37,0,"Glasses screen",false
+1070,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:21:01.066,1165,1200,-35,1,"Glasses screen",false

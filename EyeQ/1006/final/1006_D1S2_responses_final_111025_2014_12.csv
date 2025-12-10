@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 18:16:59.982,568,600,-32,3,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 18:17:06.130,574,600,-26,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 18:27:05.359,1173,1200,-27,3,"Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 18:27:10.458,1178,1200,-22,4,"Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 18:37:03.278,1771,1800,-29,3,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 18:37:09.494,1777,1800,-23,2,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 18:37:13.294,1781,1800,-19,3,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 18:46:59.787,2368,2400,-32,2,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 18:47:14.531,2383,2400,-17,3,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 18:56:58.446,2966,3000,-34,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 18:57:04.410,2972,3000,-28,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:06:57.252,3565,3600,-35,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 19:07:03.566,3572,3600,-28,3,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:07:12.942,3581,3600,-19,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:17:02.720,4171,4200,-29,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:17:07.869,4176,4200,-24,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:27:00.891,4769,4800,-31,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:27:06.039,4774,4800,-26,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:36:57.686,5366,5400,-34,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 19:37:05.463,5373,5400,-27,3,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:37:10.208,5378,5400,-22,3,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:46:59.225,5967,6000,-33,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:47:04.924,5973,6000,-27,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 19:56:54.702,6563,6600,-37,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 19:56:59.018,6567,6600,-33,4,"Glasses screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 20:06:58.376,7166,7200,-34,4,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 20:07:05.326,7173,7200,-27,3,"Glasses screen, Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 20:07:08.567,7177,7200,-23,4,"Glasses screen, Phone screen",false

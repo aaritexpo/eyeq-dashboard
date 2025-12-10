@@ -1,0 +1,3 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+2003,2025-11-13 13:40:39.285,89,"Participant first took a picture, then opened WhatsApp and asked WhatsApp to send the picture. Didn’t work, meta took his command as dictation,"
+2003,2025-11-13 13:41:27.536,137,"Took a picture and asked meta to send that picture to moderator. Meta was able to send picture."

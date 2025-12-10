@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+GTR,2025-12-01 12:35:28.666,112,"Participant is not familiar with Apple products and was unsure about how to prompt the unlock code screen"
+GTR,2025-12-01 12:40:25.954,410,"Meta AI app would not allow participant to continue onto next step after neural band and glasses had been paired"
+GTR,2025-12-01 12:41:48.244,492,"Meta AI app alerting user that it cannot connect to glasses"

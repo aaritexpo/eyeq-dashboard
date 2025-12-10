@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1008,MAX,AI Glasses & Neural Band,Watching,misc,2025-11-04 16:45:22.310,562,600,-38,0,"Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 16:45:29.060,569,600,-31,1,"Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,misc,2025-11-04 16:55:21.506,1161,1200,-39,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 16:55:23.138,1163,1200,-37,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,misc,2025-11-04 17:05:18.994,1759,1800,-41,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,discomfort,2025-11-04 17:05:23.363,1763,1800,-37,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 17:05:25.711,1765,1800,-35,1,"Glasses screen, Real world, busy/mixed backdrop",false

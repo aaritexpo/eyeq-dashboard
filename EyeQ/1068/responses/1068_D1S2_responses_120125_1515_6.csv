@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 14:25:24.714,564,600,-36,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 14:25:26.231,566,600,-34,1,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 14:35:22.871,1162,1200,-38,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 14:35:24.587,1164,1200,-36,1,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 14:45:21.093,1761,1800,-39,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-01 14:45:22.630,1762,1800,-38,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 14:45:23.991,1763,1800,-37,1,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 14:55:23.067,2363,2400,-37,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 14:55:24.316,2364,2400,-36,1,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 15:05:21.885,2961,3000,-39,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 15:05:23.316,2963,3000,-37,1,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-01 15:15:23.439,3563,3600,-37,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-01 15:15:24.656,3564,3600,-36,0,"Glasses screen, Phone screen",false
+1068,KAM,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-01 15:15:27.853,3567,3600,-33,1,"Glasses screen, Phone screen",false

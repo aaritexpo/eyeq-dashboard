@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:27:00.038,561,600,-39,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:27:02.319,563,600,-37,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:36:58.705,1160,1200,-40,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:37:00.300,1161,1200,-39,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:46:56.310,1757,1800,-43,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 12:46:58.681,1760,1800,-40,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:47:00.348,1761,1800,-39,1,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:57:01.194,2362,2400,-38,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:57:03.643,2365,2400,-35,1,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:06:57.326,2958,3000,-42,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:06:59.745,2961,3000,-39,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:17:13.822,3575,3600,-25,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 13:17:16.538,3577,3600,-23,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:17:17.970,3579,3600,-21,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:26:58.607,4160,4200,-40,0,"Phone screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:27:00.526,4161,4200,-39,1,"Phone screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:36:59.427,4760,4800,-40,0,"Phone screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:37:01.609,4763,4800,-37,1,"Phone screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:47:05.030,5366,5400,-34,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 13:47:06.700,5368,5400,-32,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:47:08.601,5370,5400,-30,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 13:56:58.041,5959,6000,-41,0,"Glasses screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 13:56:59.511,5960,6000,-40,1,"Glasses screen",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 14:07:00.646,6562,6600,-38,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 14:07:02.610,6564,6600,-36,1,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 14:17:00.420,7161,7200,-39,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 14:17:01.802,7163,7200,-37,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 14:17:03.517,7164,7200,-36,1,"Phone screen, Real world, plain backdrop",false

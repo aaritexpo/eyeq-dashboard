@@ -1,0 +1,8 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1063,2025-12-02 10:58:21.613,193,"Connection issue with glasses"
+1063,2025-12-02 11:01:35.424,387,"Glasses paired successfully."
+1063,2025-12-02 11:04:57.323,589,"User found the image."
+1063,2025-12-02 11:05:41.505,633,"User is requesting the image from meta ai"
+1063,2025-12-02 11:06:00.983,652,"User found the image by himself"
+1063,2025-12-02 11:07:25.725,737,"User found image 2 in WhatsApp"
+1063,2025-12-02 11:07:47.836,759,"User asked meta ai to find image 2"

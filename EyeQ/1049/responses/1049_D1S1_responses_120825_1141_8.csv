@@ -1,0 +1,19 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 10:31:32.210,593,600,-7,0,"Phone screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 10:31:44.940,605,600,5,1,"Phone screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 10:41:41.958,1202,1200,2,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 10:41:52.671,1213,1200,13,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 10:51:31.900,1792,1800,-8,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-08 10:51:39.019,1799,1800,-1,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 10:51:44.564,1805,1800,5,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:01:05.820,2366,2400,-34,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:01:16.899,2377,2400,-23,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:11:05.971,2966,3000,-34,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:11:13.383,2974,3000,-26,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:21:08.803,3569,3600,-31,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-08 11:21:10.999,3571,3600,-29,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:21:13.024,3573,3600,-27,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:31:05.419,4166,4200,-34,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:31:06.803,4167,4200,-33,1,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:41:10.877,4771,4800,-29,0,"Glasses screen",false
+1049,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:41:18.679,4779,4800,-21,1,"Glasses screen",false

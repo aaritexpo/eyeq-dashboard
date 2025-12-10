@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 16:48:24.547,566,600,-34,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 16:48:28.012,569,600,-31,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 16:58:27.204,1168,1200,-32,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 16:58:29.787,1171,1200,-29,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 17:08:37.583,1779,1800,-21,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 17:08:42.693,1784,1800,-16,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 17:08:47.362,1788,1800,-12,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 17:18:25.911,2367,2400,-33,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 17:18:29.373,2370,2400,-30,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 17:28:16.899,2958,3000,-42,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 17:28:25.546,2967,3000,-33,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-11-10 17:38:32.104,3573,3600,-27,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-11-10 17:38:40.803,3582,3600,-18,3,"Glasses screen, Real world, busy/mixed backdrop",false
+1047,MAX,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-11-10 17:38:43.860,3585,3600,-15,1,"Glasses screen, Real world, busy/mixed backdrop",false

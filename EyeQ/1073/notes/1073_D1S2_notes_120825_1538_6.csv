@@ -1,0 +1,7 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1073,2025-12-08 15:33:40.630,22,"User takes the wristband and wears it"
+1073,2025-12-08 15:34:51.754,93,"User wears the glasses and starts taking photos"
+1073,2025-12-08 15:36:01.660,163,"User discovers the wristband is wrong way around, they take it off and wear it correctly"
+1073,2025-12-08 15:36:27.568,189,"User asks meta to take a photo"
+1073,2025-12-08 15:36:43.812,205,"User sends a photo to moderator through WhatsApp by asking meta ai"
+1073,2025-12-08 15:38:51.479,333,"User is trying to open the meta camera app to take photos"

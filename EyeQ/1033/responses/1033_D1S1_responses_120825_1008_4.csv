@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 09:38:41.704,592,600,-8,0,"Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 09:38:48.417,599,600,-1,1,"Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 09:48:14.015,1164,1200,-36,0,"Phone screen",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 09:48:16.679,1167,1200,-33,1,"Phone screen",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 09:58:40.519,1791,1800,-9,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-08 09:58:42.902,1793,1800,-7,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 09:58:46.184,1797,1800,-3,1,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 10:08:13.148,2363,2400,-37,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1033,BDY,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 10:08:15.586,2366,2400,-34,1,"Glasses screen, Phone screen, Real world, plain backdrop",false

@@ -1,0 +1,28 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,20:57.7,564,600,-36,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,21:00.4,567,600,-33,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,30:59.7,1166,1200,-34,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,31:01.9,1169,1200,-31,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,40:55.9,1763,1800,-37,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,discomfort,40:58.3,1765,1800,-35,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,41:00.3,1767,1800,-33,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,,,2400,NA,NA,,TRUE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,,,2400,NA,NA,,TRUE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,59:48.6,2965,3000,-35,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,59:51.5,2968,3000,-32,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,09:47.2,3564,3600,-36,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,09:48.9,3566,3600,-34,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,19:58.6,4175,4200,-25,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,discomfort,20:00.7,4177,4200,-23,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,20:02.4,4179,4200,-21,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,29:50.1,4767,4800,-33,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,29:51.8,4769,4800,-31,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,40:13.9,5391,5400,-9,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,40:15.3,5392,5400,-8,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,49:45.5,5962,6000,-38,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,discomfort,49:47.1,5964,6000,-36,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,49:49.2,5966,6000,-34,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,59:45.3,6562,6600,-38,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,59:47.1,6564,6600,-36,1,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,misc,10:01.4,7178,7200,-22,0,Glasses screen,FALSE
+1026,Jh,Gen 2 Glasses,Capture & Share,3,1,eyestrain,10:02.9,7180,7200,-20,1,Glasses screen,FALSE

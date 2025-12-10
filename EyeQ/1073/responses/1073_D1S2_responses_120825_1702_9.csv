@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 15:42:38.942,560,600,-40,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 15:42:41.015,562,600,-38,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 15:52:43.985,1165,1200,-35,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 15:52:44.928,1166,1200,-34,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:02:39.660,1761,1800,-39,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 16:02:40.658,1762,1800,-38,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:02:41.676,1763,1800,-37,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:12:44.221,2365,2400,-35,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:12:45.819,2367,2400,-33,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:22:40.149,2961,3000,-39,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:22:41.673,2963,3000,-37,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:32:38.129,3559,3600,-41,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 16:32:39.300,3561,3600,-39,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:32:40.265,3562,3600,-38,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:42:47.707,4169,4200,-31,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:42:48.886,4170,4200,-30,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 16:52:48.764,4770,4800,-30,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 16:52:49.743,4771,4800,-29,1,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 17:02:51.237,5372,5400,-28,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 17:02:52.450,5374,5400,-26,0,"Glasses screen, Phone screen",false
+1073,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 17:02:53.449,5375,5400,-25,1,"Glasses screen, Phone screen",false

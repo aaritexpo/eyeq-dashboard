@@ -1,0 +1,9 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1032,2025-12-01 15:18:30.384,124,"User not able to view the home page on the glasses"
+1032,2025-12-01 15:27:35.603,669,"User able to view Home Screen through the glasses now and navigate through the glasses."
+1032,2025-12-01 15:28:34.047,728,"There was a lag in sending videos through WhatsApp."
+1032,2025-12-01 15:30:27.902,842,"User reports that displays in the glasses are faint when looking at a lighter background."
+1032,2025-12-01 15:34:48.488,1102,"It could only record videos for 15s"
+1032,2025-12-01 15:35:40.409,1154,"During capture and share- meta reported great the glasses were hot and would have to cool"
+1032,2025-12-01 15:38:29.126,1323,"Some recorded videos were not actually being sent on WhatsApp - could possibly be a lag in the transmission."
+1032,2025-12-01 15:41:23.273,1497,"Band keeps disconnecting during the session."

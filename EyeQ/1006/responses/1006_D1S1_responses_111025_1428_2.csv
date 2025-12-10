@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1006,MNB,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 14:18:17.893,570,600,-30,0,"Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 14:18:25.772,578,600,-22,1,"Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-11-10 14:28:37.761,1190,1200,-10,0,"Phone screen",false
+1006,MNB,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-11-10 14:28:43.989,1196,1200,-4,1,"Phone screen",false
