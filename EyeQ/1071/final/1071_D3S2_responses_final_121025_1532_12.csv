@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:39:55.582,569,600,-31,0,"Phone screen",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:39:56.951,570,600,-30,1,"Phone screen",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:49:48.418,1162,1200,-38,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:49:49.561,1163,1200,-37,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:59:49.790,1763,1800,-37,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 13:59:52.469,1766,1800,-34,2,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:59:54.487,1768,1800,-32,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:09:48.981,2362,2400,-38,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:09:50.579,2364,2400,-36,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:19:48.988,2962,3000,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:19:50.487,2964,3000,-36,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:29:51.985,3565,3600,-35,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 14:29:54.084,3568,3600,-32,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:29:57.154,3571,3600,-29,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:39:57.454,4171,4200,-29,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:39:59.302,4173,4200,-27,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:49:48.255,4762,4800,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:49:52.065,4766,4800,-34,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:59:46.497,5360,5400,-40,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 14:59:50.398,5364,5400,-36,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:59:57.827,5371,5400,-29,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 15:10:01.252,5975,6000,-25,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 15:10:03.573,5977,6000,-23,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 15:20:09.562,6583,6600,-17,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 15:20:11.122,6585,6600,-15,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 15:29:44.756,7158,7200,-42,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 15:29:46.489,7160,7200,-40,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1071,WIL,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 15:29:48.205,7162,7200,-38,1,"Glasses screen, Real world, busy/mixed backdrop",false
