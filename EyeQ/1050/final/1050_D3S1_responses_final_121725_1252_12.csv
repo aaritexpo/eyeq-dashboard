@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:00:13.526,561,600,-39,0,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:00:15.288,563,600,-37,1,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:10:16.348,1164,1200,-36,0,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:10:18.035,1165,1200,-35,1,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:20:17.650,1765,1800,-35,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-17 11:20:20.600,1768,1800,-32,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:20:22.727,1770,1800,-30,1,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:30:11.653,2359,2400,-41,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:30:13.856,2361,2400,-39,1,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:40:18.143,2966,3000,-34,0,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:40:20.194,2968,3000,-32,1,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 11:50:17.925,3565,3600,-35,0,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-17 11:50:19.893,3567,3600,-33,0,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 11:50:21.656,3569,3600,-31,1,"Glasses screen, Real world, plain backdrop",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:00:31.803,4179,4200,-21,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:00:34.003,4181,4200,-19,1,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:10:16.726,4764,4800,-36,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:10:18.302,4766,4800,-34,1,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:20:15.525,5363,5400,-37,0,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-17 12:20:18.444,5366,5400,-34,0,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:20:20.679,5368,5400,-32,1,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:30:19.206,5967,6000,-33,0,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:30:20.648,5968,6000,-32,1,"Glasses screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:40:17.981,6565,6600,-35,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:40:19.298,6567,6600,-33,1,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-17 12:50:26.345,7174,7200,-26,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-17 12:50:28.043,7175,7200,-25,0,"Phone screen",false
+1050,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-17 12:50:29.490,7177,7200,-23,1,"Phone screen",false

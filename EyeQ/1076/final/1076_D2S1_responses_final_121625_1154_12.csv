@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:01:59.257,574,600,-26,1,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:02:11.891,587,600,-13,1,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:11:50.377,1165,1200,-35,1,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:11:54.917,1170,1200,-30,2,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:21:50.615,1766,1800,-34,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,discomfort,2025-12-16 10:21:59.077,1774,1800,-26,2,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:22:07.661,1783,1800,-17,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:31:51.288,2366,2400,-34,2,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:31:56.933,2372,2400,-28,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:42:06.605,2982,3000,-18,2,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:42:09.036,2984,3000,-16,2,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 10:51:51.018,3566,3600,-34,1,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,discomfort,2025-12-16 10:51:57.016,3572,3600,-28,1,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 10:52:00.898,3576,3600,-24,2,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:01:45.595,4161,4200,-39,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:01:47.758,4163,4200,-37,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:12:00.963,4776,4800,-24,1,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:12:02.576,4778,4800,-22,1,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:21:53.742,5369,5400,-31,3,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,discomfort,2025-12-16 11:22:00.185,5375,5400,-25,3,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:22:05.483,5381,5400,-19,3,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:32:09.642,5985,6000,-15,2,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:32:12.641,5988,6000,-12,3,"Glasses screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:41:49.488,6565,6600,-35,2,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:41:52.386,6567,6600,-33,3,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-16 11:51:43.343,7158,7200,-42,1,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,discomfort,2025-12-16 11:51:46.442,7162,7200,-38,1,"Glasses screen, Phone screen",false
+1076,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-16 11:51:50.206,7165,7200,-35,2,"Glasses screen, Phone screen",false

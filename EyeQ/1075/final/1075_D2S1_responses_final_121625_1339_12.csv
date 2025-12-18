@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 11:39:19.250,561,600,-39,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 11:39:21.436,563,600,-37,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 11:49:22.386,1164,1200,-36,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 11:49:25.902,1168,1200,-32,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:00:42.703,1845,1800,NA,NA,"",true
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-16 12:00:42.703,1845,1800,NA,NA,"",true
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:00:42.703,1845,1800,NA,NA,"",true
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:09:20.930,2363,2400,-37,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:09:23.329,2365,2400,-35,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:20:42.703,3045,3000,NA,NA,"",true
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:20:42.703,3045,3000,NA,NA,"",true
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:29:18.762,3561,3600,-39,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-16 12:29:28.810,3571,3600,-29,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:29:33.340,3575,3600,-25,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:39:27.283,4169,4200,-31,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:39:29.296,4171,4200,-29,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:49:23.404,4765,4800,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:49:25.602,4767,4800,-33,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 12:59:19.495,5361,5400,-39,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-16 12:59:21.298,5363,5400,-37,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 12:59:22.876,5365,5400,-35,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 13:09:21.101,5963,6000,-37,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 13:09:23.146,5965,6000,-35,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 13:19:23.161,6565,6600,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 13:19:25.735,6568,6600,-32,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-16 13:29:20.081,7162,7200,-38,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-16 13:29:36.824,7179,7200,-21,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-16 13:29:50.923,7193,7200,-7,2,"Glasses screen",false
