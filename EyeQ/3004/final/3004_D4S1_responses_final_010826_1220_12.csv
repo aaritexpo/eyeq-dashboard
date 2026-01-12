@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:26:02.435,561,600,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:26:05.381,564,600,-36,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:36:04.545,1164,1200,-36,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:36:06.791,1166,1200,-34,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:46:01.570,1761,1800,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 10:46:06.084,1765,1800,-35,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:46:10.158,1769,1800,-31,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:56:08.245,2367,2400,-33,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:56:09.890,2369,2400,-31,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:06:02.467,2961,3000,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:06:04.666,2964,3000,-36,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:16:02.324,3561,3600,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 11:16:06.804,3566,3600,-34,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:16:08.617,3568,3600,-32,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:26:04.268,4163,4200,-37,0,"Phone screen, Real world, plain backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:26:07.280,4166,4200,-34,2,"Phone screen, Real world, plain backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:36:11.195,4770,4800,-30,0,"Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:36:12.723,4772,4800,-28,2,"Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:46:06.647,5366,5400,-34,0,"Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 11:46:09.607,5369,5400,-31,1,"Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:46:11.242,5370,5400,-30,2,"Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:56:01.546,5961,6000,-39,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:56:04.461,5963,6000,-37,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 12:06:05.100,6564,6600,-36,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 12:06:07.142,6566,6600,-34,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 12:16:03.314,7162,7200,-38,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 12:16:05.980,7165,7200,-35,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 12:16:09.094,7168,7200,-32,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false

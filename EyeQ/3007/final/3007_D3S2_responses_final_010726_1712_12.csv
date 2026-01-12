@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 15:18:20.856,566,600,-34,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 15:18:22.287,567,600,-33,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 15:28:19.427,1164,1200,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 15:28:26.975,1172,1200,-28,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 15:38:20.452,1765,1800,-35,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-07 15:38:23.231,1768,1800,-32,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 15:38:31.545,1776,1800,-24,1,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 15:48:15.421,2360,2400,-40,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 15:48:18.685,2363,2400,-37,1,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 15:58:19.470,2964,3000,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 15:58:23.751,2968,3000,-32,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:08:23.475,3568,3600,-32,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-07 16:08:25.221,3570,3600,-30,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:08:30.254,3575,3600,-25,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:18:17.615,4162,4200,-38,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:18:21.298,4166,4200,-34,1,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:28:20.999,4766,4800,-34,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:28:28.446,4773,4800,-27,1,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:38:16.342,5361,5400,-39,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-07 16:38:24.905,5370,5400,-30,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:38:36.050,5381,5400,-19,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:48:20.192,5965,6000,-35,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:48:22.993,5968,6000,-32,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 16:58:17.034,6562,6600,-38,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 16:58:18.687,6563,6600,-37,1,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-07 17:08:19.803,7164,7200,-36,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-07 17:08:23.319,7168,7200,-32,0,"Phone screen",false
+3007,ARO,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-07 17:08:24.584,7169,7200,-31,1,"Phone screen",false

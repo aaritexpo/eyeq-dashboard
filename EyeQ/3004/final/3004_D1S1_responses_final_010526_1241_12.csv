@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:47:49.794,570,600,-30,0,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:47:56.623,577,600,-23,1,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:57:44.344,1164,1200,-36,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:57:48.208,1168,1200,-32,1,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:07:40.179,1760,1800,-40,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 11:07:47.515,1768,1800,-32,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:07:56.629,1777,1800,-23,2,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:17:47.926,2368,2400,-32,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:17:55.640,2376,2400,-24,1,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:27:41.699,2962,3000,-38,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:27:44.676,2965,3000,-35,2,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:37:54.767,3575,3600,-25,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 11:37:59.011,3579,3600,-21,0,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:38:02.543,3583,3600,-17,2,"Glasses screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:47:47.000,4167,4200,-33,0,"Real world, plain backdrop",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:47:50.308,4170,4200,-30,2,"Real world, plain backdrop",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:57:43.763,4764,4800,-36,0,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:57:47.613,4768,4800,-32,3,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:07:49.226,5369,5400,-31,0,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:07:57.903,5378,5400,-22,1,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:08:01.871,5382,5400,-18,2,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:17:44.942,5965,6000,-35,0,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:17:47.946,5968,6000,-32,2,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:27:44.968,6565,6600,-35,0,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:27:49.153,6569,6600,-31,3,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:37:46.560,7167,7200,-33,1,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:37:56.407,7176,7200,-24,1,"Phone screen",false
+3004,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:38:00.136,7180,7200,-20,3,"Phone screen",false

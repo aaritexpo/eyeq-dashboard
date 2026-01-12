@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 10:22:41.753,563,600,-37,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 10:22:43.467,564,600,-36,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 10:32:41.356,1162,1200,-38,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 10:32:42.765,1164,1200,-36,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 10:42:43.297,1764,1800,-36,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 10:42:45.529,1766,1800,-34,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 10:42:47.143,1768,1800,-32,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 10:52:40.716,2362,2400,-38,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 10:52:43.083,2364,2400,-36,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:02:41.587,2962,3000,-38,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:02:42.986,2964,3000,-36,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:12:42.655,3563,3600,-37,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 11:12:44.772,3566,3600,-34,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:12:45.871,3567,3600,-33,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:22:41.758,4163,4200,-37,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:22:49.998,4171,4200,-29,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:32:39.471,4760,4800,-40,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:32:40.522,4761,4800,-39,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:42:52.773,5374,5400,-26,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 11:42:53.891,5375,5400,-25,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:42:55.091,5376,5400,-24,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:52:40.943,5962,6000,-38,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:52:42.256,5963,6000,-37,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:02:40.325,6561,6600,-39,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:02:41.324,6562,6600,-38,1,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:12:35.892,7157,7200,-43,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 12:12:37.059,7158,7200,-42,0,"Phone screen",false
+1045,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:12:38.477,7159,7200,-41,1,"Phone screen",false
