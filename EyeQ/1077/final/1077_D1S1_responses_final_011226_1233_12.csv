@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 10:35:08.062,584,600,-16,0,"Phone screen",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 10:35:16.643,593,600,-7,1,"Phone screen",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 10:44:50.676,1167,1200,-33,0,"Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 10:44:54.290,1170,1200,-30,1,"Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 10:54:51.757,1768,1800,-32,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 10:54:55.440,1771,1800,-29,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 10:55:00.222,1776,1800,-24,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:04:46.201,2362,2400,-38,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:04:48.903,2365,2400,-35,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:14:47.327,2963,3000,-37,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:14:49.975,2966,3000,-34,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:24:48.239,3564,3600,-36,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 11:24:57.836,3574,3600,-26,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:25:02.520,3578,3600,-22,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:34:46.466,4162,4200,-38,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:34:52.130,4168,4200,-32,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:44:44.089,4760,4800,-40,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:44:45.654,4762,4800,-38,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:54:43.179,5359,5400,-41,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 11:54:44.692,5361,5400,-39,0,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:54:46.844,5363,5400,-37,1,"Glasses screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:04:47.253,5963,6000,-37,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:04:48.684,5965,6000,-35,1,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:14:46.859,6563,6600,-37,0,"Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:14:48.924,6565,6600,-35,1,"Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:24:46.551,7162,7200,-38,0,"Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 12:24:49.015,7165,7200,-35,0,"Phone screen, Real world, plain backdrop",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:24:52.548,7168,7200,-32,1,"Phone screen, Real world, plain backdrop",false

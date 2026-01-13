@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:04:47.168,560,600,-40,0,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:04:51.101,564,600,-36,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:14:45.004,1158,1200,-42,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:14:47.488,1160,1200,-40,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:24:49.427,1762,1800,-38,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:24:56.642,1769,1800,-31,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:25:01.542,1774,1800,-26,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:34:54.483,2367,2400,-33,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:34:59.050,2372,2400,-28,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:44:45.278,2958,3000,-42,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:44:48.144,2961,3000,-39,3,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:54:49.708,3562,3600,-38,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:54:53.940,3567,3600,-33,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:54:59.787,3573,3600,-27,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:04:45.153,4158,4200,-42,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:04:47.187,4160,4200,-40,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:15:00.919,4774,4800,-26,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:15:05.686,4778,4800,-22,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:24:49.193,5362,5400,-38,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 14:24:51.439,5364,5400,-36,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:24:57.550,5370,5400,-30,2,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:34:49.260,5962,6000,-38,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:34:52.173,5965,6000,-35,2,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:44:46.783,6560,6600,-40,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:44:47.946,6561,6600,-39,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:54:50.541,7163,7200,-37,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 14:54:53.508,7166,7200,-34,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:54:55.051,7168,7200,-32,2,"Phone screen",false

@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:13:05.953,570,600,-30,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:13:13.365,577,600,-23,1,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:23:07.187,1171,1200,-29,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:23:10.450,1174,1200,-26,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:33:01.078,1765,1800,-35,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 12:33:07.473,1771,1800,-29,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:33:10.225,1774,1800,-26,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:43:00.865,2365,2400,-35,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:43:03.834,2368,2400,-32,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:52:58.839,2963,3000,-37,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:53:06.971,2971,3000,-29,2,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:03:11.364,3575,3600,-25,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:03:22.312,3586,3600,-14,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:03:27.862,3592,3600,-8,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:13:01.176,4165,4200,-35,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:13:03.125,4167,4200,-33,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:23:07.733,4771,4800,-29,0,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:23:09.377,4773,4800,-27,1,"Glasses screen",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:33:00.322,5364,5400,-36,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:33:01.419,5365,5400,-35,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:33:03.818,5367,5400,-33,1,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:42:58.996,5963,6000,-37,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:43:00.474,5964,6000,-36,1,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:53:03.494,6567,6600,-33,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:53:05.377,6569,6600,-31,1,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 14:03:00.462,7164,7200,-36,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 14:03:02.108,7166,7200,-34,0,"Glasses screen, Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 14:03:03.773,7167,7200,-33,1,"Glasses screen, Real world, plain backdrop",false

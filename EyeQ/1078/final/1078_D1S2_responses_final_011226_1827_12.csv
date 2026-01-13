@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:32:43.114,562,600,-38,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:32:44.613,563,600,-37,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:42:45.107,1164,1200,-36,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:42:46.960,1166,1200,-34,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:52:46.069,1765,1800,-35,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 16:52:47.718,1767,1800,-33,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:52:49.251,1768,1800,-32,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:02:40.931,2360,2400,-40,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:02:48.550,2367,2400,-33,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:12:42.008,2961,3000,-39,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:12:43.908,2963,3000,-37,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:22:41.445,3560,3600,-40,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 17:22:50.994,3570,3600,-30,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:22:53.292,3572,3600,-28,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:32:58.080,4177,4200,-23,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:33:00.329,4179,4200,-21,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:43:00.119,4779,4800,-21,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:43:07.265,4786,4800,-14,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:53:04.903,5384,5400,-16,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 17:53:08.938,5388,5400,-12,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:53:10.752,5390,5400,-10,2,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 18:02:52.515,5971,6000,-29,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 18:03:00.494,5979,6000,-21,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 18:12:51.985,6571,6600,-29,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 18:12:54.176,6573,6600,-27,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 18:22:39.973,7159,7200,-41,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 18:22:43.291,7162,7200,-38,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 18:22:46.773,7166,7200,-34,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false

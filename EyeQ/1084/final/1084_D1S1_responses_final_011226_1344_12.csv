@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:45:34.846,566,600,-34,0,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:45:39.410,571,600,-29,1,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:55:44.311,1176,1200,-24,0,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:55:53.474,1185,1200,-15,2,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:05:33.886,1765,1800,-35,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 12:05:56.792,1788,1800,-12,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:06:11.350,1803,1800,3,2,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:15:33.427,2365,2400,-35,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:15:47.156,2378,2400,-22,3,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:25:50.978,2982,3000,-18,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:25:59.258,2991,3000,-9,2,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:35:29.615,3561,3600,-39,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 12:35:44.365,3576,3600,-24,2,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:35:50.007,3581,3600,-19,3,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:45:30.975,4162,4200,-38,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:45:33.625,4165,4200,-35,3,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:55:38.517,4770,4800,-30,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:55:47.996,4779,4800,-21,4,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:05:41.387,5373,5400,-27,1,"Phone screen",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:05:48.387,5380,5400,-20,3,"Phone screen",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:05:54.231,5385,5400,-15,4,"Phone screen",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:15:40.681,5972,6000,-28,1,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:15:51.856,5983,6000,-17,4,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:25:28.791,6560,6600,-40,1,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:25:36.942,6568,6600,-32,4,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:35:29.991,7161,7200,-39,1,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:35:46.953,7178,7200,-22,4,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:35:51.312,7183,7200,-17,4,"Phone screen, Real world, plain backdrop",false
