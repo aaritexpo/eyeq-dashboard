@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 09:48:45.237,586,600,-14,3,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 09:48:52.000,593,600,-7,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 09:58:18.330,1159,1200,-41,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 09:58:22.675,1163,1200,-37,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:08:31.363,1772,1800,-28,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 10:08:36.928,1778,1800,-22,3,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:08:40.854,1782,1800,-18,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:18:27.011,2368,2400,-32,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:18:31.597,2372,2400,-28,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:28:27.224,2968,3000,-32,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:28:41.912,2983,3000,-17,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:38:23.017,3564,3600,-36,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 10:38:37.765,3578,3600,-22,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:38:48.678,3589,3600,-11,5,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:48:26.330,4167,4200,-33,5,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:48:32.345,4173,4200,-27,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 10:59:41.457,4842,4800,42,4,"",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 10:59:43.877,4845,4800,NA,NA,"",true
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 11:08:32.321,5373,5400,-27,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 11:08:38.402,5379,5400,-21,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 11:08:41.321,5382,5400,-18,5,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 11:18:33.162,5974,6000,-26,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 11:18:59.703,6000,6000,0,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 11:28:27.321,6568,6600,-32,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 11:28:44.470,6585,6600,-15,5,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 11:38:30.912,7172,7200,-28,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 11:38:36.576,7177,7200,-23,5,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 11:38:39.741,7180,7200,-20,5,"Glasses screen, Real world, plain backdrop",false

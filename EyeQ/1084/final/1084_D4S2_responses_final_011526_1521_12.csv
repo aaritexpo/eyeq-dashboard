@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 13:29:21.986,606,600,6,1,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 13:29:30.927,615,600,15,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 13:39:18.996,1203,1200,3,3,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 13:39:28.860,1213,1200,13,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 13:48:59.230,1784,1800,-16,3,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-15 13:49:04.678,1789,1800,-11,3,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 13:49:08.501,1793,1800,-7,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 13:58:56.291,2381,2400,-19,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 13:58:58.992,2383,2400,-17,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:08:35.626,2960,3000,-40,2,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:08:42.056,2966,3000,-34,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:18:59.225,3584,3600,-16,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-15 14:19:02.464,3587,3600,-13,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:19:12.426,3597,3600,-3,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:28:56.750,4181,4200,-19,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:29:01.318,4186,4200,-14,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:39:22.881,4807,4800,7,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:39:26.439,4811,4800,11,5,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:48:46.173,5371,5400,-29,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-15 14:48:50.368,5375,5400,-25,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:48:57.194,5382,5400,-18,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 14:58:41.215,5966,6000,-34,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 14:58:44.615,5969,6000,-31,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 15:08:53.444,6578,6600,-22,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 15:08:59.478,6584,6600,-16,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-15 15:18:38.135,7162,7200,-38,5,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-15 15:18:48.252,7173,7200,-27,4,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-15 15:18:53.050,7177,7200,-23,4,"Real world, plain backdrop",false

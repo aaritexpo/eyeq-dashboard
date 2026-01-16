@@ -1,0 +1,9 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1084,2026-01-15 10:00:57.709,397,"Participant attempting to respond to incoming WhatsApp message using voice commands but Meta is making “thinking” noise and not allowing participant to respond"
+1084,2026-01-15 10:02:53.570,513,"Participant paused YouTube video and asked Meta to respond, this was successful"
+1084,2026-01-15 10:05:15.905,655,"Participant says that video automatically plays and pauses when Meta activates and deactivates but when they manually pause video to then activate Meta, video will not automatically play again"
+1084,2026-01-15 10:15:10.423,1250,"Participant notices that instead of asking Meta to be specific about which message to read (contact in WhatsApp), it is more probable for Meta to read “most recent message”"
+1084,2026-01-15 10:16:57.321,1357,"Meta read participant the most recent message but then asked user to open the rest of the message on the phone. When opened on the phone, participant noticed the entire message has already been read by Meta and there was no message missing"
+1084,2026-01-15 10:30:02.108,2141,"Participant notices that sometimes, Meta will ask them for approval to take a picture and other times it will automatically take a picture to analyze and respond appropriately"
+1084,2026-01-15 10:44:14.794,2994,"Participant stepped into bathroom but glasses are on"
+1084,2026-01-15 10:50:28.016,3367,"Participant says it is sometimes very clear and very unclear when Meta is still listening so sometimes they ask follow up questions without having to prompt Meta but other times they believe Meta is listening and it won’t capture their questions"

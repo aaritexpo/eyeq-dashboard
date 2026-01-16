@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 16:13:54.695,579,600,-21,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 16:13:57.375,582,600,-18,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 16:24:05.326,1190,1200,-10,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 16:24:12.189,1197,1200,-3,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 16:33:41.619,1766,1800,-34,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-13 16:33:47.683,1772,1800,-28,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 16:34:00.178,1785,1800,-15,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 16:43:52.500,2377,2400,-23,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 16:43:53.982,2378,2400,-22,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 16:53:35.888,2960,3000,-40,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 16:53:37.088,2961,3000,-39,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:03:34.754,3559,3600,-41,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-13 17:04:05.435,3590,3600,-10,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:04:07.848,3592,3600,-8,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:13:37.089,4161,4200,-39,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:13:39.319,4164,4200,-36,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:23:37.911,4762,4800,-38,0,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:23:40.241,4765,4800,-35,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:33:38.322,5363,5400,-37,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-13 17:33:40.756,5365,5400,-35,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:33:58.267,5383,5400,-17,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:43:39.007,5963,6000,-37,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:43:40.461,5965,6000,-35,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 17:53:40.241,6565,6600,-35,0,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 17:53:43.641,6568,6600,-32,3,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-13 18:03:34.040,7158,7200,-42,0,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-13 18:03:39.141,7164,7200,-36,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-13 18:03:42.826,7167,7200,-33,3,"Phone screen",false

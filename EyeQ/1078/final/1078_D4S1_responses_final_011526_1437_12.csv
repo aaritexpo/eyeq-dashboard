@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 12:43:55.144,562,600,-38,0,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 12:43:57.278,564,600,-36,1,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 12:53:57.445,1164,1200,-36,0,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 12:53:59.441,1166,1200,-34,1,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:03:52.051,1759,1800,-41,0,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 13:03:53.332,1760,1800,-40,0,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:03:54.653,1761,1800,-39,1,"Phone screen",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:13:56.471,2363,2400,-37,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:13:57.687,2364,2400,-36,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:24:01.976,2968,3000,-32,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:24:03.509,2970,3000,-30,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:33:54.127,3561,3600,-39,0,"Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 13:33:55.681,3562,3600,-38,0,"Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:33:58.761,3565,3600,-35,1,"Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:43:52.228,4159,4200,-41,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:43:53.448,4160,4200,-40,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 13:53:55.251,4762,4800,-38,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 13:53:56.754,4763,4800,-37,1,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 14:03:54.204,5361,5400,-39,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 14:03:55.321,5362,5400,-38,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 14:03:56.444,5363,5400,-37,1,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 14:14:01.173,5968,6000,-32,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 14:14:02.151,5969,6000,-31,1,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 14:23:52.531,6559,6600,-41,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 14:23:53.752,6560,6600,-40,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 14:33:51.939,7158,7200,-42,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 14:33:53.206,7160,7200,-40,0,"Real world, plain backdrop",false
+1078,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 14:33:54.456,7161,7200,-39,1,"Real world, plain backdrop",false
