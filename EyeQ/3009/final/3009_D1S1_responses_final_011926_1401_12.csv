@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:06:34.708,568,600,-32,0,"Real world, plain backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:06:37.641,571,600,-29,1,"Real world, plain backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:16:31.513,1165,1200,-35,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:16:40.298,1173,1200,-27,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:26:30.928,1764,1800,-36,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:26:37.161,1770,1800,-30,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:26:40.189,1773,1800,-27,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:36:31.512,2365,2400,-35,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:36:33.368,2366,2400,-34,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:46:28.664,2962,3000,-38,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:46:33.156,2966,3000,-34,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:56:33.738,3567,3600,-33,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:56:54.017,3587,3600,-13,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:56:55.449,3589,3600,-11,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:06:33.097,4166,4200,-34,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:06:34.380,4167,4200,-33,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:16:27.926,4761,4800,-39,0,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:16:31.325,4764,4800,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:26:35.050,5368,5400,-32,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 13:26:39.114,5372,5400,-28,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:26:41.594,5375,5400,-25,1,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:36:39.021,5972,6000,-28,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:36:47.055,5980,6000,-20,1,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:46:29.783,6563,6600,-37,0,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:46:31.347,6564,6600,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 13:56:28.557,7162,7200,-38,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 13:56:46.256,7179,7200,-21,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 13:56:48.133,7181,7200,-19,1,"Phone screen",false

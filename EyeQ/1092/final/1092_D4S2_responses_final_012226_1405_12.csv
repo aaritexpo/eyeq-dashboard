@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 12:11:52.729,571,600,-29,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 12:11:57.029,575,600,-25,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 12:21:43.229,1161,1200,-39,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 12:21:47.581,1166,1200,-34,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 12:31:50.961,1769,1800,-31,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 12:31:55.026,1773,1800,-27,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 12:31:58.803,1777,1800,-23,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 12:41:46.030,2364,2400,-36,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 12:41:48.729,2367,2400,-33,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 12:51:42.618,2961,3000,-39,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 12:51:46.177,2964,3000,-36,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:01:49.516,3567,3600,-33,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 13:01:53.563,3571,3600,-29,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:01:58.514,3576,3600,-24,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:11:56.390,4174,4200,-26,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:12:08.386,4186,4200,-14,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:21:46.602,4765,4800,-35,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:21:54.184,4772,4800,-28,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:31:46.526,5364,5400,-36,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 13:31:49.810,5368,5400,-32,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:31:52.875,5371,5400,-29,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:41:47.620,5966,6000,-34,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:41:51.149,5969,6000,-31,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:51:47.926,6566,6600,-34,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:51:51.523,6569,6600,-31,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:01:49.231,7167,7200,-33,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:01:52.752,7171,7200,-29,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:01:55.366,7173,7200,-27,1,"Glasses screen",false

@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 09:25:20.197,575,600,-25,0,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 09:25:30.357,585,600,-15,2,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 09:35:15.941,1171,1200,-29,0,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 09:35:24.766,1180,1200,-20,2,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 09:45:10.774,1766,1800,-34,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 09:45:15.239,1770,1800,-30,1,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 09:45:24.801,1780,1800,-20,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 09:55:11.287,2366,2400,-34,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 09:55:15.204,2370,2400,-30,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:05:11.082,2966,3000,-34,0,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:05:15.831,2971,3000,-29,2,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:15:10.293,3565,3600,-35,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 10:15:26.967,3582,3600,-18,1,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:15:39.045,3594,3600,-6,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:25:07.649,4163,4200,-37,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:25:17.831,4173,4200,-27,3,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:35:21.676,4777,4800,-23,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:35:26.408,4781,4800,-19,3,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:45:15.565,5370,5400,-30,0,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 10:45:30.665,5386,5400,-14,1,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:45:34.964,5390,5400,-10,3,"Glasses screen, Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:55:09.455,5964,6000,-36,0,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:55:19.633,5975,6000,-25,2,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:05:08.179,6563,6600,-37,0,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:05:18.278,6573,6600,-27,2,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:15:10.257,7165,7200,-35,0,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 11:15:22.052,7177,7200,-23,1,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:15:27.386,7182,7200,-18,2,"Phone screen",false

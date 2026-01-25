@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:28:16.732,562,600,-38,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:28:17.865,564,600,-36,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:38:17.201,1163,1200,-37,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:38:19.529,1165,1200,-35,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:48:20.484,1766,1800,-34,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 13:48:22.082,1768,1800,-32,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:48:28.846,1774,1800,-26,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:58:17.805,2363,2400,-37,0,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:58:19.501,2365,2400,-35,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:08:20.857,2967,3000,-33,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:08:23.387,2969,3000,-31,2,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:18:27.361,3573,3600,-27,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:18:33.890,3580,3600,-20,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:18:37.990,3584,3600,-16,2,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:28:31.726,4177,4200,-23,2,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:28:33.844,4179,4200,-21,3,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:38:51.960,4798,4800,-2,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:38:54.193,4800,4800,0,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:48:21.110,5367,5400,-33,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:48:23.941,5370,5400,-30,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:48:26.091,5372,5400,-28,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:58:15.932,5962,6000,-38,0,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:58:19.464,5965,6000,-35,1,"Glasses screen, Phone screen",FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:08:19.658,6565,6600,-35,0,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:08:21.504,6567,6600,-33,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:18:23.542,7169,7200,-31,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 15:18:26.226,7172,7200,-28,1,Glasses screen,FALSE
+1086,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:18:27.925,7174,7200,-26,2,Glasses screen,FALSE

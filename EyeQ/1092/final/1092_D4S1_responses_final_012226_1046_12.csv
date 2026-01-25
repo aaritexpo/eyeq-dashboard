@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 08:52:18.274,574,600,-26,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 08:52:25.623,582,600,-18,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:02:20.930,1177,1200,-23,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:02:41.692,1198,1200,-2,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:12:17.378,1773,1800,-27,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 09:12:27.469,1784,1800,-16,0,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:12:35.391,1791,1800,-9,1,"Glasses screen, Phone screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:22:06.716,2363,2400,-37,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:22:15.512,2372,2400,-28,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:32:12.644,2969,3000,-31,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:32:14.791,2971,3000,-29,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:42:10.430,3567,3600,-33,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 09:42:14.399,3570,3600,-30,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:42:17.093,3573,3600,-27,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:52:08.107,4164,4200,-36,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:52:16.970,4173,4200,-27,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:02:06.437,4763,4800,-37,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:02:10.488,4767,4800,-33,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:12:07.540,5364,5400,-36,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 10:12:19.851,5376,5400,-24,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:12:29.182,5385,5400,-15,2,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:22:06.425,5963,6000,-37,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:22:12.890,5969,6000,-31,2,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:32:27.880,6584,6600,-16,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:32:30.895,6587,6600,-13,2,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:42:14.560,7171,7200,-29,0,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 10:42:20.564,7177,7200,-23,1,"Glasses screen",false
+1092,KAM,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:42:24.626,7181,7200,-19,2,"Glasses screen",false

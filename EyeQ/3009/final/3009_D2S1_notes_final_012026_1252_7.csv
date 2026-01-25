@@ -1,0 +1,9 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3009,2026-01-20 11:02:45.234,874,"Note on Task - alternative for the captioning ( having the user watch a video on a different device while messaging) .
+The user / PT had their message interrupted by the background sound ie, the glasses picked up the audio from the video as part of the message they were trying to send using “hey meta … “ command . The audio from the phone was very loud so that could have been the reason. Once we turned the volume of the external device down, it worked fine."
+3009,2026-01-20 11:11:49.377,1418,"When the message is too long , the message is not read out. It only announces to the user / PT ..”long message from ….” without displaying the message or reading out the content of the message."
+3009,2026-01-20 11:21:18.305,1987,"The user / PT mentioned that the glasses was still picking up the audio from the video occasionally."
+3009,2026-01-20 11:24:53.112,2202,"There was an instance of a repeated response to two different questions ie meta gave the previous response."
+3009,2026-01-20 11:29:31.605,2480,"The user / PT mentioned that while an app was opened on the glasses ( eg with WhatsApp opened ) , the response display would cut out and occasionally go blank when the ai chat box is giving a response. This didn’t happen when the user closed out on the app."
+3009,2026-01-20 12:01:02.882,4372,"The user / PT mentioned that they would have preferred to be able to zoom in on a photo in WhatsApp. They also mentioned they couldn’t see the images clearly during the Lego task."
+3009,2026-01-20 12:29:06.902,6056,"User / PT feedback , the Lego task feels more difficult that reading the paper instructions."
