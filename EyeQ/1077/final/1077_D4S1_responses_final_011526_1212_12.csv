@@ -1,29 +1,29 @@
 Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:19:35.794,564,600,-36,0,"Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:19:39.542,568,600,-32,1,"Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:29:34.049,1163,1200,-37,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:29:37.497,1166,1200,-34,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:39:37.716,1766,1800,-34,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,discomfort,2026-01-15 10:39:46.050,1775,1800,-25,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:39:50.012,1779,1800,-21,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:49:35.918,2365,2400,-35,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:49:37.533,2366,2400,-34,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:59:35.084,2964,3000,-36,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:59:37.531,2966,3000,-34,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:09:31.819,3560,3600,-40,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,discomfort,2026-01-15 11:09:36.801,3565,3600,-35,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:09:38.516,3567,3600,-33,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:19:30.522,4159,4200,-41,0,"Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:19:33.090,4162,4200,-38,1,"Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:29:32.572,4761,4800,-39,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:29:34.338,4763,4800,-37,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:39:42.237,5371,5400,-29,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,discomfort,2026-01-15 11:39:47.234,5376,5400,-24,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:39:49.134,5378,5400,-22,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:49:39.992,5969,6000,-31,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:49:42.491,5971,6000,-29,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 11:59:37.527,6566,6600,-34,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 11:59:39.656,6568,6600,-32,1,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 12:09:34.796,7163,7200,-37,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,discomfort,2026-01-15 12:09:36.945,7166,7200,-34,0,"Phone screen, Real world, plain backdrop",false
-1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 12:09:38.362,7167,7200,-33,1,"Phone screen, Real world, plain backdrop",false
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:19:35.794,564,600,-36,0,"Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:19:39.542,568,600,-32,1,"Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:29:34.049,1163,1200,-37,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:29:37.497,1166,1200,-34,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:39:37.716,1766,1800,-34,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 10:39:46.050,1775,1800,-25,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:39:50.012,1779,1800,-21,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:49:35.918,2365,2400,-35,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:49:37.533,2366,2400,-34,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:59:35.084,2964,3000,-36,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:59:37.531,2966,3000,-34,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:09:31.819,3560,3600,-40,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 11:09:36.801,3565,3600,-35,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:09:38.516,3567,3600,-33,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:19:30.522,4159,4200,-41,0,"Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:19:33.090,4162,4200,-38,1,"Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:29:32.572,4761,4800,-39,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:29:34.338,4763,4800,-37,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:39:42.237,5371,5400,-29,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 11:39:47.234,5376,5400,-24,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:39:49.134,5378,5400,-22,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:49:39.992,5969,6000,-31,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:49:42.491,5971,6000,-29,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 11:59:37.527,6566,6600,-34,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 11:59:39.656,6568,6600,-32,1,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 12:09:34.796,7163,7200,-37,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 12:09:36.945,7166,7200,-34,0,"Phone screen, Real world, plain backdrop",FALSE
+1077,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 12:09:38.362,7167,7200,-33,1,"Phone screen, Real world, plain backdrop",FALSE
