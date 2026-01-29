@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 09:43:41.666,615,600,15,0,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 09:43:43.000,616,600,16,1,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 09:53:31.061,1204,1200,4,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 09:53:34.706,1208,1200,8,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:02:53.366,1766,1800,-34,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-27 10:02:58.041,1771,1800,-29,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:03:00.140,1773,1800,-27,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:13:15.963,2389,2400,-11,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:13:35.366,2408,2400,8,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:23:07.697,2981,3000,-19,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:23:09.813,2983,3000,-17,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:33:00.557,3574,3600,-26,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-27 10:33:05.917,3579,3600,-21,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:33:12.955,3586,3600,-14,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:43:08.604,4182,4200,-18,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:43:17.252,4190,4200,-10,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 10:52:53.733,4767,4800,-33,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 10:53:01.148,4774,4800,-26,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 11:02:51.864,5365,5400,-35,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-27 11:03:08.410,5381,5400,-19,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 11:03:12.470,5385,5400,-15,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 11:13:52.474,6025,6000,25,4,"",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 11:14:11.649,6045,6000,NA,NA,"",true
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 11:22:56.442,6569,6600,-31,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 11:23:08.193,6581,6600,-19,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-27 11:32:57.423,7170,7200,-30,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-27 11:33:06.434,7179,7200,-21,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-27 11:33:09.682,7183,7200,-17,1,"Glasses screen",false

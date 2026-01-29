@@ -1,29 +1,29 @@
 Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 10:42:51.834,595,600,-5,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 10:42:55.639,599,600,-1,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 10:52:25.433,1169,1200,-31,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 10:52:27.748,1171,1200,-29,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:03:26.458,1830,1800,30,0,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-21 11:03:28.422,1832,1800,32,0,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:03:31.936,1835,1800,35,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:12:28.969,2372,2400,-28,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:12:32.100,2376,2400,-24,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:22:38.042,2982,3000,-18,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:22:47.905,2991,3000,-9,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:32:34.719,3578,3600,-22,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-21 11:32:37.003,3580,3600,-20,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:32:38.765,3582,3600,-18,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:42:25.336,4169,4200,-31,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:42:30.869,4174,4200,-26,2,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 11:52:20.280,4764,4800,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 11:52:24.105,4768,4800,-32,2,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 12:02:27.172,5371,5400,-29,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-21 12:02:29.733,5373,5400,-27,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 12:02:31.970,5375,5400,-25,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 12:12:20.193,5964,6000,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 12:12:22.643,5966,6000,-34,1,"Glasses screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 12:22:30.135,6574,6600,-26,0,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 12:22:34.151,6578,6600,-22,1,"Phone screen, Real world, busy/mixed backdrop",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-21 12:32:21.327,7165,7200,-35,1,"Phone screen",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-21 12:32:25.930,7169,7200,-31,1,"Phone screen",false
-1085,JMH,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-21 12:32:30.471,7174,7200,-26,2,"Phone screen",false
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 10:42:51.834,595,600,-5,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 10:42:55.639,599,600,-1,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 10:52:25.433,1169,1200,-31,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 10:52:27.748,1171,1200,-29,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:03:26.458,1830,1800,30,0,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-21 11:03:28.422,1832,1800,32,0,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:03:31.936,1835,1800,35,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:12:28.969,2372,2400,-28,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:12:32.100,2376,2400,-24,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:22:38.042,2982,3000,-18,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:22:47.905,2991,3000,-9,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:32:34.719,3578,3600,-22,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-21 11:32:37.003,3580,3600,-20,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:32:38.765,3582,3600,-18,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:42:25.336,4169,4200,-31,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:42:30.869,4174,4200,-26,2,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 11:52:20.280,4764,4800,-36,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 11:52:24.105,4768,4800,-32,2,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 12:02:27.172,5371,5400,-29,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-21 12:02:29.733,5373,5400,-27,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 12:02:31.970,5375,5400,-25,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 12:12:20.193,5964,6000,-36,0,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 12:12:22.643,5966,6000,-34,1,"Glasses screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 12:22:30.135,6574,6600,-26,0,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 12:22:34.151,6578,6600,-22,1,"Phone screen, Real world, busy/mixed backdrop",FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-21 12:32:21.327,7165,7200,-35,1,Phone screen,FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-21 12:32:25.930,7169,7200,-31,1,Phone screen,FALSE
+1085,JMH,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-21 12:32:30.471,7174,7200,-26,2,Phone screen,FALSE

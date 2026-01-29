@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:28:42.929,576,600,-24,1,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:28:48.625,582,600,-18,1,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:38:46.345,1180,1200,-20,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:39:04.005,1197,1200,-3,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:48:44.210,1778,1800,-22,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 10:49:00.060,1794,1800,-6,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:49:25.249,1819,1800,19,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:58:45.900,2379,2400,-21,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:59:10.325,2404,2400,4,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:08:32.879,2966,3000,-34,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:08:39.741,2973,3000,-27,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:18:38.210,3572,3600,-28,0,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 11:19:09.828,3603,3600,3,0,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:19:14.611,3608,3600,8,2,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:29:07.791,4201,4200,1,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:29:17.338,4211,4200,11,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:38:57.998,4791,4800,-9,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:39:13.815,4807,4800,7,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:48:28.788,5362,5400,-38,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 11:48:43.098,5377,5400,-23,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:48:51.846,5385,5400,-15,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:58:39.822,5973,6000,-27,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:58:54.533,5988,6000,-12,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:08:24.175,6558,6600,-42,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:08:26.461,6560,6600,-40,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:18:41.499,7175,7200,-25,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:18:49.144,7183,7200,-17,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:18:57.208,7191,7200,-9,1,"Glasses screen",false

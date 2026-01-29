@@ -1,0 +1,10 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1104,2026-01-26 16:14:14.975,1366,"While capturing photos and videos in WhatsApp, the glasses disconnected on its own in the meta app but then the user/PT could still see the display and use the glasses. After that we had issues reconnecting whatsapp. We had to eventually reboot the phone and then jt worked fine after that."
+1104,2026-01-26 16:16:39.064,1510,"Some photos and videos being captured did were not being shared at a point although the capturing process was successful. This was prior to the issue in the preceding note."
+1104,2026-01-26 16:17:55.441,1587,"We encountered this issue again where photos and videos were nit shared because they were not imported in the meta ai app."
+1104,2026-01-26 16:57:54.375,3986,"While trying to send a message on whatsapp , at one point,  Meta did not  pick out the right words the user wanted to send."
+1104,2026-01-26 17:03:09.532,4301,"The user / PT mentioned that if they took a short pause while trying to send a message / indicating what message they wanted to send using the meta app, the messaging would cut out / stop."
+1104,2026-01-26 17:04:00.519,4352,"Glasses battery at 15% . Preparing to switch to pair #2 ending in 0022"
+1104,2026-01-26 17:23:43.016,5534,"Pairing up glasses #2 took a while ,  factory reset did not work even after a few tries. But later it just worked fine. - this was while we were trying to reconnect a new pair of glasses."
+1104,2026-01-26 17:27:53.244,5785,"I noticed user / PT would occasionally lift up the glasses to rub their eyes."
+1104,2026-01-26 17:31:26.653,5998,"Using glasses #2 - 2Y0YW13H580022"

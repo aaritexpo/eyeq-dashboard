@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:53:46.569,574,600,-26,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:54:08.878,596,600,-4,3,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:03:39.965,1167,1200,-33,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:03:51.125,1178,1200,-22,2,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:14:20.378,1808,1800,8,2,"",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:14:41.637,1829,1800,29,0,"",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:14:54.816,1842,1800,42,3,"",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:24:06.753,2394,2400,-6,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:24:17.997,2405,2400,5,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:33:59.063,2986,3000,-14,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:34:05.735,2993,3000,-7,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:43:42.799,3570,3600,-30,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:43:49.582,3577,3600,-23,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:43:52.378,3580,3600,-20,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:53:40.565,4168,4200,-32,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:53:43.634,4171,4200,-29,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:03:43.191,4770,4800,-30,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:03:46.420,4774,4800,-26,2,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:13:46.708,5374,5400,-26,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 13:13:49.907,5377,5400,-23,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:14:05.719,5393,5400,-7,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:23:48.646,5976,6000,-24,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:23:53.145,5980,6000,-20,2,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:33:58.281,6586,6600,-14,1,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:34:01.314,6589,6600,-11,2,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:43:40.842,7168,7200,-32,1,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 13:43:47.943,7175,7200,-25,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:43:50.974,7178,7200,-22,2,"Phone screen",false

@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:12:33.096,562,600,-38,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:12:43.841,573,600,-27,2,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:22:29.749,1159,1200,-41,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:22:39.887,1169,1200,-31,1,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:32:33.518,1763,1800,-37,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 14:32:37.517,1766,1800,-34,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:32:41.165,1770,1800,-30,2,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:42:55.767,2385,2400,-15,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:43:01.764,2391,2400,-9,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:52:38.572,2968,3000,-32,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:52:49.534,2979,3000,-21,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:02:32.538,3562,3600,-38,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 15:02:36.021,3565,3600,-35,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:02:40.125,3569,3600,-31,1,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:12:47.266,4176,4200,-24,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:12:51.667,4181,4200,-19,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:22:39.275,4768,4800,-32,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:22:45.207,4774,4800,-26,3,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:32:36.638,5366,5400,-34,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 15:32:45.632,5375,5400,-25,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:32:49.064,5378,5400,-22,3,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:42:30.774,5960,6000,-40,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:42:35.989,5965,6000,-35,3,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 15:52:46.738,6576,6600,-24,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 15:52:51.390,6580,6600,-20,3,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 16:02:38.706,7168,7200,-32,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 16:02:45.042,7174,7200,-26,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 16:02:47.873,7177,7200,-23,3,"Glasses screen",false
