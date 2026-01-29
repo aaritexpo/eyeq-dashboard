@@ -1,8 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-05 08:23:38.288,564,600,-36,1,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-05 08:23:43.684,569,600,-31,2,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-05 08:33:54.116,1180,1200,-20,0,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-05 08:33:55.861,1181,1200,-19,1,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-05 08:43:39.264,1765,1800,-35,3,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,discomfort,2025-11-05 08:43:41.593,1767,1800,-33,2,"Real world, plain backdrop",false
-2001,LAV,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-05 08:43:46.727,1772,1800,-28,3,"Real world, plain backdrop",false

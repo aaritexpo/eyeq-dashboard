@@ -1,8 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 09:05:56.254,569,600,-31,0,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 09:06:00.202,573,600,-27,1,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 09:15:51.429,1164,1200,-36,0,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 09:15:53.347,1166,1200,-34,1,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 09:26:05.473,1778,1800,-22,0,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-11-13 09:26:07.325,1780,1800,-20,0,"Phone screen",false
-1037,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 09:26:08.457,1781,1800,-19,1,"Phone screen",false

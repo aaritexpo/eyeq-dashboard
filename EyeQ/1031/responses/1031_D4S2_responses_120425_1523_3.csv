@@ -1,8 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-04 15:02:38.744,558,600,-42,0,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-04 15:02:41.409,561,600,-39,1,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-04 15:12:43.693,1163,1200,-37,0,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-04 15:12:51.841,1171,1200,-29,1,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-04 15:22:57.906,1777,1800,-23,0,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-12-04 15:22:59.809,1779,1800,-21,0,"Real world, busy/mixed backdrop",false
-1031,GTR,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-04 15:23:01.425,1781,1800,-19,1,"Real world, busy/mixed backdrop",false

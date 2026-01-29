@@ -1,5 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1005,JEV,Gen 2 Glasses,Capture & Share,misc,2025-11-06 09:49:39.318,566,600,-34,0,"Real world, plain backdrop",false
-1005,JEV,Gen 2 Glasses,Capture & Share,eyestrain,2025-11-06 09:49:52.058,579,600,-21,1,"Real world, plain backdrop",false
-1005,JEV,Gen 2 Glasses,Capture & Share,misc,2025-11-06 09:59:38.509,1165,1200,-35,0,"Real world, plain backdrop",false
-1005,JEV,Gen 2 Glasses,Capture & Share,eyestrain,2025-11-06 09:59:44.120,1171,1200,-29,1,"Real world, plain backdrop",false

@@ -1,6 +1,0 @@
-Participant ID,Timestamp,Global Time (seconds),Note
-1032,2025-12-03 13:02:14.192,358,"Live captions and live translation not functional. OTA error"
-1032,2025-12-03 13:05:17.122,541,"Participant slightly squinting eyes to navigate through main menus"
-1032,2025-12-03 13:11:33.258,917,"Participant notices that Meta gets “stuck” on previous requests when asking about similar topics or objects"
-1032,2025-12-03 13:12:06.608,950,"Participant finds that reframing question and providing more obvious context helps Meta understand the new information request"
-1032,2025-12-03 13:15:16.928,1141,"Meta often fails to finish its “thought” as it presents participant with text answer but its cut off or missing loaded images"

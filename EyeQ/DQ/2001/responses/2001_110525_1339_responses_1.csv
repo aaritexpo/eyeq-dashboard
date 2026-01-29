@@ -1,3 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 13:39:39.193,564,600,-36,0,"Phone screen",false
-2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 13:39:42.908,568,600,-32,1,"Phone screen",false

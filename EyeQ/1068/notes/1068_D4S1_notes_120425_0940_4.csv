@@ -1,5 +1,0 @@
-Participant ID,Timestamp,Global Time (seconds),Note
-1068,2025-12-04 09:25:19.152,390,"Meta is responding to the text messages on the gen2. It alerts the user that a message has been received but it doesn’t read the message out."
-1068,2025-12-04 09:33:12.326,863,"Meta announces the message and also reads it out to the user. The reading out didn’t initially happen because not all features were turned on in WhatsApp through the glasses settings in the meta app . After that was done , it worked just fine. The user seemed comfortable and was able to multitask well - messaging while watching the YouTube video."
-1068,2025-12-04 09:36:17.733,1048,"Meta always confirms with the user before sending the message. On one instance, the user had to repeat the response. This happened because while the user was responding , there was another message which interrupted it. So meta stopped , read out the new message and then the user had to repeat the previous response."
-1068,2025-12-04 09:40:04.097,1275,"The user could speak with their natural tone and have the conversation go on smoothly in response to the WhatsApp messages."

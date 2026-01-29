@@ -1,8 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-03 13:41:34.273,583,600,-17,0,"Phone screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-03 13:41:44.557,593,600,-7,1,"Phone screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-03 13:51:22.772,1171,1200,-29,0,"Glasses screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-03 13:51:26.717,1175,1200,-25,1,"Glasses screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-03 14:01:30.360,1779,1800,-21,0,"Glasses screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-11-03 14:01:33.311,1782,1800,-18,0,"Glasses screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-03 14:01:37.040,1785,1800,-15,1,"Glasses screen",false

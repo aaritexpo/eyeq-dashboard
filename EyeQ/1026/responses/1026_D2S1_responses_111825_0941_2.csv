@@ -1,5 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1026,JH,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-18 09:32:03.901,645,600,NA,NA,"",true
-1026,JH,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-18 09:32:03.901,645,600,NA,NA,"",true
-1026,JH,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-11-18 09:41:07.770,1188,1200,-12,0,"Glasses screen",false
-1026,JH,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-11-18 09:41:10.288,1191,1200,-9,1,"Glasses screen",false

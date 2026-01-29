@@ -1,0 +1,9 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3012,2026-01-29 09:40:13.387,1341,"Participant received auditory notification about incoming message but Meta did not read message contents out like usual. I opened message on the phone and I’m wondering if Meta could not read it due to the length of the message"
+3012,2026-01-29 09:43:46.818,1555,"Participant attempted to have Meta read message by prompting it with “Hey Meta read my most recent message” but Meta would still not read it out"
+3012,2026-01-29 09:46:33.659,1722,"Participant missed a message and then asked Meta to read their most recent message which Meta did, leaving participant to wonder why the previous message could not be read aloud"
+3012,2026-01-29 10:09:13.983,3082,"Participant notices that the Meta in the Gen2 glasses gives very detailed information about requests while they notice the MR Meta often gave mkre straightforward answers"
+3012,2026-01-29 10:10:32.378,3160,"Participant likes Gen2 Meta’s voice more than MR glasses Meta’s voice"
+3012,2026-01-29 10:12:44.734,3293,"Participant decides that they would rather not have the display when requesting information through Meta because they feel like it did not add to their learning experience but instead distracted them"
+3012,2026-01-29 10:14:07.409,3375,"Participant compared display to a gnat that just won’t go away since it’s always in your eyesight. Participant also described the experience of having the display in their line of vision as superfluous since they’d often ask about an image they were looking at and then Meta would display the same image"
+3012,2026-01-29 10:15:11.719,3440,"Participant is content with the information provided by Gen2 Meta"

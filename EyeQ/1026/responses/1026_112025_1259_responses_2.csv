@@ -1,5 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1026,Jh,AI Glasses & Neural Band,Watching,misc,2025-11-20 12:49:04.555,598,600,-2,0,"Glasses screen",false
-1026,Jh,AI Glasses & Neural Band,Watching,eyestrain,2025-11-20 12:49:06.721,601,600,1,1,"Glasses screen",false
-1026,Jh,AI Glasses & Neural Band,Watching,misc,2025-11-20 12:59:01.844,1196,1200,-4,0,"Glasses screen",false
-1026,Jh,AI Glasses & Neural Band,Watching,eyestrain,2025-11-20 12:59:03.510,1197,1200,-3,1,"Glasses screen",false

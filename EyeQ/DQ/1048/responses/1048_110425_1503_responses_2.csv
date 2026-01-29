@@ -1,5 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1048,ARD,AI Glasses & Neural Band,Watching,misc,2025-11-04 14:53:37.344,565,600,-35,0,"Glasses screen",false
-1048,ARD,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 14:53:42.473,571,600,-29,1,"Glasses screen",false
-1048,ARD,AI Glasses & Neural Band,Watching,misc,2025-11-04 15:03:31.512,1160,1200,-40,0,"Glasses screen, Real world, plain backdrop",false
-1048,ARD,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 15:03:37.077,1165,1200,-35,2,"Glasses screen, Real world, plain backdrop",false

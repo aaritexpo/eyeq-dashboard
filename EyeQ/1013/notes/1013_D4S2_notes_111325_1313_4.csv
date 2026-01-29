@@ -1,5 +1,0 @@
-Participant ID,Timestamp,Global Time (seconds),Note
-1013,2025-11-13 13:08:13.886,153,"PT is trying to send multiple photos at a time using meta"
-1013,2025-11-13 13:11:24.041,343,"PT is trying to zoom the camera"
-1013,2025-11-13 13:12:22.302,401,"Won’t allow PT to send a photo"
-1013,2025-11-13 13:13:08.488,447,"Glasses are telling PT that it doesn’t have the ability to do that on the glasses"

@@ -1,3 +1,0 @@
-Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-03 13:41:34.273,583,600,-17,0,"Phone screen",false
-1008,MAX,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-03 13:41:44.557,593,600,-7,1,"Phone screen",false
