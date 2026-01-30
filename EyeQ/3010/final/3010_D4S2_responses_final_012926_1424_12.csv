@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 12:31:23.166,572,600,-28,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 12:31:25.500,574,600,-26,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 12:41:15.634,1164,1200,-36,0,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 12:41:17.429,1166,1200,-34,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 12:51:15.093,1764,1800,-36,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 12:51:18.192,1767,1800,-33,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 12:51:29.358,1778,1800,-22,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:01:24.602,2373,2400,-27,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:01:27.300,2376,2400,-24,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:11:11.626,2960,3000,-40,0,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:11:14.443,2963,3000,-37,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:21:24.099,3573,3600,-27,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 13:21:26.199,3575,3600,-25,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:21:29.200,3578,3600,-22,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:31:12.579,4161,4200,-39,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:31:15.144,4164,4200,-36,2,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:41:25.014,4774,4800,-26,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:41:26.514,4775,4800,-25,2,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:51:19.289,5368,5400,-32,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 13:51:27.737,5377,5400,-23,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:51:31.467,5380,5400,-20,2,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 14:01:11.616,5960,6000,-40,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 14:01:13.533,5962,6000,-38,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 14:11:14.093,6563,6600,-37,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 14:11:19.522,6568,6600,-32,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 14:21:11.690,7160,7200,-40,1,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 14:21:14.554,7163,7200,-37,2,"Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 14:21:16.551,7165,7200,-35,2,"Real world, busy/mixed backdrop",false

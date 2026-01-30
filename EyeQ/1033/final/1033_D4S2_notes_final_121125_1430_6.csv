@@ -1,7 +1,0 @@
-Participant ID,Timestamp,Global Time (seconds),Note
-1033,2025-12-11 12:34:28.776,391,"Gen2 glasses randomly start playing music"
-1033,2025-12-11 12:35:18.485,441,"Music starts playing even even Spotify app is not open"
-1033,2025-12-11 12:38:32.701,635,"Participant notices that Meta will sometimes send message without confirming with them if the message captured is accurate while other times, it will confirm with user"
-1033,2025-12-11 12:42:33.559,876,"Participant is visibly annoyed by Meta interrupting their request"
-1033,2025-12-11 12:46:18.351,1101,"Participant often interjects with phrases like “No, Meta” or “Meta, stop” to correct Meta but realizes Meta will not listen until they say “Hey, Meta” which contributes to delay"
-1033,2025-12-11 13:02:46.070,2089,"Participant notices that Meta will sometimes stay stuck on a previous topic and will interrupt user to predict the question"
