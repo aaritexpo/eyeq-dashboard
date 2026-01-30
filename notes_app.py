@@ -44,6 +44,8 @@ def load_notes_data(base_dir):
                         temp_df['Day'] = day
                         temp_df['Session'] = session
                         temp_df['Source File'] = file
+                        pid = temp_df['Participant ID'][0]
+                        #print(pid)
                         all_notes_list.append(temp_df)
                     except Exception as e:
                         print(f"Error reading {file_path}: {e}")
@@ -68,14 +70,15 @@ def load_notes_data(base_dir):
 
 # Load Data Once on Startup
 df = load_notes_data(BASE_DIR)
+df['Participant ID'] = df['Participant ID'].astype(float)
 available_pids = sorted(df['Participant ID'].unique())
 
 # --- DASH APP SETUP ---
-app = dash.Dash(__name__)
-server = app.server  # Expose server for deployment
+notes_app = dash.Dash(__name__)
+server = notes_app.server  # Expose server for deployment
 
 # --- LAYOUT ---
-app.layout = html.Div([
+notes_app.layout = html.Div([
     html.H1("EyeQ Session Notes Timeline", style={'textAlign': 'center'}),
 
     html.Div([
@@ -169,7 +172,7 @@ app.layout = html.Div([
 # --- CALLBACKS ---
 
 # Callback 1: Update Day dropdown based on selected PID
-@app.callback(
+@notes_app.callback(
     [Output('day-dropdown', 'options'),
      Output('day-dropdown', 'value')],
     [Input('pid-dropdown', 'value')]
@@ -189,7 +192,7 @@ def update_day_options(selected_pid):
 
 
 # Callback 2: Update Session dropdown based on selected PID and Day
-@app.callback(
+@notes_app.callback(
     [Output('session-dropdown', 'options'),
      Output('session-dropdown', 'value')],
     [Input('pid-dropdown', 'value'),
@@ -210,7 +213,7 @@ def update_session_options(selected_pid, selected_day):
 
 
 # Callback 3: Update the timeline graph when button is clicked
-@app.callback(
+@notes_app.callback(
     [Output('notes-timeline', 'figure'),
      Output('info-panel', 'children')],
     [Input('show-notes-btn', 'n_clicks')],
@@ -314,4 +317,4 @@ def update_timeline(n_clicks, selected_pid, selected_day, selected_session):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8051)  # Different port to run alongside main app
+    notes_app.run(debug=True, port=8051)  # Different port to run alongside main app
