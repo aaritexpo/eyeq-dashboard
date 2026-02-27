@@ -40,36 +40,11 @@ def load_optometry_data():
     # Rename to match existing data conventions
     opto = opto.rename(columns={'PT': 'Participant ID', 'Session': 'Daily Session'})
 
-    # Build session-level lookup from existing CSV data
-    all_files = []
-    for root, dirs, files in os.walk(BASE_DIR):
-        if 'DQ' in dirs:
-            dirs.remove('DQ')
-        if 'Dry runs' in dirs:
-            dirs.remove('Dry runs')
-        if os.path.basename(root) == 'final':
-            for f in files:
-                if 'responses_final' in f and f.endswith('.csv'):
-                    all_files.append(os.path.join(root, f))
+    # Load pre-generated session lookup (avoids scanning hundreds of CSVs)
+    session_lookup = pd.read_csv('session_lookup.csv')
 
-    csv_dfs = [pd.read_csv(f) for f in all_files]
-    csv_df = pd.concat(csv_dfs, ignore_index=True)
-
-    session_lookup = csv_df.groupby(
-        ['Participant ID', 'Study Day', 'Daily Session']
-    ).agg({
-        'Device Type': 'first',
-        'Session Type': 'first',
-        'Moderator Initials': 'first',
-    }).reset_index()
-
-    # VIMSSQ scores
-    eyeq_data = pd.read_csv(os.path.join(BASE_DIR, 'EyeQ Data - Master.csv'))
-    vimssq = eyeq_data[['Participant ID', 'VIMSSQ-Intake']].drop_duplicates(subset=['Participant ID'])
-
-    # Merge
+    # Merge session metadata and VIMSSQ scores
     opto = opto.merge(session_lookup, on=['Participant ID', 'Study Day', 'Daily Session'], how='left')
-    opto = opto.merge(vimssq, on='Participant ID', how='left')
     opto = opto.rename(columns={'VIMSSQ-Intake': 'VIMSSQ Score'})
 
     # Parse metric columns: flag failures, coerce to numeric
