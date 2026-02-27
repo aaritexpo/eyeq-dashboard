@@ -14,12 +14,19 @@ FAILURE_METRICS = {
     'mem OD', 'mem OS',
 }
 
+# Columns that need VA parsing (x/y format -> extract y)
+VA_METRICS = [
+    'VA Distance 10 feet OU',
+    'VA Distance 10 feet OD',
+    'VA Distance 10 feet OS',
+]
+
 METRIC_OPTIONS = [
     'aca', 'cac', 'verg fac OU',
     'npc #1 blur', 'npc #1 recovery', 'npc #1 break',
     'acc facility OU', 'acc facility OD', 'acc facility OS',
     'mem OD', 'mem OS',
-]
+] + VA_METRICS
 
 
 # --- DATA LOADING ---
@@ -45,6 +52,10 @@ def load_optometry_data():
     # Merge session metadata and VIMSSQ scores
     opto = opto.merge(session_lookup, on=['Participant ID', 'Study Day', 'Daily Session'], how='left')
     opto = opto.rename(columns={'VIMSSQ-Intake': 'VIMSSQ Score'})
+
+    # Parse VA columns: extract denominator from "20/Y+Z" or "20/Y-Z" format
+    for col in VA_METRICS:
+        opto[col] = opto[col].astype(str).str.extract(r'\d+/(\d+)', expand=False)
 
     # Parse metric columns: flag failures, coerce to numeric
     for col in METRIC_OPTIONS:
