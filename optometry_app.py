@@ -25,12 +25,11 @@ METRIC_OPTIONS = [
 # --- DATA LOADING ---
 def load_optometry_data():
     # Load optometry excel
-    opto = pd.read_excel('Optometry_Cleaned_2172026.xlsx')
+    opto = pd.read_csv('Optometry_Cleaned.csv')
 
-    # Fix known date typo and parse dates
-    opto['Date'] = opto['Date'].apply(
-        lambda x: pd.Timestamp('2026-01-28') if isinstance(x, str) else pd.Timestamp(x)
-    )
+    # Fix known date typo then parse dates
+    opto['Date'] = opto['Date'].replace('1/28:2026', '2026-01-28')
+    opto['Date'] = pd.to_datetime(opto['Date'], format='mixed')
 
     # Derive Study Day (1-4) from date rank per participant
     opto['Study Day'] = opto.groupby('PT')['Date'].transform(
