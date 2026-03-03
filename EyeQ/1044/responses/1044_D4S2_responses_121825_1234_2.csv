@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1044,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 12:24:44.381,560,600,-40,0,"Real world, plain backdrop",false
+1044,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 12:24:45.377,561,600,-39,1,"Real world, plain backdrop",false
+1044,LAV,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 12:34:45.404,1161,1200,-39,0,"Real world, plain backdrop",false
+1044,LAV,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 12:34:46.302,1162,1200,-38,1,"Real world, plain backdrop",false

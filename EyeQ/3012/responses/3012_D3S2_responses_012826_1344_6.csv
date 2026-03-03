@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 12:54:11.640,571,600,-29,1,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 12:54:18.498,578,600,-22,2,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 13:04:15.258,1174,1200,-26,1,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 13:04:20.689,1180,1200,-20,2,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 13:14:14.328,1774,1800,-26,1,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 13:14:21.627,1781,1800,-19,1,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 13:14:25.443,1785,1800,-15,2,"Glasses screen, Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 13:24:04.589,2364,2400,-36,1,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 13:24:14.016,2373,2400,-27,2,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 13:34:09.060,2968,3000,-32,1,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 13:34:13.723,2973,3000,-27,2,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 13:44:05.769,3565,3600,-35,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 13:44:29.378,3589,3600,-11,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 13:44:42.311,3602,3600,2,2,"Phone screen",false

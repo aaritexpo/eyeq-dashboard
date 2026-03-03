@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 09:33:21.691,565,600,-35,0,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 09:33:23.655,567,600,-33,1,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 09:43:22.259,1166,1200,-34,0,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 09:43:23.424,1167,1200,-33,1,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 09:53:39.745,1783,1800,-17,0,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,discomfort,2025-11-19 09:53:41.244,1785,1800,-15,0,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 09:53:42.644,1786,1800,-14,1,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 10:03:22.029,2365,2400,-35,0,"Glasses screen",false
+1038,LAV,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 10:03:23.158,2367,2400,-33,1,"Glasses screen",false

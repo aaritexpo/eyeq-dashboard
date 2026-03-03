@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 15:49:22.022,562,600,-38,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 15:49:24.955,565,600,-35,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 15:59:24.926,1165,1200,-35,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 15:59:30.022,1170,1200,-30,3,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:09:18.376,1758,1800,-42,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 16:09:24.331,1764,1800,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:09:26.825,1767,1800,-33,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:19:24.747,2365,2400,-35,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:19:26.915,2367,2400,-33,2,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:29:18.673,2959,3000,-41,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:29:19.953,2960,3000,-40,2,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:39:17.211,3557,3600,-43,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 16:39:22.103,3562,3600,-38,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:39:24.791,3565,3600,-35,2,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:49:19.758,4160,4200,-40,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:49:21.058,4161,4200,-39,2,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 16:59:22.880,4763,4800,-37,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 16:59:27.214,4767,4800,-33,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 17:09:20.106,5360,5400,-40,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 17:09:28.271,5368,5400,-32,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 17:09:30.114,5370,5400,-30,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 17:19:20.292,5960,6000,-40,1,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 17:19:24.194,5964,6000,-36,2,"Phone screen, Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 17:29:17.030,6557,6600,-43,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 17:29:17.994,6558,6600,-42,2,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 17:39:16.815,7157,7200,-43,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 17:39:18.800,7159,7200,-41,1,"Real world, busy/mixed backdrop",false
+3003,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 17:39:20.063,7160,7200,-40,2,"Real world, busy/mixed backdrop",false

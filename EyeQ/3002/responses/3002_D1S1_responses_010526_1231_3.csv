@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:11:15.552,587,600,-13,0,"Real world, plain backdrop",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:11:20.184,592,600,-8,1,"Real world, plain backdrop",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:21:02.972,1175,1200,-25,0,"Phone screen",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:21:04.808,1177,1200,-23,1,"Phone screen",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:30:50.130,1762,1800,-38,0,"Glasses screen",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:30:53.376,1765,1800,-35,0,"Glasses screen",false
+3002,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:30:55.009,1767,1800,-33,1,"Glasses screen",false

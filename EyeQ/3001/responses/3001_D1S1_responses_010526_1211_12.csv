@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:21:57.750,606,600,6,0,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:22:05.979,614,600,14,1,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:31:26.346,1175,1200,-25,0,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:31:33.332,1182,1200,-18,1,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:41:16.441,1765,1800,-35,0,"Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 10:41:19.007,1767,1800,-33,0,"Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:41:21.940,1770,1800,-30,1,"Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 10:51:17.931,2366,2400,-34,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 10:51:23.459,2372,2400,-28,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:01:24.379,2973,3000,-27,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:01:28.291,2976,3000,-24,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:11:14.541,3563,3600,-37,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 11:11:19.354,3568,3600,-32,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:11:25.942,3574,3600,-26,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:21:14.922,4163,4200,-37,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:21:18.569,4167,4200,-33,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:31:14.299,4762,4800,-38,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:31:21.632,4770,4800,-30,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:41:19.446,5368,5400,-32,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 11:41:22.195,5370,5400,-30,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:41:26.727,5375,5400,-25,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:51:18.500,5967,6000,-33,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:51:27.315,5976,6000,-24,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:01:16.631,6565,6600,-35,1,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:01:19.878,6568,6600,-32,2,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:11:22.072,7170,7200,-30,1,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:11:24.754,7173,7200,-27,1,"Phone screen",false
+3001,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:11:27.952,7176,7200,-24,2,"Phone screen",false

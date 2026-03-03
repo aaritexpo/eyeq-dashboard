@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1005,HP,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-03 11:10:18.744,1205,1200,5,0,"Glasses screen",false
+1005,HP,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-03 11:10:31.238,1218,1200,18,1,"Glasses screen",false

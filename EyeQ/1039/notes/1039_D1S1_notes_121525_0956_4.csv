@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1039,2025-12-15 09:42:01.928,145,"Participant starts session on the grey couch."
+1039,2025-12-15 09:48:31.206,534,"Participant able to pair neural band immediately, but having trouble connecting glasses to phone. Unable to pair. Participant has toggled on off switch. Participant is referencing “Get support” menu."
+1039,2025-12-15 09:54:01.987,865,"Participant able to enter pairing mode but unable to pair with glasses. Will turn off phone, glasses, and factory reset neural band before attempting to pair once more."
+1039,2025-12-15 09:56:26.357,1009,"Participant was able to pair glasses after turning all devices off and back on."

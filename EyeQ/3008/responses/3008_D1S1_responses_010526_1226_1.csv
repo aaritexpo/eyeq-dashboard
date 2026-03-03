@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:25:32.878,575,600,-25,0,"Real world, plain backdrop",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:25:43.360,586,600,-14,1,"Real world, plain backdrop",false

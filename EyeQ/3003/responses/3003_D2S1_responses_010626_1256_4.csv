@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 12:26:14.379,563,600,-37,0,"Glasses screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 12:26:16.155,564,600,-36,1,"Glasses screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 12:36:16.209,1165,1200,-35,1,"Glasses screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 12:36:19.092,1167,1200,-33,2,"Glasses screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 12:46:14.111,1762,1800,-38,1,"Phone screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-06 12:46:17.347,1766,1800,-34,1,"Phone screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 12:46:20.742,1769,1800,-31,2,"Phone screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 12:56:09.195,2358,2400,-42,1,"Phone screen",false
+3003,RAO,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 12:56:11.476,2360,2400,-40,2,"Phone screen",false

@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:28:55.742,630,600,30,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:28:59.129,633,600,33,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:37:51.675,1166,1200,-34,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:37:55.228,1169,1200,-31,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:47:49.395,1763,1800,-37,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 15:47:52.141,1766,1800,-34,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:47:54.016,1768,1800,-32,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 15:57:47.220,2361,2400,-39,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 15:57:49.952,2364,2400,-36,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:07:52.142,2966,3000,-34,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:07:54.344,2968,3000,-32,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:17:49.553,3564,3600,-36,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 16:17:51.244,3565,3600,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:17:52.493,3567,3600,-33,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:27:48.658,4163,4200,-37,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:27:50.186,4164,4200,-36,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:37:47.974,4762,4800,-38,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:37:48.984,4763,4800,-37,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,misc,2025-11-19 16:47:54.987,5369,5400,-31,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,discomfort,2025-11-19 16:47:57.990,5372,5400,-28,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Discover & Learn,3,2,eyestrain,2025-11-19 16:48:01.269,5375,5400,-25,1,"Glasses screen",false

@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 08:55:33.757,561,600,-39,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 08:55:36.269,564,600,-36,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:05:43.888,1172,1200,-28,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:05:48.070,1176,1200,-24,3,"Glasses screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:15:32.674,1760,1800,-40,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 09:15:36.790,1765,1800,-35,2,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:15:47.421,1775,1800,-25,3,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:25:46.572,2374,2400,-26,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:25:48.457,2376,2400,-24,2,"Phone screen, Real world, busy/mixed backdrop",false

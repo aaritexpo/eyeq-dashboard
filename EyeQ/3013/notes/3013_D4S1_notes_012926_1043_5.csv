@@ -1,0 +1,6 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3013,2026-01-29 10:02:31.356,401,"The glasses seem to be to big we might have to switch."
+3013,2026-01-29 10:15:58.035,1208,"Switched to #4V37W24H8901MF due to smaller size"
+3013,2026-01-29 10:22:59.077,1629,"During the protocol meta was cutting the participant off."
+3013,2026-01-29 10:27:51.549,1921,"If the participant is taking a while to ask a question meta would try to answer the question based on the little information it received."
+3013,2026-01-29 10:43:31.099,2861,"While asking meta questions meta wanted to open the camera."

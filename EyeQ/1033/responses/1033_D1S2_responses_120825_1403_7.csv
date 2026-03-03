@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:03:06.900,576,600,-24,0,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:03:10.269,579,600,-21,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:13:12.224,1181,1200,-19,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:13:17.789,1187,1200,-13,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:22:59.503,1768,1800,-32,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 13:23:00.887,1770,1800,-30,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:23:02.723,1772,1800,-28,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:32:53.626,2363,2400,-37,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:32:54.875,2364,2400,-36,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:42:53.516,2963,3000,-37,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:42:54.779,2964,3000,-36,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:52:54.158,3563,3600,-37,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 13:52:55.792,3565,3600,-35,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:52:57.324,3566,3600,-34,2,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:02:58.071,4167,4200,-33,1,"Glasses screen",false
+1033,BYD,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:02:59.402,4168,4200,-32,2,"Glasses screen",false

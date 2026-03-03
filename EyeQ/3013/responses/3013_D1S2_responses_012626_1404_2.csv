@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 13:54:21.257,576,600,-24,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 13:54:26.170,581,600,-19,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 14:04:18.037,1173,1200,-27,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 14:04:22.536,1178,1200,-22,1,"Glasses screen",false

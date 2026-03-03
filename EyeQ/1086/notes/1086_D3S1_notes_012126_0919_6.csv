@@ -1,0 +1,7 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1086,2026-01-21 09:12:01.923,19,"User is wearing wristband and glasses, checking meta app for connection"
+1086,2026-01-21 09:14:12.749,150,"User is able to locate photos in WhatsApp and has started scavenger hunt"
+1086,2026-01-21 09:15:01.800,199,"User captures photo using glasses"
+1086,2026-01-21 09:16:19.441,277,"WhatsApp automatically disconnects itself, user has to reconnect app to glasses"
+1086,2026-01-21 09:18:00.741,378,"Moderator troubleshoots by closing and reopening meta and WhatsApp after user complains that glasses are not pulling up the scanner to scan WhatsApp barcode"
+1086,2026-01-21 09:19:03.489,441,"User is able to restart scavenger hunt as meta does not know what the last photo was after a timeout period"

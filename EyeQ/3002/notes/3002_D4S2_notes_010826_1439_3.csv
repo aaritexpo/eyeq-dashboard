@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3002,2026-01-08 14:31:00.961,516,"Meta cannot recognize the name to send the message again"
+3002,2026-01-08 14:36:44.548,860,"Some of the messages get read by glasses and some on phone, meta glasses do not announce all the messages"
+3002,2026-01-08 14:39:46.711,1042,"There is a time lag between getting the message and meta announcing it"

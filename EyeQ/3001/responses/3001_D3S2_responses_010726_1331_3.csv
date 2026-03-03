@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-07 13:10:52.118,601,600,1,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-07 13:10:58.463,607,600,7,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-07 13:21:02.332,1211,1200,11,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-07 13:21:04.451,1213,1200,13,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-07 13:30:24.877,1773,1800,-27,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-07 13:30:29.641,1778,1800,-22,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3001,JMH,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-07 13:30:32.060,1781,1800,-19,2,"Glasses screen, Real world, busy/mixed backdrop",false

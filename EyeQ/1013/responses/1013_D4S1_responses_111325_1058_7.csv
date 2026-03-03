@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 09:57:56.698,562,600,-38,0,"Glasses screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 09:57:57.927,563,600,-37,1,"Glasses screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:07:56.939,1162,1200,-38,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:07:58.421,1164,1200,-36,1,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:18:06.681,1772,1800,-28,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-11-13 10:18:08.597,1774,1800,-26,0,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:18:13.494,1779,1800,-21,1,"Phone screen",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:27:59.038,2364,2400,-36,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:28:00.552,2366,2400,-34,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:37:59.813,2965,3000,-35,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:38:01.494,2967,3000,-33,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:48:08.449,3574,3600,-26,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-11-13 10:48:10.067,3575,3600,-25,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:48:12.732,3578,3600,-22,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-11-13 10:58:13.725,4179,4200,-21,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1013,WIL,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-11-13 10:58:15.612,4181,4200,-19,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false

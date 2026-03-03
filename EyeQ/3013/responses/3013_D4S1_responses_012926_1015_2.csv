@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:05:37.955,588,600,-12,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:05:42.433,592,600,-8,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:15:07.233,1157,1200,-43,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3013,JMH,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:15:08.560,1158,1200,-42,1,"Glasses screen, Real world, busy/mixed backdrop",false

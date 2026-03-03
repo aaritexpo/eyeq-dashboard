@@ -1,0 +1,19 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 14:19:41.211,587,600,-13,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 14:19:44.093,590,600,-10,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 14:29:31.970,1178,1200,-22,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 14:29:34.651,1180,1200,-20,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 14:39:26.598,1772,1800,-28,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,discomfort,2025-11-17 14:39:32.276,1778,1800,-22,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 14:39:35.393,1781,1800,-19,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 14:49:19.923,2366,2400,-34,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 14:49:22.254,2368,2400,-32,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 14:59:22.249,2968,3000,-32,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 14:59:25.298,2971,3000,-29,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 15:09:25.674,3571,3600,-29,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,discomfort,2025-11-17 15:09:30.355,3576,3600,-24,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 15:09:35.323,3581,3600,-19,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 15:19:23.881,4169,4200,-31,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 15:19:26.843,4172,4200,-28,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,misc,2025-11-17 15:29:23.062,4769,4800,-31,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-11-17 15:29:26.992,4773,4800,-27,1,"Glasses screen",false

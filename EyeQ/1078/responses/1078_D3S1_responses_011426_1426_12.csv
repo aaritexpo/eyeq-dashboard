@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 12:35:56.615,558,600,-42,0,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 12:35:57.839,560,600,-40,1,"Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 12:45:59.691,1161,1200,-39,0,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 12:46:19.681,1181,1200,-19,1,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 12:55:58.356,1760,1800,-40,0,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 12:56:00.940,1763,1800,-37,0,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 12:56:02.454,1764,1800,-36,1,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:05:58.504,2360,2400,-40,0,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:05:59.671,2361,2400,-39,1,"Glasses screen, Phone screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:15:56.465,2958,3000,-42,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:15:57.747,2959,3000,-41,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:25:55.847,3558,3600,-42,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 13:25:57.748,3559,3600,-41,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:26:02.447,3564,3600,-36,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:35:57.681,4159,4200,-41,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:36:03.435,4165,4200,-35,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:45:57.622,4759,4800,-41,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:45:59.050,4761,4800,-39,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 13:56:07.626,5369,5400,-31,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 13:56:10.302,5372,5400,-28,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 13:56:12.384,5374,5400,-26,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 14:06:14.239,5976,6000,-24,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 14:06:16.442,5978,6000,-22,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 14:15:58.116,6560,6600,-40,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 14:16:02.565,6564,6600,-36,2,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-14 14:25:56.999,7159,7200,-41,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-14 14:25:58.837,7161,7200,-39,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-14 14:26:01.634,7163,7200,-37,2,"Real world, busy/mixed backdrop",false

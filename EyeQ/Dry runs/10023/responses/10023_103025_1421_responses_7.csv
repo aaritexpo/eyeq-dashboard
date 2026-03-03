@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:21:37.526,591,600,-9,0,"",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:21:44.955,599,600,-1,1,"",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:31:34.395,1188,1200,-12,0,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:31:38.442,1192,1200,-8,1,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:41:37.761,1791,1800,-9,1,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,discomfort,2025-10-30 13:41:43.147,1797,1800,-3,2,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:41:51.841,1805,1800,5,2,"Glasses screen",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 13:51:34.423,2388,2400,-12,0,"Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 13:51:39.855,2393,2400,-7,2,"Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 14:01:33.745,2987,3000,-13,0,"Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 14:01:37.616,2991,3000,-9,1,"Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 14:11:36.439,3590,3600,-10,0,"Glasses screen, Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,discomfort,2025-10-30 14:11:40.555,3594,3600,-6,2,"Glasses screen, Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 14:11:46.205,3600,3600,0,2,"Glasses screen, Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,misc,2025-10-30 14:21:33.602,4187,4200,-13,0,"Glasses screen, Real world, busy/mixed backdrop",false
+10023,LAV,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-30 14:21:37.121,4191,4200,-9,1,"Glasses screen, Real world, busy/mixed backdrop",false

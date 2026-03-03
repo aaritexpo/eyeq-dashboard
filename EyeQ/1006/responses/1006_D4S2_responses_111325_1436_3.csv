@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 14:16:41.319,569,600,-31,0,"Phone screen, Real world, plain backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 14:16:43.804,572,600,-28,1,"Phone screen, Real world, plain backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 14:26:39.871,1168,1200,-32,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 14:26:44.387,1172,1200,-28,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 14:36:40.244,1768,1800,-32,0,"Real world, busy/mixed backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-11-13 14:36:46.737,1775,1800,-25,0,"Real world, busy/mixed backdrop",false
+1006,MAX,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 14:36:48.812,1777,1800,-23,1,"Real world, busy/mixed backdrop",false

@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:26:02.435,561,600,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:26:05.381,564,600,-36,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false

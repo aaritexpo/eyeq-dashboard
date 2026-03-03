@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 11:55:57.283,614,600,14,0,"",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 11:56:09.307,626,600,26,1,"",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:05:09.948,1166,1200,-34,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:05:16.945,1173,1200,-27,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:15:07.895,1764,1800,-36,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:15:13.295,1770,1800,-30,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:15:18.109,1775,1800,-25,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:25:07.143,2364,2400,-36,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:25:10.177,2367,2400,-33,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:35:41.340,2998,3000,-2,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:35:42.674,2999,3000,-1,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:45:36.699,3593,3600,-7,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:45:41.847,3598,3600,-2,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:45:45.912,3602,3600,2,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:55:18.196,4175,4200,-25,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:55:19.861,4176,4200,-24,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:05:10.349,4767,4800,-33,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:05:12.181,4769,4800,-31,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:15:08.637,5365,5400,-35,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 13:15:11.471,5368,5400,-32,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:15:13.338,5370,5400,-30,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:25:37.688,5994,6000,-6,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:25:41.568,5998,6000,-2,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:35:22.293,6579,6600,-21,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:35:23.960,6580,6600,-20,1,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:45:10.733,7167,7200,-33,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 13:45:13.016,7169,7200,-31,0,"Glasses screen",false
+3007,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:45:14.596,7171,7200,-29,1,"Glasses screen",false

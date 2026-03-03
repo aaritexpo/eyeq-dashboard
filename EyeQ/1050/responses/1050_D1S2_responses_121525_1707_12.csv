@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 15:18:08.549,619,600,19,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 15:18:13.865,624,600,24,2,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 15:27:15.291,1165,1200,-35,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 15:27:17.868,1168,1200,-32,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 15:37:27.387,1778,1800,-22,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-15 15:37:34.422,1785,1800,-15,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 15:37:39.906,1790,1800,-10,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 15:47:15.664,2366,2400,-34,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 15:47:16.978,2367,2400,-33,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 15:57:22.750,2973,3000,-27,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 15:57:29.332,2980,3000,-20,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:07:33.767,3584,3600,-16,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-15 16:07:38.684,3589,3600,-11,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:07:40.500,3591,3600,-9,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:17:31.673,4182,4200,-18,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:17:33.074,4183,4200,-17,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:27:18.368,4769,4800,-31,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:27:21.785,4772,4800,-28,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:37:13.585,5364,5400,-36,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-15 16:37:18.204,5368,5400,-32,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:37:21.101,5371,5400,-29,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:47:19.474,5970,6000,-30,2,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:47:25.357,5976,6000,-24,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 16:57:24.840,6575,6600,-25,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 16:57:27.424,6578,6600,-22,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 17:07:20.875,7171,7200,-29,2,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-15 17:07:28.236,7178,7200,-22,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 17:07:32.485,7183,7200,-17,1,"Glasses screen",false

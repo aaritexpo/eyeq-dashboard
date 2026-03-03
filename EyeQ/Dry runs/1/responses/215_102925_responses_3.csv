@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Missed
+215,HP,AI Glasses & Neural Band,Capture & Share,misc,2025-10-29T15:27:03.854Z,58,60,-2,5,false
+215,HP,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-29T15:27:04.870Z,60,60,0,4,false
+215,HP,AI Glasses & Neural Band,Capture & Share,misc,2025-10-29T15:27:51.670Z,106,120,-14,7,false
+215,HP,AI Glasses & Neural Band,Capture & Share,discomfort,2025-10-29T15:27:52.470Z,107,120,-13,3,false
+215,HP,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-29T15:27:53.269Z,108,120,-12,4,false
+215,HP,AI Glasses & Neural Band,Capture & Share,misc,2025-10-29T15:28:52.684Z,167,180,-13,7,false
+215,HP,AI Glasses & Neural Band,Capture & Share,eyestrain,2025-10-29T15:28:53.450Z,168,180,-12,3,false

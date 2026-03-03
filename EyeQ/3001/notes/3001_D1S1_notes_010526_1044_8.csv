@@ -1,0 +1,10 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3001,2026-01-05 10:12:49.647,58,"Participant starts study, has glasses and neuraband on."
+3001,2026-01-05 10:14:50.569,179,"Glasses are already paired to phone but not yet connected."
+3001,2026-01-05 10:19:26.246,454,"User found set up instructions in the meta app. Unpaired the band and repaired the current band. Glasses connected without issue."
+3001,2026-01-05 10:24:10.087,738,"User connected to incorrect band, had to unpair both devices, forget devices on Bluetooth, and reconnect them."
+3001,2026-01-05 10:24:48.293,776,"User removed glasses to repair and reconnect them to the phone."
+3001,2026-01-05 10:34:37.490,1366,"Glasses are stuck in a state where the light is pulsing white but not connecting. User attempted factory reset but glasses did not respond."
+3001,2026-01-05 10:42:25.188,1833,"Glasses were unresponsive, grabbing a new pair. 
+Pair #11 ID #2Y0YW14H590011"
+3001,2026-01-05 10:44:23.346,1952,"User successfully paired the new glasses and the same band with the phone with little difficulty."

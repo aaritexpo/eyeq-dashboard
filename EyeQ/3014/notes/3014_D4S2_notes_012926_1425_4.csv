@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3014,2026-01-29 14:22:23.354,70,"User is wearing gen 2 glasses and is instructed on the activity, capturing photos and sending it to moderator"
+3014,2026-01-29 14:23:30.351,137,"User walks next to dark green armchair and captures a photo, is able to send it to moderator in the same command, only having to confirm it when meta requests"
+3014,2026-01-29 14:24:11.766,178,"User repeats ‘send last photo’ to moderator multiple times, has to move to a different place in the room to get good connectivity"
+3014,2026-01-29 14:25:19.031,245,"User has taken and sent 6 photos so far, but upon opening WhatsApp, only two were actually sent to moderator"

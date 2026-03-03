@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 12:31:44.305,563,600,-37,0,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 12:31:46.374,565,600,-35,1,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 12:41:48.110,1166,1200,-34,0,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 12:41:49.535,1168,1200,-32,1,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 12:51:41.141,1759,1800,-41,0,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 12:51:42.255,1761,1800,-39,0,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 12:51:43.624,1762,1800,-38,1,"Phone screen",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:02:20.160,2399,2400,-1,0,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:02:21.578,2400,2400,0,1,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:12:37.666,3016,3000,16,0,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:12:38.600,3017,3000,17,1,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:21:40.948,3559,3600,-41,0,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 13:21:42.118,3560,3600,-40,0,"Real world, busy/mixed backdrop",false
+3006,LAV,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:21:43.813,3562,3600,-38,1,"Real world, busy/mixed backdrop",false

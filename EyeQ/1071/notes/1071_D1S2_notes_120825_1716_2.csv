@@ -1,0 +1,3 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1071,2025-12-08 17:10:26.902,638,"For the capture and share task, the video recording froze at a point when the user tried to move their head around. Also meta kept sending a previously recorded video instead of an updated one."
+1071,2025-12-08 17:16:05.768,977,"Meta sent photos and videos that were initially taken but at a point it just stopped sending the media files. Some of the files would show up in the meta app but were not sent through WhatsApp."

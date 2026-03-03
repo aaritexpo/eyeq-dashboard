@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:39:43.616,581,600,-19,0,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:39:51.209,589,600,-11,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:49:26.272,1164,1200,-36,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:49:32.282,1170,1200,-30,3,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:59:24.872,1762,1800,-38,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:59:28.401,1766,1800,-34,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:59:36.617,1774,1800,-26,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:09:27.413,2365,2400,-35,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:09:30.628,2368,2400,-32,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:19:21.416,2959,3000,-41,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:19:24.735,2962,3000,-38,2,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:29:27.239,3565,3600,-35,0,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 13:29:29.553,3567,3600,-33,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:29:32.184,3570,3600,-30,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:39:52.469,4190,4200,-10,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:39:54.301,4192,4200,-8,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:49:26.299,4764,4800,-36,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:49:30.612,4768,4800,-32,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 13:59:24.470,5362,5400,-38,0,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 13:59:32.168,5370,5400,-30,0,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 13:59:37.100,5375,5400,-25,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 14:09:25.396,5963,6000,-37,0,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 14:09:27.993,5965,6000,-35,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 14:19:22.982,6560,6600,-40,0,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 14:19:25.312,6563,6600,-37,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 14:29:22.487,7160,7200,-40,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 14:29:25.438,7163,7200,-37,1,"Glasses screen, Phone screen",false
+1104,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 14:29:30.616,7168,7200,-32,2,"Glasses screen, Phone screen",false

@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3009,2026-01-20 11:02:45.234,874,"Note on Task - alternative for the captioning ( having the user watch a video on a different device while messaging) .
+The user / PT had their message interrupted by the background sound ie, the glasses picked up the audio from the video as part of the message they were trying to send using “hey meta … “ command . The audio from the phone was very loud so that could have been the reason. Once we turned the volume of the external device down, it worked fine."
+3009,2026-01-20 11:11:49.377,1418,"When the message is too long , the message is not read out. It only announces to the user / PT ..”long message from ….” without displaying the message or reading out the content of the message."
+3009,2026-01-20 11:21:18.305,1987,"The user / PT mentioned that the glasses was still picking up the audio from the video occasionally."

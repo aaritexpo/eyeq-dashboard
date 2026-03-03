@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:23:45.787,567,600,-33,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:23:48.951,570,600,-30,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:33:47.415,1169,1200,-31,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:33:53.161,1174,1200,-26,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:43:48.239,1770,1800,-30,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 15:43:54.069,1775,1800,-25,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:43:58.117,1779,1800,-21,1,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:53:47.263,2369,2400,-31,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:53:50.779,2372,2400,-28,1,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:03:45.026,2966,3000,-34,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:03:46.771,2968,3000,-32,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:13:46.138,3567,3600,-33,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 16:13:54.951,3576,3600,-24,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:13:57.801,3579,3600,-21,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:23:42.829,4164,4200,-36,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:23:44.346,4166,4200,-34,1,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:33:45.773,4767,4800,-33,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:33:48.322,4770,4800,-30,1,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 16:43:52.281,5374,5400,-26,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 16:43:55.077,5376,5400,-24,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 16:43:57.993,5379,5400,-21,1,"Glasses screen",false

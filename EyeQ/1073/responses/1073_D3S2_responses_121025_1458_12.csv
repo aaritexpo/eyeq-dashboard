@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:08:27.708,569,600,-31,0,"Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:08:29.608,571,600,-29,1,"Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:18:23.507,1165,1200,-35,0,"Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:18:25.623,1167,1200,-33,1,"Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:28:23.992,1765,1800,-35,0,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 13:28:29.221,1771,1800,-29,0,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:28:34.468,1776,1800,-24,1,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:38:24.060,2365,2400,-35,0,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:38:27.677,2369,2400,-31,1,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:48:19.261,2961,3000,-39,0,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:48:24.340,2966,3000,-34,1,"Glasses screen, Phone screen",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 13:58:36.404,3578,3600,-22,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 13:58:41.537,3583,3600,-17,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 13:58:46.081,3587,3600,-13,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:08:27.286,4169,4200,-31,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:08:38.913,4180,4200,-20,3,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:18:27.968,4769,4800,-31,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:18:32.938,4774,4800,-26,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:28:20.824,5362,5400,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 14:28:30.526,5372,5400,-28,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:28:34.804,5376,5400,-24,3,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:38:20.628,5962,6000,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:38:22.296,5964,6000,-36,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:48:22.282,6564,6600,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:48:26.584,6568,6600,-32,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2025-12-10 14:58:35.068,7176,7200,-24,0,"Phone screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2025-12-10 14:58:41.448,7183,7200,-17,0,"Phone screen, Real world, busy/mixed backdrop",false
+1073,KAM,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2025-12-10 14:58:46.069,7187,7200,-13,1,"Phone screen, Real world, busy/mixed backdrop",false

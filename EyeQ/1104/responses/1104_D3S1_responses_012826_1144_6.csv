@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:53:56.179,559,600,-41,0,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:54:00.210,563,600,-37,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:03:57.031,1159,1200,-41,0,"Glasses screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:03:58.813,1161,1200,-39,1,"Glasses screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:13:58.167,1761,1800,-39,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 11:14:02.217,1765,1800,-35,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:14:06.165,1769,1800,-31,1,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:24:04.370,2367,2400,-33,1,"Phone screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:24:08.603,2371,2400,-29,2,"Phone screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:33:56.557,2959,3000,-41,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:34:00.240,2963,3000,-37,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:43:57.601,3560,3600,-40,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 11:44:00.545,3563,3600,-37,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:44:05.395,3568,3600,-32,2,"Glasses screen",false

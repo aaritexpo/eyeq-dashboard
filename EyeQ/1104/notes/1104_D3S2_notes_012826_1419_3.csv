@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1104,2026-01-28 14:01:56.102,405,"Closed captioning didn’t work on the glasses / phone (#9) . We were unable to download the languages unto the Captions as required by the glasses. We used the alternative - had the user / PT watch the video on a different device + message on WhatsApp ."
+1104,2026-01-28 14:08:55.344,824,"The meta voice command picked up the external sound ( from the different device ) as part of the message being sent. The user / PT had to reduce the volume on the external device to prevent that from happening."
+1104,2026-01-28 14:19:47.667,1477,"The user / PT mentioned that with doing the alternative , they were unable to focus on the video."

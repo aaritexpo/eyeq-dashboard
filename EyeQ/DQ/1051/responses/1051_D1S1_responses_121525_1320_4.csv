@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:50:06.507,580,600,-20,0,"Real world, busy/mixed backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:50:15.958,590,600,-10,1,"Real world, busy/mixed backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:00:01.849,1175,1200,-25,0,"Phone screen",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:00:05.803,1179,1200,-21,1,"Phone screen",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:10:07.753,1781,1800,-19,0,"Real world, plain backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 13:10:17.104,1791,1800,-9,1,"Real world, plain backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:10:22.718,1796,1800,-4,2,"Real world, plain backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:20:01.803,2375,2400,-25,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1051,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:20:07.653,2381,2400,-19,1,"Glasses screen, Real world, busy/mixed backdrop",false

@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1048,ABG,AI Glasses & Neural Band,Watching,misc,2025-11-05 14:53:22.987,570,600,-30,0,"Glasses screen",false
+1048,ABG,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 14:53:27.783,575,600,-25,1,"Glasses screen",false
+1048,ABG,AI Glasses & Neural Band,Watching,misc,2025-11-05 15:03:21.455,1168,1200,-32,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 15:03:23.625,1170,1200,-30,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,misc,2025-11-05 15:13:15.328,1762,1800,-38,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,discomfort,2025-11-05 15:13:18.914,1766,1800,-34,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 15:13:21.694,1769,1800,-31,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,misc,2025-11-05 15:23:33.531,2380,2400,-20,0,"Phone screen, Real world, busy/mixed backdrop",false
+1048,ABG,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 15:23:37.061,2384,2400,-16,1,"Phone screen, Real world, busy/mixed backdrop",false

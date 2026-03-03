@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:58:44.217,563,600,-37,0,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:58:54.624,574,600,-26,1,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 14:08:42.371,1161,1200,-39,0,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 14:08:44.487,1163,1200,-37,1,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 14:18:57.556,1777,1800,-23,0,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 14:18:59.423,1778,1800,-22,0,"Phone screen",false
+3007,ARO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 14:19:00.754,1780,1800,-20,1,"Phone screen",false

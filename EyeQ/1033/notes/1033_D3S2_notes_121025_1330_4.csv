@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1033,2025-12-10 13:11:29.267,1164,"Participant notices a delay in the MR glasses notifying them of a new message that was actually received sooner"
+1033,2025-12-10 13:17:27.240,1522,"Glasses do not alert participant of new message received when display has been asleep while performing other task but they feel a buzz in the neural band"
+1033,2025-12-10 13:25:07.399,1983,"Participant notices that volume is choppy"
+1033,2025-12-10 13:30:21.070,2296,"Participant appears to be lifting chin up when looking at information on screen"

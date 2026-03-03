@@ -1,0 +1,7 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1045,2025-12-17 13:35:03.364,19,"User begins on the couch, starting YouTube activity."
+1045,2025-12-17 13:36:41.514,117,"User is starting video and searching for the captions app. Says captions are working."
+1045,2025-12-17 13:37:23.831,159,"“Captions aren’t catching every word in the video at all”"
+1045,2025-12-17 13:38:00.487,196,"User increased the volume of the phone and said captions were working better."
+1045,2025-12-17 13:41:49.874,425,"User notices that captions are also on the phone."
+1045,2025-12-17 13:43:10.411,506,"Phone logs captions according to different voices. When user speaks, it is logged as the black message bubble, while video captions show on a white message bubble on the phone."

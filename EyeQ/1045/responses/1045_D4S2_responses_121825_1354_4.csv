@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:24:15.475,564,600,-36,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:24:16.484,565,600,-35,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:34:09.526,1158,1200,-42,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:34:11.262,1160,1200,-40,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:44:27.983,1776,1800,-24,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-12-18 13:44:29.513,1778,1800,-22,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:44:30.980,1779,1800,-21,1,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:54:15.240,2364,2400,-36,0,"Real world, busy/mixed backdrop",false
+1045,WIL,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:54:16.859,2365,2400,-35,1,"Real world, busy/mixed backdrop",false

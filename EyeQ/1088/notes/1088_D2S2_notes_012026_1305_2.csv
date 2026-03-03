@@ -1,0 +1,3 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1088,2026-01-20 13:00:10.625,298,"Reels is playing perfectly on MR glasses"
+1088,2026-01-20 13:05:57.638,645,"When user scrolls 2-3 reels fast, the MR Display is taking time to load the next one"

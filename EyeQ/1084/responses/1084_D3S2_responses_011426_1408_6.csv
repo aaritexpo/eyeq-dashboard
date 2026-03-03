@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 13:18:05.441,591,600,-9,6,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 13:18:10.048,596,600,-4,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 13:27:52.105,1178,1200,-22,7,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 13:27:55.255,1181,1200,-19,5,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 13:38:21.302,1807,1800,7,7,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-14 13:38:27.770,1813,1800,13,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 13:38:31.915,1818,1800,18,4,"Glasses screen, Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 13:47:42.286,2368,2400,-32,6,"Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 13:47:44.028,2370,2400,-30,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 13:58:22.716,3008,3000,8,6,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 13:58:26.084,3012,3000,12,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-14 14:07:44.929,3571,3600,-29,6,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-14 14:07:55.675,3581,3600,-19,4,"Glasses screen, Real world, plain backdrop",false
+1084,LAV,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-14 14:07:57.819,3584,3600,-16,4,"Glasses screen, Real world, plain backdrop",false

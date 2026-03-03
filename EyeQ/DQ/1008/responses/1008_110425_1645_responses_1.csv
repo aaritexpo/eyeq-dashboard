@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1008,MAX,AI Glasses & Neural Band,Watching,misc,2025-11-04 16:45:22.310,562,600,-38,0,"Real world, busy/mixed backdrop",false
+1008,MAX,AI Glasses & Neural Band,Watching,eyestrain,2025-11-04 16:45:29.060,569,600,-31,1,"Real world, busy/mixed backdrop",false

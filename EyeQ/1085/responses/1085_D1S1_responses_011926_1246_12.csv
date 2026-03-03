@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 10:56:04.597,572,600,-28,0,"Phone screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 10:56:06.959,574,600,-26,1,"Phone screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:06:20.704,1188,1200,-12,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:06:23.235,1190,1200,-10,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:16:03.256,1770,1800,-30,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 11:16:16.002,1783,1800,-17,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:16:22.948,1790,1800,-10,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:26:02.080,2369,2400,-31,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:26:06.697,2374,2400,-26,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:36:03.120,2970,3000,-30,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:36:06.483,2974,3000,-26,2,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:45:57.805,3565,3600,-35,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 11:46:03.588,3571,3600,-29,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:46:08.904,3576,3600,-24,2,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 11:56:09.593,4177,4200,-23,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 11:56:24.693,4192,4200,-8,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:05:58.906,4766,4800,-34,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:06:03.043,4770,4800,-30,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:16:01.184,5368,5400,-32,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:16:04.462,5372,5400,-28,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:16:08.511,5376,5400,-24,1,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:26:01.068,5968,6000,-32,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:26:03.800,5971,6000,-29,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:35:56.474,6564,6600,-36,0,"Phone screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:35:58.584,6566,6600,-34,1,"Phone screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:45:53.999,7161,7200,-39,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:45:57.431,7165,7200,-35,0,"Glasses screen",false
+1085,Jh,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:45:59.799,7167,7200,-33,1,"Glasses screen",false

@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3001,2026-01-08 10:01:48.048,442,"In the beginning of the session it took. 4 min to factory reset the device."
+3001,2026-01-08 10:13:25.388,1139,"At 17.5 min into the protocol, Spotify music started playing unprompted, on the glasses."
+3001,2026-01-08 10:15:20.465,1254,"The fix for the Spotify issue is that the application was open on the phone so to stop the issue participant had closed out of application."
+3001,2026-01-08 10:22:35.525,1689,"While recording a video participant was having a hard time getting meta to stop recording the first time."

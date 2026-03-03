@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,RO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:53:09.911,572,600,-28,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:53:22.626,584,600,-16,2,"Real world, busy/mixed backdrop",false

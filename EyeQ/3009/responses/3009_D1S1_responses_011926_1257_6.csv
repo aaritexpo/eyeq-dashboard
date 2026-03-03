@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:06:34.708,568,600,-32,0,"Real world, plain backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:06:37.641,571,600,-29,1,"Real world, plain backdrop",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:16:31.513,1165,1200,-35,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:16:40.298,1173,1200,-27,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:26:30.928,1764,1800,-36,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:26:37.161,1770,1800,-30,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:26:40.189,1773,1800,-27,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:36:31.512,2365,2400,-35,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:36:33.368,2366,2400,-34,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:46:28.664,2962,3000,-38,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:46:33.156,2966,3000,-34,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-19 12:56:33.738,3567,3600,-33,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-19 12:56:54.017,3587,3600,-13,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-19 12:56:55.449,3589,3600,-11,1,"Glasses screen",false

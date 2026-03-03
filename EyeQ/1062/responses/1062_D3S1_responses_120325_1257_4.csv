@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:27:00.038,561,600,-39,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:27:02.319,563,600,-37,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:36:58.705,1160,1200,-40,0,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:37:00.300,1161,1200,-39,1,"Glasses screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:46:56.310,1757,1800,-43,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,discomfort,2025-12-03 12:46:58.681,1760,1800,-40,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:47:00.348,1761,1800,-39,1,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,misc,2025-12-03 12:57:01.194,2362,2400,-38,0,"Phone screen, Real world, plain backdrop",false
+1062,GTR,AI Glasses & Neural Band,Watching,3,1,eyestrain,2025-12-03 12:57:03.643,2365,2400,-35,1,"Phone screen, Real world, plain backdrop",false

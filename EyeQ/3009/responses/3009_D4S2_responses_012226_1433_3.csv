@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:12:52.142,560,600,-40,0,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:12:55.024,562,600,-38,1,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:22:51.546,1159,1200,-41,0,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:22:54.029,1161,1200,-39,1,"Phone screen, Real world, busy/mixed backdrop",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:32:50.986,1758,1800,-42,0,"Phone screen",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:32:54.418,1762,1800,-38,0,"Phone screen",false
+3009,RAO,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:32:56.135,1764,1800,-36,1,"Phone screen",false

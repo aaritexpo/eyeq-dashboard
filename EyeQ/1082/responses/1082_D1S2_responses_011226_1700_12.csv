@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:10:17.448,564,600,-36,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:10:19.377,566,600,-34,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:20:15.118,1161,1200,-39,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:20:19.117,1165,1200,-35,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:30:17.573,1764,1800,-36,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 15:30:23.138,1769,1800,-31,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:30:27.353,1774,1800,-26,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:41:38.235,2445,2400,NA,NA,"",true
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:41:38.235,2445,2400,NA,NA,"",true
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:50:18.861,2965,3000,-35,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:50:21.413,2968,3000,-32,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:00:27.871,3574,3600,-26,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 16:00:30.834,3577,3600,-23,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:00:33.968,3580,3600,-20,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:10:25.426,4172,4200,-28,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:10:27.908,4174,4200,-26,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:20:25.296,4772,4800,-28,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:20:32.060,4778,4800,-22,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:30:18.505,5365,5400,-35,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 16:30:23.587,5370,5400,-30,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:30:26.769,5373,5400,-27,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:40:15.251,5962,6000,-38,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:40:17.917,5964,6000,-36,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 16:50:16.207,6562,6600,-38,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 16:50:19.106,6565,6600,-35,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 17:00:18.423,7165,7200,-35,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-12 17:00:22.722,7169,7200,-31,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 17:00:24.704,7171,7200,-29,1,"Glasses screen",false

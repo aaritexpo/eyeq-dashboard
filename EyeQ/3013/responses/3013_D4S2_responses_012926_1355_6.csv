@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:05:42.791,572,600,-28,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:05:45.658,575,600,-25,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:15:38.858,1168,1200,-32,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:15:42.088,1171,1200,-29,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:25:35.400,1765,1800,-35,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 13:25:36.904,1766,1800,-34,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:25:40.170,1769,1800,-31,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:35:33.279,2362,2400,-38,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:35:36.516,2366,2400,-34,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:45:35.217,2964,3000,-36,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:45:37.284,2966,3000,-34,1,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 13:55:38.039,3567,3600,-33,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,discomfort,2026-01-29 13:55:40.458,3570,3600,-30,0,"Glasses screen",false
+3013,JMH,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 13:55:42.704,3572,3600,-28,1,"Glasses screen",false

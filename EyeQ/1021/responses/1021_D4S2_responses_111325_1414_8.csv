@@ -1,0 +1,19 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:03:41.349,589,600,-11,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:03:42.583,590,600,-10,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:13:31.167,1179,1200,-21,0,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:13:34.933,1182,1200,-18,1,"Glasses screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:23:23.351,1771,1800,-29,3,"Phone screen",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-11-13 13:23:29.202,1777,1800,-23,2,"Phone screen",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:23:34.148,1782,1800,-18,3,"Phone screen",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:33:38.827,2386,2400,-14,2,"Phone screen, Real world, plain backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:33:42.674,2390,2400,-10,3,"Phone screen, Real world, plain backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:43:27.302,2975,3000,-25,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:43:29.630,2977,3000,-23,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 13:53:36.177,3584,3600,-16,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-11-13 13:53:38.728,3586,3600,-14,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 13:53:41.426,3589,3600,-11,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 14:03:39.363,4187,4200,-13,2,"Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 14:03:41.462,4189,4200,-11,1,"Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,misc,2025-11-13 14:13:57.750,4805,4800,5,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1021,Jh,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-11-13 14:13:59.666,4807,4800,7,2,"Glasses screen, Real world, busy/mixed backdrop",false

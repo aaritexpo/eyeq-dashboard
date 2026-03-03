@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:43:54.127,570,600,-30,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:43:57.597,574,600,-26,1,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 13:53:56.192,1173,1200,-27,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 13:53:58.409,1175,1200,-25,1,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:04:00.468,1777,1800,-23,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-08 14:04:01.719,1778,1800,-22,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:04:25.308,1802,1800,2,1,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:14:04.425,2381,2400,-19,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:14:05.517,2382,2400,-18,1,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-08 14:23:51.791,2968,3000,-32,0,"Glasses screen",false
+1049,JH,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-08 14:23:53.957,2970,3000,-30,1,"Glasses screen",false

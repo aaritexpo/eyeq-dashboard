@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:45:34.846,566,600,-34,0,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:45:39.410,571,600,-29,1,"Phone screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 11:55:44.311,1176,1200,-24,0,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 11:55:53.474,1185,1200,-15,2,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 12:05:33.886,1765,1800,-35,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 12:05:56.792,1788,1800,-12,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 12:06:11.350,1803,1800,3,2,"Glasses screen, Real world, plain backdrop",false

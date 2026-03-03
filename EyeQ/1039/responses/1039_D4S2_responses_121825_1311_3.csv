@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 12:51:50.992,559,600,-41,0,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 12:51:52.087,560,600,-40,1,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:02:01.027,1169,1200,-31,0,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:02:02.760,1170,1200,-30,1,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 13:11:52.124,1760,1800,-40,0,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-12-18 13:11:53.778,1761,1800,-39,0,"Real world, busy/mixed backdrop",false
+1039,KAM,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 13:11:55.779,1763,1800,-37,1,"Real world, busy/mixed backdrop",false

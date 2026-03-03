@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1060,2025-11-17 15:03:16.007,265,"Glasses disconnected from phone attempting to reconnect"
+1060,2025-11-17 15:09:43.165,652,"Contractor attempts to reconnect glasses to Bluetooth"
+1060,2025-11-17 15:10:06.395,676,"Frames still not connected to Bluetooth"
+1060,2025-11-17 15:11:21.567,751,"Pt had glasses off for about 2 minutes to attempt to connect to Bluetooth"

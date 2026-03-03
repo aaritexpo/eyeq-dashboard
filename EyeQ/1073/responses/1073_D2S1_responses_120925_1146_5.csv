@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-09 11:06:34.905,564,600,-36,0,"Glasses screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-09 11:06:39.475,569,600,-31,1,"Glasses screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-09 11:16:35.304,1165,1200,-35,0,"Glasses screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-09 11:16:46.953,1177,1200,-23,1,"Glasses screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-09 11:26:39.302,1769,1800,-31,0,"Phone screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,discomfort,2025-12-09 11:26:45.319,1775,1800,-25,0,"Phone screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-09 11:26:48.801,1778,1800,-22,1,"Phone screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-09 11:36:39.188,2369,2400,-31,0,"Phone screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-09 11:36:47.013,2377,2400,-23,1,"Phone screen",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,misc,2025-12-09 11:46:35.654,2965,3000,-35,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1073,WIL,AI Glasses & Neural Band,Watching,2,1,eyestrain,2025-12-09 11:46:38.400,2968,3000,-32,1,"Glasses screen, Real world, busy/mixed backdrop",false

@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3012,LAV,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 13:50:14.165,577,600,-23,4,"Glasses screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 13:50:22.677,586,600,-14,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 14:00:08.584,1172,1200,-28,4,"Glasses screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 14:00:18.162,1181,1200,-19,3,"Glasses screen, Real world, busy/mixed backdrop",false

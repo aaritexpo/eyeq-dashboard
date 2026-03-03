@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 14:36:09.379,576,600,-24,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 14:36:18.400,585,600,-15,2,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 14:46:04.516,1171,1200,-29,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 14:46:14.596,1181,1200,-19,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 14:55:52.580,1759,1800,-41,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-27 14:55:58.530,1765,1800,-35,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 14:56:02.761,1770,1800,-30,1,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 15:06:22.606,2389,2400,-11,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 15:06:30.004,2397,2400,-3,1,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 15:15:51.582,2958,3000,-42,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 15:15:55.648,2962,3000,-38,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 15:26:28.951,3596,3600,-4,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-27 15:26:32.782,3600,3600,0,0,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 15:26:37.049,3604,3600,4,1,"Glasses screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-27 15:36:19.687,4186,4200,-14,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-27 15:36:24.037,4191,4200,-9,2,"Phone screen",false

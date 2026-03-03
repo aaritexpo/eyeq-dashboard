@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 10:35:08.062,584,600,-16,0,"Phone screen",false
+1077,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 10:35:16.643,593,600,-7,1,"Phone screen",false

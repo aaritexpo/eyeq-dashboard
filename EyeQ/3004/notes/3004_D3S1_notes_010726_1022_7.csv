@@ -1,0 +1,8 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3004,2026-01-07 10:17:32.362,33,"User is wearing wristband and glasses and checking connection with whatsapp"
+3004,2026-01-07 10:18:54.982,116,"User is pulling up photos sent through whatsapp"
+3004,2026-01-07 10:20:01.942,183,"User is instructed with the task, starts walking around searching for scavenger hunt photos"
+3004,2026-01-07 10:20:50.655,232,"User finds first photo, captures it and sends it to moderator"
+3004,2026-01-07 10:21:33.111,274,"User is misunderstood by meta, and meta captures a photo instead of sending it"
+3004,2026-01-07 10:21:50.704,292,"After establishing connection, WhatsApp automatically disconnects and requests reconnection"
+3004,2026-01-07 10:22:56.032,357,"WhatsApp connection tab becomes deactivated when user tried to connect with WhatsApp"

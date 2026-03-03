@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 15:04:34.985,565,600,-35,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 15:04:35.875,566,600,-34,1,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 15:14:34.668,1165,1200,-35,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 15:14:35.574,1165,1200,-35,1,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 15:24:31.175,1761,1800,-39,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,discomfort,2026-01-15 15:24:32.394,1762,1800,-38,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 15:24:33.777,1764,1800,-36,1,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 15:34:34.929,2365,2400,-35,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 15:34:36.229,2366,2400,-34,1,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 15:44:34.189,2964,3000,-36,0,"Real world, plain backdrop",false
+1080,WIL,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 15:44:35.422,2965,3000,-35,1,"Real world, plain backdrop",false

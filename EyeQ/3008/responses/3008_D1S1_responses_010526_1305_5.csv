@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:25:32.878,575,600,-25,0,"Real world, plain backdrop",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:25:43.360,586,600,-14,1,"Real world, plain backdrop",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:35:27.592,1170,1200,-30,0,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:35:33.135,1176,1200,-24,2,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:45:25.406,1768,1800,-32,0,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-05 12:45:35.164,1778,1800,-22,0,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:45:39.816,1782,1800,-18,1,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 12:55:21.194,2364,2400,-36,0,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 12:55:26.295,2369,2400,-31,1,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-05 13:05:22.778,2965,3000,-35,0,"Glasses screen",false
+3008,WIL,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-05 13:05:30.442,2973,3000,-27,1,"Glasses screen",false

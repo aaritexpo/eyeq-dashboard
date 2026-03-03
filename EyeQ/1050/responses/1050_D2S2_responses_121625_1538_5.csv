@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-16 14:58:24.144,564,600,-36,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-16 14:58:33.880,573,600,-27,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-16 15:08:35.725,1175,1200,-25,0,"Glasses screen, Real world, plain backdrop",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-16 15:08:38.424,1178,1200,-22,1,"Glasses screen, Real world, plain backdrop",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-16 15:18:23.447,1763,1800,-37,0,"Phone screen",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-16 15:18:31.393,1771,1800,-29,0,"Phone screen",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-16 15:18:33.517,1773,1800,-27,1,"Phone screen",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-16 15:28:26.431,2366,2400,-34,0,"Phone screen",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-16 15:28:28.880,2368,2400,-32,1,"Phone screen",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-16 15:38:27.999,2967,3000,-33,0,"Glasses screen, Real world, plain backdrop",false
+1050,ARO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-16 15:38:32.014,2971,3000,-29,1,"Glasses screen, Real world, plain backdrop",false

@@ -1,0 +1,22 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 15:57:12.526,563,600,-37,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 15:57:15.105,566,600,-34,1,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:07:12.225,1163,1200,-37,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:07:16.976,1168,1200,-32,2,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:17:13.796,1765,1800,-35,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,2025-11-20 16:17:24.908,1776,1800,-24,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:17:27.806,1779,1800,-21,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:27:13.233,2364,2400,-36,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:27:16.276,2367,2400,-33,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:37:16.318,2967,3000,-33,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:37:21.908,2973,3000,-27,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:47:09.236,3560,3600,-40,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,2025-11-20 16:47:14.321,3565,3600,-35,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:47:20.934,3572,3600,-28,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 16:57:33.482,4184,4200,-16,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 16:57:40.407,4191,4200,-9,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 17:07:14.794,4766,4800,-34,2,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 17:07:19.372,4770,4800,-30,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,misc,2025-11-20 17:17:15.107,5366,5400,-34,2,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,discomfort,2025-11-20 17:17:20.495,5371,5400,-29,3,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Watching,4,2,eyestrain,2025-11-20 17:17:24.755,5376,5400,-24,3,"Glasses screen",false

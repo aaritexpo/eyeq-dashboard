@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 14:18:29.158,564,600,-36,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 14:18:35.175,570,600,-30,2,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 14:28:27.534,1162,1200,-38,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 14:28:30.530,1165,1200,-35,1,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 14:38:28.288,1763,1800,-37,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2025-12-15 14:38:35.820,1770,1800,-30,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 14:38:40.251,1775,1800,-25,1,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,misc,2025-12-15 14:48:25.515,2360,2400,-40,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2025-12-15 14:48:28.512,2363,2400,-37,1,"Glasses screen",false

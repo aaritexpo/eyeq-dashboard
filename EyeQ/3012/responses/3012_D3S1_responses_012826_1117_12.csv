@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:27:04.590,583,600,-17,0,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:27:20.651,599,600,-1,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:36:52.727,1171,1200,-29,0,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:37:03.308,1182,1200,-18,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:46:43.632,1762,1800,-38,0,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 09:47:00.926,1779,1800,-21,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:47:10.154,1789,1800,-11,2,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 09:56:48.749,2367,2400,-33,0,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 09:56:58.831,2377,2400,-23,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:06:43.085,2962,3000,-38,0,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:06:50.382,2969,3000,-31,2,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:16:45.829,3564,3600,-36,0,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 10:16:53.743,3572,3600,-28,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:17:00.125,3579,3600,-21,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:26:51.677,4170,4200,-30,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:26:56.375,4175,4200,-25,2,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:36:42.880,4761,4800,-39,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:36:48.789,4767,4800,-33,2,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:46:44.266,5363,5400,-37,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 10:46:51.132,5370,5400,-30,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:46:59.961,5378,5400,-22,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 10:56:52.907,5971,6000,-29,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 10:56:58.493,5977,6000,-23,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:06:53.523,6572,6600,-28,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:06:57.204,6576,6600,-24,2,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-28 11:16:43.156,7162,7200,-38,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-28 11:16:52.339,7171,7200,-29,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-28 11:16:56.604,7175,7200,-25,2,"Phone screen",false

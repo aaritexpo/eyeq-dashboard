@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:00:47.779,559,600,-41,0,"Glasses screen, Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:00:50.842,562,600,-38,1,"Glasses screen, Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:11:08.573,1180,1200,-20,0,"Glasses screen, Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:11:10.973,1182,1200,-18,1,"Glasses screen, Phone screen, Real world, plain backdrop, Real world, busy/mixed backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:20:50.834,1762,1800,-38,0,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-26 16:20:56.315,1768,1800,-32,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:21:04.246,1776,1800,-24,3,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:30:52.535,2364,2400,-36,0,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:30:55.550,2367,2400,-33,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:40:52.308,2964,3000,-36,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:40:57.439,2969,3000,-31,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 16:50:52.957,3564,3600,-36,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-26 16:50:55.589,3567,3600,-33,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 16:50:59.004,3570,3600,-30,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:00:47.784,4159,4200,-41,0,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:00:51.280,4163,4200,-37,1,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:10:53.636,4765,4800,-35,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:10:58.315,4770,4800,-30,3,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:21:06.715,5378,5400,-22,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-26 17:21:09.916,5381,5400,-19,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:21:14.664,5386,5400,-14,3,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:30:54.706,5966,6000,-34,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:30:57.604,5969,6000,-31,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:40:52.567,6564,6600,-36,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:40:55.748,6567,6600,-33,2,"Glasses screen",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-26 17:50:53.226,7165,7200,-35,2,"Glasses screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-26 17:50:57.094,7168,7200,-32,2,"Glasses screen, Real world, plain backdrop",false
+1104,RAO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-26 17:51:00.526,7172,7200,-28,3,"Glasses screen, Real world, plain backdrop",false

@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:44:40.499,562,600,-38,0,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:44:43.369,565,600,-35,1,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:54:41.477,1163,1200,-37,0,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:54:42.556,1164,1200,-36,1,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:04:42.607,1764,1800,-36,0,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 10:04:45.792,1767,1800,-33,0,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:04:47.156,1769,1800,-31,1,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:14:40.340,2362,2400,-38,0,"Glasses screen",false
+1088,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:14:41.490,2363,2400,-37,1,"Glasses screen",false

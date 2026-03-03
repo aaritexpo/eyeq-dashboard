@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3002,2026-01-05 15:36:08.065,413,"The user couldn’t stop the video recording"
+3002,2026-01-05 15:45:01.361,946,"Each time user sends the photo, the process is getting slower and voice is cracking"
+3002,2026-01-05 15:45:55.407,1000,"User said that the frame rate per second is very slow"
+3002,2026-01-05 15:49:31.035,1216,"When user presses the button to send, meta could not process it"

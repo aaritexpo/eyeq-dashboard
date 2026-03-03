@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3006,2026-01-08 08:49:01.903,78,"Hey Meta not responding"
+3006,2026-01-08 08:54:31.347,408,"Glasses entered pairing mode suddenly so I unpaired the glasses and repaired them which fixed this issue"
+3006,2026-01-08 08:56:05.549,502,"Participant commanded Meta to start recording and then participant asked “How do I know it’s recording” so it is not clear to user if they have started or stopped recording"

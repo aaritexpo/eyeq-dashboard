@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 14:35:13.750,561,600,-39,0,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 14:35:16.075,563,600,-37,1,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 14:45:12.442,1160,1200,-40,0,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 14:45:13.853,1161,1200,-39,1,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,misc,2025-12-18 14:55:12.080,1759,1800,-41,0,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,discomfort,2025-12-18 14:55:14.690,1762,1800,-38,0,"Glasses screen",false
+1075,RAO,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2025-12-18 14:55:15.942,1763,1800,-37,1,"Glasses screen",false

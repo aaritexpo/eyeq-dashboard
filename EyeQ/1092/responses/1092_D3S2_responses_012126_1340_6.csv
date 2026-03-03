@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 12:49:01.827,563,600,-37,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 12:49:06.796,568,600,-32,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 12:59:01.549,1163,1200,-37,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 12:59:07.626,1169,1200,-31,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 13:09:07.660,1769,1800,-31,0,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-21 13:09:12.638,1774,1800,-26,1,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 13:09:19.086,1781,1800,-19,2,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 13:19:04.552,2366,2400,-34,0,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 13:19:18.009,2380,2400,-20,2,"Phone screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 13:29:03.408,2965,3000,-35,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 13:29:06.773,2968,3000,-32,2,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,misc,2026-01-21 13:39:45.626,3607,3600,7,0,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,discomfort,2026-01-21 13:39:58.920,3620,3600,20,1,"Glasses screen",false
+1092,KAM,AI Glasses & Neural Band,Watching,3,2,eyestrain,2026-01-21 13:40:02.417,3624,3600,24,2,"Glasses screen",false

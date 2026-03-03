@@ -1,0 +1,5 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1044,2025-12-15 13:12:40.389,931,"Initially , the participant was able to send a photo and a video via WhatsApp. Subsequently, the files were not sent via WhatsApp although meta would alert the user that the file was sent. The files could be viewed on the glasses but did not show up on the phone if they were not imported."
+1044,2025-12-15 13:24:47.822,1659,"The auto import feature for the files doesn’t seem to work well. After they are manually imported in the gallery on the meta app ( on the phone) only then were the files sent. This didn’t happen for the first 2 files. Meta would notify the participant that the files were sent on WhatsApp when they actually were not sent."
+1044,2025-12-15 13:25:25.366,1696,"Glasses battery @ 53% . Started off at about 92%"
+1044,2025-12-15 13:31:28.421,2059,"Occasionally , the participant would have to repeat the questions to meta before getting the correct response."

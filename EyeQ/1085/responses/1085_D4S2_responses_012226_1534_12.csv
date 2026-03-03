@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:44:57.266,618,600,18,1,"Real world, plain backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:44:58.916,620,600,20,2,"Real world, plain backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:54:14.848,1176,1200,-24,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:54:15.899,1177,1200,-23,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:04:21.535,1783,1800,-17,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:04:27.952,1789,1800,-11,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:04:33.331,1794,1800,-6,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:14:13.019,2374,2400,-26,0,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:14:14.372,2375,2400,-25,1,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:24:05.335,2966,3000,-34,0,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:24:11.872,2973,3000,-27,1,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:34:04.153,3565,3600,-35,0,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 14:34:07.767,3569,3600,-31,0,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:34:12.083,3573,3600,-27,1,"Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:44:05.652,4167,4200,-33,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:44:14.121,4175,4200,-25,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 14:54:03.204,4764,4800,-36,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 14:54:06.536,4768,4800,-32,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:04:01.339,5362,5400,-38,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 15:04:04.018,5365,5400,-35,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:04:06.421,5367,5400,-33,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:14:02.270,5963,6000,-37,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:14:05.220,5966,6000,-34,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:24:09.103,6570,6600,-30,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:24:12.664,6574,6600,-26,1,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 15:34:01.917,7163,7200,-37,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-22 15:34:04.007,7165,7200,-35,0,"Phone screen, Real world, busy/mixed backdrop",false
+1085,JMH,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 15:34:05.638,7167,7200,-33,1,"Phone screen, Real world, busy/mixed backdrop",false

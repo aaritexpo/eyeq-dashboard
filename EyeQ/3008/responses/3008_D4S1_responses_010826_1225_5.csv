@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:45:50.144,564,600,-36,0,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:45:53.332,567,600,-33,1,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:56:02.331,1176,1200,-24,0,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:56:04.962,1179,1200,-21,1,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 12:05:51.306,1765,1800,-35,0,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 12:05:55.206,1769,1800,-31,0,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 12:05:58.273,1772,1800,-28,1,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 12:15:48.566,2362,2400,-38,0,"Phone screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 12:15:52.292,2366,2400,-34,1,"Phone screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 12:25:47.386,2961,3000,-39,0,"Glasses screen",false
+3008,WIL,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 12:25:50.271,2964,3000,-36,1,"Glasses screen",false

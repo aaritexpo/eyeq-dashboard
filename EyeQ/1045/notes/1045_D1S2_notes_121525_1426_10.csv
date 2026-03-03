@@ -1,0 +1,11 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1045,2025-12-15 14:09:26.334,21,"Participant wears wristband and glasses to begin next set of tasks"
+1045,2025-12-15 14:14:30.425,325,"User switches glasses as the previous session’s pair is discharged"
+1045,2025-12-15 14:15:40.980,395,"New glasses - LARGE - 2Y0YW11H5B000M"
+1045,2025-12-15 14:15:55.101,410,"User opens camera using hey meta"
+1045,2025-12-15 14:16:31.720,446,"User is walking around room, focusing, zooming on objects and capturing photos"
+1045,2025-12-15 14:17:36.813,511,"User interacts with interface using wrist haptics"
+1045,2025-12-15 14:19:49.940,644,"Users stands up to take photos as they request meta to go to WhatsApp"
+1045,2025-12-15 14:20:36.790,691,"User finds capturing photos of clear or glassy objects to be frustrating as they cause glare to their eyes"
+1045,2025-12-15 14:23:42.313,877,"User often tries the main two or three wrist haptics functions when the UI doesn’t respond to their input or they’re confused about a specific interaction"
+1045,2025-12-15 14:26:30.138,1045,"User lost functionality for a second, user taps middle finger twice furiously before meta ai starts responding again"

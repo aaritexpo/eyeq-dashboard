@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1050,2025-12-18 10:48:12.124,186,"The user is watching the video"
+1050,2025-12-18 10:48:39.513,213,"User’s glasses did not announce the notification"
+1050,2025-12-18 10:52:06.740,420,"Since the video is from the same chat, the message announced notifications did not work"

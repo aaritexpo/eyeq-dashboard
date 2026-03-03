@@ -1,0 +1,26 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:08:09.382,569,600,-31,0,"Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:08:17.613,578,600,-22,1,"Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:18:13.818,1174,1200,-26,0,"",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:18:18.836,1179,1200,-21,1,"",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:28:09.561,1770,1800,-30,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-11-17 11:28:24.623,1785,1800,-15,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:28:29.124,1789,1800,-11,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:38:07.866,2368,2400,-32,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:38:11.329,2371,2400,-29,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:48:27.662,2988,3000,-12,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:48:32.594,2993,3000,-7,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 11:58:06.658,3567,3600,-33,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-11-17 11:58:10.759,3571,3600,-29,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 11:58:14.040,3574,3600,-26,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 12:08:08.247,4168,4200,-32,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 12:08:11.746,4172,4200,-28,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 12:18:29.011,4789,4800,-11,0,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 12:18:31.492,4791,4800,-9,1,"Glasses screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 12:28:04.034,5364,5400,-36,0,"Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,discomfort,2025-11-17 12:28:11.016,5371,5400,-29,0,"Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 12:28:13.280,5373,5400,-27,1,"Real world, busy/mixed backdrop",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 12:38:05.428,5965,6000,-35,0,"Phone screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 12:38:08.227,5968,6000,-32,1,"Phone screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,misc,2025-11-17 12:48:03.773,6564,6600,-36,0,"Phone screen",false
+1061,JEV,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-11-17 12:48:06.537,6567,6600,-33,1,"Phone screen",false

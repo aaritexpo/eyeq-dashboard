@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+RSI,1086,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-22 13:28:16.732,562,600,-38,0,"Glasses screen, Phone screen",false
+RSI,1086,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-22 13:28:17.865,564,600,-36,1,"Glasses screen, Phone screen",false

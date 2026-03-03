@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:03:55.544,575,600,-25,0,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:03:59.652,579,600,-21,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:13:50.994,1170,1200,-30,0,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:13:55.272,1174,1200,-26,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:24:01.706,1781,1800,-19,1,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-15 10:24:07.620,1787,1800,-13,3,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:24:14.912,1794,1800,-6,4,"Phone screen, Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-15 10:33:58.700,2378,2400,-22,1,"Real world, plain backdrop",false
+1084,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-15 10:34:01.680,2381,2400,-19,4,"Real world, plain backdrop",false

@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1084,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:11:45.998,580,600,-20,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:11:51.598,585,600,-15,3,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-12 15:21:26.739,1160,1200,-40,1,"Glasses screen, Real world, plain backdrop",false
+1084,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-12 15:21:30.452,1164,1200,-36,3,"Glasses screen, Real world, plain backdrop",false

@@ -1,0 +1,6 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3004,2026-01-05 10:38:58.504,39,"User is instructed to pair wristband and glasses with phone"
+3004,2026-01-05 10:39:39.140,79,"User asks if they add new device on meta app"
+3004,2026-01-05 10:39:59.517,100,"User has momentary difficulty removing device from case"
+3004,2026-01-05 10:44:10.681,351,"Device 12 was not factory reset, moderator had to reset the device for user. Task took about 3-5 minutes"
+3004,2026-01-05 10:45:25.656,426,"Moderator had to factory reset band as well"

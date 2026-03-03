@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1082,UGP,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-13 11:32:50.820,565,600,-35,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-13 11:32:52.702,567,600,-33,1,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-13 11:42:56.011,1170,1200,-30,0,"Glasses screen",false
+1082,UGP,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-13 11:42:58.393,1173,1200,-27,1,"Glasses screen",false

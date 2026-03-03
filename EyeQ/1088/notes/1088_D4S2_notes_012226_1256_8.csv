@@ -1,0 +1,9 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1088,2026-01-22 12:46:18.227,144,"User begins YouTube video watching and messaging on WhatsApp activity."
+1088,2026-01-22 12:46:52.267,178,"User is seated on the couch, legs crossed, half leaned over in a comfortable position."
+1088,2026-01-22 12:47:58.978,244,"Upon putting on glasses, music from Spotify automatically started playing through the glasses. User asked Meta to stop the music 3 times but it would turn back on a few seconds later."
+1088,2026-01-22 12:49:02.610,308,"User had to pause music on the phone to get it to stop repeatedly playing music. User did not touch the glasses nor ask it to do anything to prompt the music. Glasses did it on their own."
+1088,2026-01-22 12:50:27.734,393,"After getting the music to stop, user played the YouTube video. It crashed and would not play. Had to open the video on the YouTube app."
+1088,2026-01-22 12:52:18.415,504,"User said the video stopped, WhatsApp popped up on the phone and Spotify music started playing again."
+1088,2026-01-22 12:53:05.500,551,"Had to force close Spotify app on the phone and continue watching YouTube on the YouTube app to prevent the issue."
+1088,2026-01-22 12:56:32.394,758,"User says when receiving a message through WhatsApp, the phone automatically opens WhatsApp and closes the screen with the YouTube video."

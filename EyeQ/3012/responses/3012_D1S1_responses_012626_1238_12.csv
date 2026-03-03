@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:47:57.635,580,600,-20,1,"Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:48:49.968,633,600,33,2,"Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:57:58.815,1181,1200,-19,1,"Phone screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:58:03.746,1186,1200,-14,1,"Phone screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:08:18.832,1801,1800,1,1,"",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 11:08:36.281,1819,1800,19,0,"",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:08:48.158,1831,1800,31,2,"",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:17:42.871,2365,2400,-35,0,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:17:50.553,2373,2400,-27,1,"Glasses screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:27:39.252,2962,3000,-38,0,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:27:53.686,2976,3000,-24,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:37:37.711,3560,3600,-40,0,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 11:38:05.567,3588,3600,-12,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:38:15.730,3598,3600,-2,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:47:44.503,4167,4200,-33,1,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:47:59.694,4182,4200,-18,2,"Glasses screen, Real world, plain backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:57:38.728,4761,4800,-39,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:57:50.656,4773,4800,-27,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:07:47.155,5370,5400,-30,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:07:56.319,5379,5400,-21,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:08:06.848,5389,5400,-11,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:17:57.280,5980,6000,-20,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:18:05.477,5988,6000,-12,2,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:27:46.532,6569,6600,-31,0,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:27:53.283,6576,6600,-24,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 12:37:47.667,7170,7200,-30,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 12:37:52.697,7175,7200,-25,1,"Phone screen",false
+3012,LAV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 12:37:55.477,7178,7200,-22,2,"Phone screen",false

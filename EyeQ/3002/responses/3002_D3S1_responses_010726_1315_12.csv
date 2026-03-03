@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 11:25:31.649,574,600,-26,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 11:25:33.125,575,600,-25,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 11:35:21.773,1164,1200,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 11:35:23.360,1165,1200,-35,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 11:45:20.328,1762,1800,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-07 11:45:21.677,1764,1800,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 11:45:27.405,1769,1800,-31,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 11:55:19.812,2362,2400,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 11:55:21.177,2363,2400,-37,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:05:19.291,2961,3000,-39,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:05:20.267,2962,3000,-38,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:15:20.057,3562,3600,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-07 12:15:21.052,3563,3600,-37,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:15:22.559,3564,3600,-36,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:25:21.472,4163,4200,-37,0,"Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:25:22.572,4164,4200,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:35:27.167,4769,4800,-31,0,"Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:35:31.314,4773,4800,-27,1,"Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:45:22.172,5364,5400,-36,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-07 12:45:35.001,5377,5400,-23,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:45:40.698,5383,5400,-17,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 12:55:42.251,5984,6000,-16,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 12:55:47.715,5990,6000,-10,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 13:05:20.090,6562,6600,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 13:05:22.873,6565,6600,-35,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,misc,2026-01-07 13:15:25.124,7167,7200,-33,0,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,discomfort,2026-01-07 13:15:27.625,7170,7200,-30,1,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false
+3002,UGP,AI Glasses & Neural Band,Watching,3,1,eyestrain,2026-01-07 13:15:31.722,7174,7200,-26,2,"Glasses screen, Phone screen, Real world, busy/mixed backdrop",false

@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:12:33.096,562,600,-38,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:12:43.841,573,600,-27,2,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:22:29.749,1159,1200,-41,0,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:22:39.887,1169,1200,-31,1,"Real world, busy/mixed backdrop",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,misc,2026-01-28 14:32:33.518,1763,1800,-37,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,discomfort,2026-01-28 14:32:37.517,1766,1800,-34,0,"Phone screen",false
+3014,RSI,AI Glasses & Neural Band,Discover & Learn,3,2,eyestrain,2026-01-28 14:32:41.165,1770,1800,-30,2,"Phone screen",false

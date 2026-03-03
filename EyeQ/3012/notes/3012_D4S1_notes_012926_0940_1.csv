@@ -1,0 +1,2 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3012,2026-01-29 09:40:13.387,1341,"Participant received auditory notification about incoming message but Meta did not read message contents out like usual. I opened message on the phone and I’m wondering if Meta could not read it due to the length of the message"

@@ -1,0 +1,7 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1076,2025-12-17 13:10:29.154,142,"User has wristband and glasses on and has opened live captions app on glasses"
+1076,2025-12-17 13:10:59.810,173,"User is playing video on phone while watching with captions on glasses"
+1076,2025-12-17 13:11:57.779,231,"User is holding phone with left hand, watching video at eye level"
+1076,2025-12-17 13:15:02.100,415,"Moderator cannot communicate with user as the live captions pick up moderator’s voice over the phone volume"
+1076,2025-12-17 13:16:37.254,510,"Live captions stops working intermittently, user has to refresh or close and reopen meta app to restart captions"
+1076,2025-12-17 13:16:57.081,530,"User notices captions stop working intermittently"

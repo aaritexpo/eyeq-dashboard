@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:04:01.179,560,600,-40,0,"Real world, plain backdrop",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:04:03.489,562,600,-38,1,"Real world, plain backdrop",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:14:27.490,1186,1200,-14,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:14:29.477,1188,1200,-12,1,"Glasses screen",false

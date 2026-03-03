@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:19:35.794,564,600,-36,0,"Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:19:39.542,568,600,-32,1,"Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:29:34.049,1163,1200,-37,0,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:29:37.497,1166,1200,-34,1,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:39:37.716,1766,1800,-34,0,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,discomfort,2026-01-15 10:39:46.050,1775,1800,-25,0,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:39:50.012,1779,1800,-21,1,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:49:35.918,2365,2400,-35,0,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:49:37.533,2366,2400,-34,1,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,misc,2026-01-15 10:59:35.084,2964,3000,-36,0,"Phone screen, Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Discover & Learn,4,1,eyestrain,2026-01-15 10:59:37.531,2966,3000,-34,1,"Phone screen, Real world, plain backdrop",false

@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:02:52.864,590,600,-10,0,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:03:00.297,597,600,-3,1,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:12:25.492,1163,1200,-37,0,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:12:27.007,1164,1200,-36,1,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:22:28.073,1765,1800,-35,0,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-08 11:22:30.821,1768,1800,-32,0,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:22:33.636,1771,1800,-29,1,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 11:32:32.226,2369,2400,-31,0,"Phone screen",false
+1070,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 11:32:34.526,2372,2400,-28,1,"Phone screen",false

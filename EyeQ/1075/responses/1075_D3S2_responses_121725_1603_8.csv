@@ -1,0 +1,19 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 14:53:26.525,571,600,-29,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 14:53:28.748,574,600,-26,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:03:23.996,1169,1200,-31,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:03:27.027,1172,1200,-28,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:13:24.114,1769,1800,-31,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,discomfort,2025-12-17 15:13:28.594,1774,1800,-26,2,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:13:30.763,1776,1800,-24,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:23:19.583,2365,2400,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:23:23.897,2369,2400,-31,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:33:17.455,2962,3000,-38,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:33:19.765,2965,3000,-35,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:43:27.714,3573,3600,-27,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,discomfort,2025-12-17 15:43:31.882,3577,3600,-23,2,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:43:33.747,3579,3600,-21,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 15:53:27.670,4173,4200,-27,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 15:53:29.618,4175,4200,-25,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,misc,2025-12-17 16:03:18.737,4764,4800,-36,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Watching,3,2,eyestrain,2025-12-17 16:03:20.014,4765,4800,-35,1,"Glasses screen",false

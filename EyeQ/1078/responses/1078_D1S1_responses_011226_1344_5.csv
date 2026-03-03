@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:04:47.168,560,600,-40,0,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:04:51.101,564,600,-36,1,"Real world, plain backdrop",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:14:45.004,1158,1200,-42,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:14:47.488,1160,1200,-40,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:24:49.427,1762,1800,-38,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-12 13:24:56.642,1769,1800,-31,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:25:01.542,1774,1800,-26,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:34:54.483,2367,2400,-33,0,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:34:59.050,2372,2400,-28,2,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-12 13:44:45.278,2958,3000,-42,1,"Glasses screen",false
+1078,RAO,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-12 13:44:48.144,2961,3000,-39,3,"Glasses screen",false

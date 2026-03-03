@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1104,RAO,Gen 2 Glasses,Capture & Share,4,2,misc,2026-01-29 14:08:41.729,561,600,-39,1,"Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Capture & Share,4,2,eyestrain,2026-01-29 14:08:47.793,567,600,-33,2,"Real world, busy/mixed backdrop",false

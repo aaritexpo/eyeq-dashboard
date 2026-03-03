@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1073,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2025-12-11 13:05:14.594,564,600,-36,0,"Phone screen",false
+1073,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2025-12-11 13:05:15.740,565,600,-35,1,"Phone screen",false
+1073,KAM,Gen 2 Glasses,Discover & Learn,4,2,misc,2025-12-11 13:15:15.632,1165,1200,-35,0,"Phone screen",false
+1073,KAM,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2025-12-11 13:15:17.298,1167,1200,-33,1,"Phone screen",false

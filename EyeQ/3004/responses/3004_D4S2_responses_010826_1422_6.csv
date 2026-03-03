@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:32:16.091,562,600,-38,1,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:32:17.815,564,600,-36,2,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:42:15.051,1161,1200,-39,1,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:42:16.728,1163,1200,-37,2,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 13:52:15.556,1761,1800,-39,0,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 13:52:18.288,1764,1800,-36,1,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 13:52:19.866,1766,1800,-34,2,"Phone screen",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 14:02:15.440,2361,2400,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 14:02:17.571,2363,2400,-37,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 14:12:15.416,2961,3000,-39,0,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 14:12:17.347,2963,3000,-37,2,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,misc,2026-01-08 14:22:15.414,3561,3600,-39,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,discomfort,2026-01-08 14:22:18.076,3564,3600,-36,1,"Real world, plain backdrop, Real world, busy/mixed backdrop",false
+3004,RSI,Gen 2 Glasses,Discover & Learn,4,2,eyestrain,2026-01-08 14:22:21.757,3568,3600,-32,3,"Real world, plain backdrop, Real world, busy/mixed backdrop",false

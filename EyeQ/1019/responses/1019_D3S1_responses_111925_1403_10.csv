@@ -1,0 +1,24 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 12:33:00.235,559,600,-41,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 12:33:04.591,564,600,-36,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 12:43:05.901,1165,1200,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 12:43:08.129,1167,1200,-33,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 12:53:06.283,1765,1800,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,discomfort,2025-11-19 12:53:10.930,1770,1800,-30,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 12:53:12.496,1772,1800,-28,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:03:03.717,2363,2400,-37,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:03:05.419,2365,2400,-35,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:13:06.309,2965,3000,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:13:09.923,2969,3000,-31,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:23:04.793,3564,3600,-36,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,discomfort,2025-11-19 13:23:06.379,3565,3600,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:23:07.926,3567,3600,-33,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:33:15.751,4175,4200,-25,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:33:17.792,4177,4200,-23,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:43:05.452,4765,4800,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:43:06.963,4766,4800,-34,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 13:53:05.952,5365,5400,-35,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,discomfort,2025-11-19 13:53:07.132,5366,5400,-34,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 13:53:08.361,5367,5400,-33,1,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,misc,2025-11-19 14:03:10.648,5970,6000,-30,0,"Glasses screen",false
+1019,GTR,Gen 2 Glasses,Capture & Share,3,1,eyestrain,2025-11-19 14:03:11.665,5971,6000,-29,1,"Glasses screen",false

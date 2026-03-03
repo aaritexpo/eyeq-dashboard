@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:10:17.393,561,600,-39,0,"Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:10:19.294,563,600,-37,1,"Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:20:20.288,1164,1200,-36,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:20:26.634,1171,1200,-29,1,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:30:18.271,1762,1800,-38,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,discomfort,2026-01-06 13:30:24.030,1768,1800,-32,0,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:30:26.507,1771,1800,-29,2,"Glasses screen, Phone screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:40:18.902,2363,2400,-37,0,"Glasses screen, Real world, plain backdrop",false
+3001,ARO,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:40:21.430,2365,2400,-35,2,"Glasses screen, Real world, plain backdrop",false

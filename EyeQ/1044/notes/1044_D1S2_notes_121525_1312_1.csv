@@ -1,0 +1,2 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1044,2025-12-15 13:12:40.389,931,"Initially , the participant was able to send a photo and a video via WhatsApp. Subsequently, the files were not sent via WhatsApp although meta would alert the user that the file was sent. The files could be viewed on the glasses but did not show up on the phone if they were not imported."

@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 12:09:51.966,583,600,-17,0,"Phone screen",false
+1031,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 12:09:57.081,588,600,-12,1,"Phone screen",false

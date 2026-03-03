@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 14:16:12.938,560,600,-40,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 14:16:23.904,571,600,-29,2,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 14:26:19.676,1167,1200,-33,0,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 14:26:30.636,1178,1200,-22,1,"Glasses screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 14:36:28.243,1776,1800,-24,0,"Glasses screen, Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-20 14:36:36.458,1784,1800,-16,1,"Glasses screen, Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 14:36:44.272,1792,1800,-8,2,"Glasses screen, Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 14:46:13.650,2361,2400,-39,0,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 14:46:16.968,2364,2400,-36,2,"Phone screen",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 14:56:13.440,2961,3000,-39,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 14:56:15.620,2963,3000,-37,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,misc,2026-01-20 15:06:15.928,3563,3600,-37,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,discomfort,2026-01-20 15:06:21.994,3569,3600,-31,1,"Glasses screen, Real world, busy/mixed backdrop",false
+3009,RAO,AI Glasses & Neural Band,Watching,2,2,eyestrain,2026-01-20 15:06:25.723,3573,3600,-27,2,"Glasses screen, Real world, busy/mixed backdrop",false

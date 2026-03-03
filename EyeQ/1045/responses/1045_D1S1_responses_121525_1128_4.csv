@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:58:34.950,591,600,-9,0,"Phone screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:58:38.860,595,600,-5,1,"Phone screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:08:07.282,1163,1200,-37,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:08:15.094,1171,1200,-29,1,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:18:06.970,1763,1800,-37,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 11:18:12.131,1768,1800,-32,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:18:15.883,1772,1800,-28,1,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:28:18.905,2375,2400,-25,0,"Glasses screen",false
+1045,RSI,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:28:21.036,2377,2400,-23,1,"Glasses screen",false

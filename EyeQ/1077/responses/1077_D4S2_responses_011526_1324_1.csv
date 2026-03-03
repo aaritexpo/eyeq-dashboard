@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1077,UGP,AI Glasses & Neural Band,Capture & Share,4,2,misc,2026-01-15 13:23:50.554,565,600,-35,0,"Real world, plain backdrop",false
+1077,UGP,AI Glasses & Neural Band,Capture & Share,4,2,eyestrain,2026-01-15 13:23:53.385,568,600,-32,2,"Real world, plain backdrop",false

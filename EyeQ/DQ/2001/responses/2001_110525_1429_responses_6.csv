@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 13:39:39.193,564,600,-36,0,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 13:39:42.908,568,600,-32,1,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 13:49:33.008,1158,1200,-42,1,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 13:49:36.239,1161,1200,-39,2,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 13:59:32.006,1757,1800,-43,0,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,discomfort,2025-11-05 13:59:33.537,1759,1800,-41,1,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 13:59:35.106,1760,1800,-40,2,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 14:09:41.758,2367,2400,-33,2,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 14:09:43.773,2369,2400,-31,2,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 14:19:43.623,2969,3000,-31,4,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 14:19:50.621,2976,3000,-24,4,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,misc,2025-11-05 14:29:40.233,3565,3600,-35,5,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,discomfort,2025-11-05 14:29:42.215,3567,3600,-33,3,"Phone screen",false
+2001,LAV,AI Glasses & Neural Band,Watching,eyestrain,2025-11-05 14:29:47.057,3572,3600,-28,3,"Phone screen",false

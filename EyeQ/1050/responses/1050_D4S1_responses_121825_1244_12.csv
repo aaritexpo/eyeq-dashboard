@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 10:54:27.779,561,600,-39,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 10:54:29.041,562,600,-38,1,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:04:31.536,1165,1200,-35,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:04:34.138,1168,1200,-32,1,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:14:29.015,1762,1800,-38,0,"Glasses screen, Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 11:14:31.230,1765,1800,-35,0,"Glasses screen, Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:14:32.977,1766,1800,-34,1,"Glasses screen, Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:24:30.883,2364,2400,-36,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:24:34.169,2368,2400,-32,1,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:34:28.714,2962,3000,-38,0,"Glasses screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:34:30.798,2964,3000,-36,1,"Glasses screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:44:34.389,3568,3600,-32,0,"Phone screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 11:44:35.691,3569,3600,-31,0,"Phone screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:44:41.474,3575,3600,-25,1,"Phone screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 11:54:33.551,4167,4200,-33,0,"Glasses screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 11:54:35.002,4168,4200,-32,1,"Glasses screen, Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:04:32.098,4765,4800,-35,0,"Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:04:36.065,4769,4800,-31,1,"Real world, plain backdrop",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:14:29.613,5363,5400,-37,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 12:14:31.162,5365,5400,-35,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:14:32.927,5366,5400,-34,1,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:24:28.498,5962,6000,-38,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:24:29.853,5963,6000,-37,1,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:34:42.476,6576,6600,-24,0,"Glasses screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:34:43.588,6577,6600,-23,1,"Glasses screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-18 12:44:31.543,7165,7200,-35,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-18 12:44:33.009,7166,7200,-34,0,"Phone screen",false
+1050,UGP,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-18 12:44:34.555,7168,7200,-32,1,"Phone screen",false

@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 09:49:01.502,564,600,-36,0,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 09:49:03.655,566,600,-34,1,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 09:58:58.369,1161,1200,-39,0,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 09:59:02.016,1165,1200,-35,1,"Phone screen",false

@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3004,2026-01-08 10:18:20.857,100,"User is instructed on task of capture media and send it to moderator on whatsapp"
+3004,2026-01-08 10:18:49.797,129,"User tries to send a captured photo, but gen2 glasses remind user to connect the app to the glasses"
+3004,2026-01-08 10:19:23.768,163,"User is able to capture and send media through gen2 glasses easily and successfully"

@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 12:43:45.428,584,600,-16,0,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 12:43:48.708,587,600,-13,1,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 12:53:54.018,1192,1200,-8,0,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 12:53:55.287,1194,1200,-6,1,"Phone screen",false

@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 10:53:05.185,571,600,-29,0,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 10:53:07.713,573,600,-27,1,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 11:03:01.624,1167,1200,-33,0,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 11:03:04.919,1171,1200,-29,1,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 11:13:03.741,1769,1800,-31,0,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2025-12-04 11:13:11.269,1777,1800,-23,0,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 11:13:14.518,1780,1800,-20,1,"Phone screen",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,misc,2025-12-04 11:23:03.194,2369,2400,-31,0,"Real world, busy/mixed backdrop",false
+1063,MNA,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2025-12-04 11:23:06.570,2372,2400,-28,1,"Real world, busy/mixed backdrop",false

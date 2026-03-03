@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:28:42.929,576,600,-24,1,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:28:48.625,582,600,-18,1,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:38:46.345,1180,1200,-20,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:39:04.005,1197,1200,-3,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:48:44.210,1778,1800,-22,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 10:49:00.060,1794,1800,-6,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:49:25.249,1819,1800,19,1,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 10:58:45.900,2379,2400,-21,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 10:59:10.325,2404,2400,4,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:08:32.879,2966,3000,-34,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:08:39.741,2973,3000,-27,2,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:18:38.210,3572,3600,-28,0,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 11:19:09.828,3603,3600,3,0,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:19:14.611,3608,3600,8,2,"Real world, busy/mixed backdrop",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 11:29:07.791,4201,4200,1,0,"Glasses screen",false
+3013,JMH,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 11:29:17.338,4211,4200,11,1,"Glasses screen",false

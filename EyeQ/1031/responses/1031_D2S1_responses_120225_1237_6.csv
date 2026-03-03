@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 11:46:51.342,560,600,-40,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 11:46:57.137,566,600,-34,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 11:56:51.241,1160,1200,-40,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 11:56:53.904,1163,1200,-37,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 12:06:58.726,1767,1800,-33,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-02 12:07:07.536,1776,1800,-24,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 12:07:16.648,1785,1800,-15,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 12:17:00.707,2369,2400,-31,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 12:17:05.108,2374,2400,-26,2,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 12:26:54.177,2963,3000,-37,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 12:26:58.492,2967,3000,-33,1,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2025-12-02 12:36:57.456,3566,3600,-34,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2025-12-02 12:37:04.924,3574,3600,-26,0,"Real world, busy/mixed backdrop",false
+1031,RO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2025-12-02 12:37:11.559,3580,3600,-20,2,"Real world, busy/mixed backdrop",false

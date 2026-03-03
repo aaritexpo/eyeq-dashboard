@@ -1,0 +1,19 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 12:43:07.754,571,600,-29,0,"Phone screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 12:43:12.744,576,600,-24,2,"Phone screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 12:53:09.363,1173,1200,-27,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 12:53:15.092,1179,1200,-21,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:03:09.862,1773,1800,-27,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-01 13:03:23.875,1787,1800,-13,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:03:28.304,1792,1800,-8,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:13:07.786,2371,2400,-29,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:13:18.501,2382,2400,-18,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:23:51.778,3015,3000,15,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:24:00.490,3024,3000,24,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:32:58.524,3562,3600,-38,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-01 13:33:04.355,3568,3600,-32,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:33:10.590,3574,3600,-26,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:43:25.262,4189,4200,-11,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:43:39.053,4203,4200,3,1,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-01 13:52:58.509,4762,4800,-38,0,"Glasses screen",false
+GTR,1063,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-01 13:53:05.222,4769,4800,-31,1,"Glasses screen",false

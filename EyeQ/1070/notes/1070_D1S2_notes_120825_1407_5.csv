@@ -1,0 +1,6 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1070,2025-12-08 14:03:17.602,101,"User started photo capture activity."
+1070,2025-12-08 14:04:10.635,154,"User successfully took a photo using the glasses with voice command feature."
+1070,2025-12-08 14:05:27.927,231,"User sent photo taken through WhatsApp, took a few tries. User wasn’t sure if photo was sent once or “20 times”."
+1070,2025-12-08 14:07:02.688,326,"User asked if there’s a keyboard feature. User went to WhatsApp and selected photo recipient on the app, successfully sent photo."
+1070,2025-12-08 14:07:52.043,376,"User switched to using neural band to take and send photos instead of voice commands."

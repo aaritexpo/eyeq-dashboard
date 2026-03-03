@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 13:37:51.242,574,600,-26,0,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 13:38:03.921,587,600,-13,1,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 13:47:47.663,1170,1200,-30,0,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 13:47:50.729,1173,1200,-27,1,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-08 13:57:37.505,1760,1800,-40,0,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-08 13:57:44.353,1767,1800,-33,0,"Glasses screen",false
+1071,SCW,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-08 13:57:48.382,1771,1800,-29,1,"Glasses screen",false

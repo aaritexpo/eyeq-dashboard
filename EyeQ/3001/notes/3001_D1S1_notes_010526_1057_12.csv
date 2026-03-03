@@ -1,0 +1,14 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3001,2026-01-05 10:12:49.647,58,"Participant starts study, has glasses and neuraband on."
+3001,2026-01-05 10:14:50.569,179,"Glasses are already paired to phone but not yet connected."
+3001,2026-01-05 10:19:26.246,454,"User found set up instructions in the meta app. Unpaired the band and repaired the current band. Glasses connected without issue."
+3001,2026-01-05 10:24:10.087,738,"User connected to incorrect band, had to unpair both devices, forget devices on Bluetooth, and reconnect them."
+3001,2026-01-05 10:24:48.293,776,"User removed glasses to repair and reconnect them to the phone."
+3001,2026-01-05 10:34:37.490,1366,"Glasses are stuck in a state where the light is pulsing white but not connecting. User attempted factory reset but glasses did not respond."
+3001,2026-01-05 10:42:25.188,1833,"Glasses were unresponsive, grabbing a new pair. 
+Pair #11 ID #2Y0YW14H590011"
+3001,2026-01-05 10:44:23.346,1952,"User successfully paired the new glasses and the same band with the phone with little difficulty."
+3001,2026-01-05 10:44:50.921,1979,"User has glasses and band on and is beginning the tutorial on the phone."
+3001,2026-01-05 10:46:18.375,2067,"User can see the display in the glasses and is adjusting accessibility settings to make the text as large as possible on the display."
+3001,2026-01-05 10:50:24.744,2313,"User is learning hand gestures in the tutorial within the glasses. User had to switch the band to their right hand as they previously as it on their left."
+3001,2026-01-05 10:57:57.845,2766,"User says set up was more difficult than it needed to be. User says easier connectivity would be helpful and user says the glasses speak before user is ready to listen which makes user have to replay the instructions over again."

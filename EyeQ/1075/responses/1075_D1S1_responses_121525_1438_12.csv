@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:49:10.796,592,600,-8,0,"",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:49:30.089,611,600,11,2,"",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:59:07.491,1189,1200,-11,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:59:17.637,1199,1200,-1,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:08:43.374,1765,1800,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 13:08:46.720,1768,1800,-32,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:08:52.901,1774,1800,-26,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:18:48.019,2369,2400,-31,6,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:18:54.167,2375,2400,-25,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:28:44.681,2966,3000,-34,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:28:47.978,2969,3000,-31,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:38:52.073,3573,3600,-27,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 13:38:56.622,3578,3600,-22,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:39:03.382,3585,3600,-15,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:48:43.983,4165,4200,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:48:46.567,4168,4200,-32,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 13:59:12.851,4794,4800,-6,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 13:59:14.944,4796,4800,-4,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 14:08:43.894,5365,5400,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 14:08:46.628,5368,5400,-32,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 14:08:50.774,5372,5400,-28,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 14:18:54.112,5975,6000,-25,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 14:18:56.345,5978,6000,-22,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 14:29:02.632,6584,6600,-16,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 14:29:04.616,6586,6600,-14,1,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 14:38:43.500,7165,7200,-35,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 14:38:49.650,7171,7200,-29,0,"Glasses screen",false
+1075,UGP,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 14:38:52.648,7174,7200,-26,1,"Glasses screen",false

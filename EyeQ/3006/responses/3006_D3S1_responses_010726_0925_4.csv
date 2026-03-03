@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-07 08:55:51.111,562,600,-38,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-07 08:55:52.392,563,600,-37,1,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-07 09:05:50.666,1161,1200,-39,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-07 09:05:52.233,1163,1200,-37,1,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-07 09:15:55.288,1766,1800,-34,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,discomfort,2026-01-07 09:15:56.606,1767,1800,-33,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-07 09:15:57.869,1768,1800,-32,1,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,misc,2026-01-07 09:25:55.341,2366,2400,-34,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Discover & Learn,3,1,eyestrain,2026-01-07 09:25:56.760,2367,2400,-33,1,"Glasses screen",false

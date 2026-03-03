@@ -1,0 +1,6 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1045,2025-12-15 10:48:59.883,16,"Participant picks up phone on table and unlocks it using passcode"
+1045,2025-12-15 10:51:08.545,145,"User puts on wristband incorrectly, before proceeding with instructions to pair with wristband"
+1045,2025-12-15 10:51:20.904,157,"User opens meta app and starts connecting with instagram"
+1045,2025-12-15 10:53:12.703,269,"User was about to start by tapping on the first option in new device tab, had to be directed to connect with the wristband version all the way at the bottom of the app"
+1045,2025-12-15 10:55:06.129,382,"User asks if they need to charge the device as the first instructions suggest the device is plugged in"

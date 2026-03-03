@@ -1,0 +1,4 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1033,2025-12-11 12:34:28.776,391,"Gen2 glasses randomly start playing music"
+1033,2025-12-11 12:35:18.485,441,"Music starts playing even even Spotify app is not open"
+1033,2025-12-11 12:38:32.701,635,"Participant notices that Meta will sometimes send message without confirming with them if the message captured is accurate while other times, it will confirm with user"

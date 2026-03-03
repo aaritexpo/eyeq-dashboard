@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:06:44.223,574,600,-26,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:06:49.284,579,600,-21,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:16:35.225,1165,1200,-35,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:16:38.371,1168,1200,-32,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:26:35.682,1766,1800,-34,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-05 14:26:40.718,1771,1800,-29,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:26:43.225,1773,1800,-27,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:36:59.394,2389,2400,-11,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:37:02.625,2393,2400,-7,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:46:31.290,2961,3000,-39,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:46:47.834,2978,3000,-22,2,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,misc,2026-01-05 14:56:49.386,3579,3600,-21,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,discomfort,2026-01-05 14:56:50.690,3581,3600,-19,1,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Capture & Share,1,2,eyestrain,2026-01-05 14:56:54.102,3584,3600,-16,2,"Glasses screen",false

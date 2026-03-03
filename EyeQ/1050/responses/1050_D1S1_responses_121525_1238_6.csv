@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:48:04.089,576,600,-24,0,"Phone screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:48:10.357,582,600,-18,1,"Phone screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:57:56.135,1168,1200,-32,0,"Phone screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:57:59.897,1172,1200,-28,1,"Phone screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:07:49.731,1762,1800,-38,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 12:07:54.127,1766,1800,-34,0,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:07:56.313,1768,1800,-32,1,"Glasses screen",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:17:49.181,2361,2400,-39,0,"Real world, plain backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:17:53.331,2365,2400,-35,1,"Real world, plain backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:27:54.596,2967,3000,-33,0,"Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:27:56.927,2969,3000,-31,1,"Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 12:37:50.071,3562,3600,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 12:37:53.820,3566,3600,-34,0,"Glasses screen, Real world, busy/mixed backdrop",false
+1050,JEV,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 12:37:58.472,3571,3600,-29,1,"Glasses screen, Real world, busy/mixed backdrop",false

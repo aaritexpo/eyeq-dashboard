@@ -1,0 +1,15 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:49:51.416,559,600,-41,0,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:49:54.813,563,600,-37,1,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:59:50.984,1159,1200,-41,0,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:59:53.267,1161,1200,-39,1,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 11:09:55.121,1763,1800,-37,1,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-29 11:09:59.786,1768,1800,-32,1,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 11:10:07.797,1776,1800,-24,2,"Phone screen",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 11:19:52.905,2361,2400,-39,1,"Glasses screen, Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 11:19:57.171,2365,2400,-35,2,"Glasses screen, Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 11:29:52.632,2961,3000,-39,1,"Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 11:29:57.613,2966,3000,-34,1,"Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 11:39:50.181,3558,3600,-42,1,"Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-29 11:39:53.650,3562,3600,-38,1,"Real world, busy/mixed backdrop",false
+1104,RAO,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 11:39:58.566,3567,3600,-33,2,"Real world, busy/mixed backdrop",false

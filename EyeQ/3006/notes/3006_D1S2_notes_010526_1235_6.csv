@@ -1,0 +1,7 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+3006,2026-01-05 12:28:05.178,488,"Participant says hand gestures are responsive but says they forget which gesture correspond to which movement"
+3006,2026-01-05 12:29:24.285,568,"Participant notices a delay in image capture as they meant to take a photo of a particular scene but accidentally captured something else"
+3006,2026-01-05 12:31:17.280,681,"Participant often confuses “back” gesture and “select” gesture"
+3006,2026-01-05 12:32:07.516,731,"Hey Meta not responding to participant"
+3006,2026-01-05 12:33:27.706,811,"Participant discovers that Hey Meta does not respond when user is in camera application"
+3006,2026-01-05 12:35:41.162,944,"When sharing images captured using neural band, the most recent WhatsApp contact/chat will not appear despite having exchanged messages"

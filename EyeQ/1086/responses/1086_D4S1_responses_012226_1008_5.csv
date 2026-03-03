@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:28:02.790,560,600,-40,1,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:28:04.287,561,600,-39,1,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:38:10.871,1168,1200,-32,1,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:38:17.516,1175,1200,-25,3,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:48:06.443,1764,1800,-36,2,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-22 09:48:17.489,1775,1800,-25,2,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:48:24.122,1781,1800,-19,3,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 09:58:07.222,2364,2400,-36,3,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 09:58:25.580,2383,2400,-17,2,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-22 10:08:32.835,2990,3000,-10,2,"Glasses screen",false
+1086,RSI,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-22 10:08:35.132,2992,3000,-8,2,"Glasses screen",false

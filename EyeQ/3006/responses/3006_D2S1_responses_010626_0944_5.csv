@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:04:01.179,560,600,-40,0,"Real world, plain backdrop",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:04:03.489,562,600,-38,1,"Real world, plain backdrop",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:14:27.490,1186,1200,-14,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:14:29.477,1188,1200,-12,1,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:24:05.902,1764,1800,-36,0,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,discomfort,2026-01-06 09:24:08.535,1767,1800,-33,0,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:24:11.263,1770,1800,-30,1,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:34:00.792,2359,2400,-41,0,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:34:02.426,2361,2400,-39,1,"Phone screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:44:41.518,3000,3000,0,0,"Glasses screen",false
+3006,LAV,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:44:43.084,3001,3000,1,1,"Glasses screen",false

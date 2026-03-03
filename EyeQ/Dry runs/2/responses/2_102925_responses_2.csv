@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Missed
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T17:56:37.732Z,615,600,NA,NA,true
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T17:56:37.732Z,615,600,NA,NA,true
+2,KM,AI Glasses & Neural Band,Setup & Device Management,misc,2025-10-29T18:06:25.024Z,1202,1200,2,0,false
+2,KM,AI Glasses & Neural Band,Setup & Device Management,eyestrain,2025-10-29T18:06:37.645Z,1215,1200,NA,NA,true

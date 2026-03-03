@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 10:54:01.840,562,600,-38,0,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 10:54:04.387,565,600,-35,1,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:04:06.754,1167,1200,-33,0,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:04:08.839,1169,1200,-31,1,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,misc,2026-01-08 11:14:17.278,1778,1800,-22,0,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,discomfort,2026-01-08 11:14:18.678,1779,1800,-21,0,"Real world, plain backdrop",false
+3007,ARO,Gen 2 Glasses,Capture & Share,4,1,eyestrain,2026-01-08 11:14:19.976,1781,1800,-19,1,"Real world, plain backdrop",false

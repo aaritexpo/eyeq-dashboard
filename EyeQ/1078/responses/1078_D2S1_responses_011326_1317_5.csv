@@ -1,0 +1,12 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2026-01-13 12:37:16.270,561,600,-39,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2026-01-13 12:37:19.785,564,600,-36,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2026-01-13 12:47:26.750,1171,1200,-29,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2026-01-13 12:47:29.831,1174,1200,-26,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2026-01-13 12:57:12.925,1757,1800,-43,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,discomfort,2026-01-13 12:57:14.440,1759,1800,-41,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2026-01-13 12:57:16.478,1761,1800,-39,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2026-01-13 13:07:28.790,2373,2400,-27,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2026-01-13 13:07:35.386,2380,2400,-20,1,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,misc,2026-01-13 13:17:16.118,2960,3000,-40,0,"Real world, busy/mixed backdrop",false
+1078,RAO,AI Glasses & Neural Band,Discover & Learn,2,1,eyestrain,2026-01-13 13:17:17.751,2962,3000,-38,1,"Real world, busy/mixed backdrop",false

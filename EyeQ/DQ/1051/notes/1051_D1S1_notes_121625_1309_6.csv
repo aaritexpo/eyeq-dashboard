@@ -1,0 +1,10 @@
+Participant ID,Timestamp,Global Time (seconds),Note
+1051,2025-12-16 12:34:15.320,1104,"PT falling asleep"
+1051,2025-12-16 12:39:17.301,1406,"PT falling asleep"
+1051,2025-12-16 12:42:47.118,1616,"PT falling asleep again"
+1051,2025-12-16 12:47:50.984,1920,"PT fell asleep again"
+1051,2025-12-16 12:58:56.783,2585,"PT fell asleep again during maps task"
+1051,2025-12-16 13:09:42.584,3231,"82600, 82820, 82340
+45480, 45550, 45550
+2285, 2130, 1956
+4821, 4775, 4712"

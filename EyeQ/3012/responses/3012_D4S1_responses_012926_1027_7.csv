@@ -1,0 +1,17 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:27:21.992,570,600,-30,1,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:27:33.354,581,600,-19,2,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:37:24.185,1172,1200,-28,1,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:37:33.581,1182,1200,-18,2,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:47:16.958,1765,1800,-35,1,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-29 09:47:54.676,1803,1800,3,1,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:48:01.393,1809,1800,9,2,"Phone screen",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:57:15.423,2363,2400,-37,1,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:57:19.391,2367,2400,-33,2,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:07:40.442,2988,3000,-12,1,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:07:42.807,2991,3000,-9,2,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:17:12.440,3560,3600,-40,1,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-29 10:17:22.085,3570,3600,-30,1,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:17:32.768,3581,3600,-19,2,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 10:27:20.726,4169,4200,-31,1,"Real world, busy/mixed backdrop",false
+3012,LAV,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 10:27:30.258,4178,4200,-22,2,"Real world, busy/mixed backdrop",false

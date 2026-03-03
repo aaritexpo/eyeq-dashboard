@@ -1,0 +1,5 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1019,WIL,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-20 12:59:48.487,604,600,4,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-20 12:59:50.280,606,600,6,1,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Discover & Learn,misc,2025-11-20 13:09:35.137,1191,1200,-9,0,"Glasses screen",false
+1019,WIL,AI Glasses & Neural Band,Discover & Learn,eyestrain,2025-11-20 13:09:39.868,1196,1200,-4,1,"Glasses screen",false

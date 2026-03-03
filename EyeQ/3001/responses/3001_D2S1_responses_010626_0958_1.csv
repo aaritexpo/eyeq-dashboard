@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3001,ARO,AI Glasses & Neural Band,Watching,2,1,misc,2026-01-06 09:58:17.481,562,600,-38,0,"Glasses screen",false
+3001,ARO,AI Glasses & Neural Band,Watching,2,1,eyestrain,2026-01-06 09:58:22.231,567,600,-33,1,"Glasses screen",false

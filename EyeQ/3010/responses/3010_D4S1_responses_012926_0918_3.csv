@@ -1,0 +1,8 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 08:58:23.347,565,600,-35,0,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 08:58:27.127,569,600,-31,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:08:18.595,1160,1200,-40,0,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:08:22.662,1164,1200,-36,1,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,misc,2026-01-29 09:18:19.938,1761,1800,-39,0,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,discomfort,2026-01-29 09:18:22.571,1764,1800,-36,0,"Phone screen, Real world, busy/mixed backdrop",false
+3010,KAM,Gen 2 Glasses,Discover & Learn,4,1,eyestrain,2026-01-29 09:18:24.437,1766,1800,-34,1,"Phone screen, Real world, busy/mixed backdrop",false

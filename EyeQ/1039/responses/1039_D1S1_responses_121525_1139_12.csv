@@ -1,0 +1,29 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 09:49:01.502,564,600,-36,0,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 09:49:03.655,566,600,-34,1,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 09:58:58.369,1161,1200,-39,0,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 09:59:02.016,1165,1200,-35,1,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:09:08.671,1771,1800,-29,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 10:09:14.840,1777,1800,-23,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:09:18.825,1781,1800,-19,2,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:19:04.478,2367,2400,-33,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:19:09.263,2372,2400,-28,2,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:28:58.578,2961,3000,-39,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:29:02.513,2965,3000,-35,2,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:39:14.551,3577,3600,-23,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 10:39:16.434,3579,3600,-21,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:39:26.167,3589,3600,-11,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:49:15.042,4178,4200,-22,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:49:16.777,4179,4200,-21,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 10:59:00.516,4763,4800,-37,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 10:59:03.026,4766,4800,-34,2,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:08:59.211,5362,5400,-38,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 11:09:01.843,5364,5400,-36,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:09:05.626,5368,5400,-32,2,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:18:58.555,5961,6000,-39,0,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:18:59.775,5962,6000,-38,1,"Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:28:58.526,6561,6600,-39,0,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:29:07.088,6570,6600,-30,1,"Glasses screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2025-12-15 11:38:59.883,7163,7200,-37,0,"Glasses screen, Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2025-12-15 11:39:02.498,7165,7200,-35,0,"Glasses screen, Phone screen",false
+1039,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2025-12-15 11:39:04.165,7167,7200,-33,1,"Glasses screen, Phone screen",false

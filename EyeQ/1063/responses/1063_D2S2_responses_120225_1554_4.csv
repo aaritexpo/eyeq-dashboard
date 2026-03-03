@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:23:45.787,567,600,-33,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:23:48.951,570,600,-30,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:33:47.415,1169,1200,-31,0,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:33:53.161,1174,1200,-26,1,"Glasses screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:43:48.239,1770,1800,-30,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,discomfort,2025-12-02 15:43:54.069,1775,1800,-25,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:43:58.117,1779,1800,-21,1,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,misc,2025-12-02 15:53:47.263,2369,2400,-31,0,"Phone screen",false
+1063,GTR,AI Glasses & Neural Band,Watching,2,2,eyestrain,2025-12-02 15:53:50.779,2372,2400,-28,1,"Phone screen",false

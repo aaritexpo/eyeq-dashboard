@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 09:21:32.525,564,600,-36,0,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 09:21:40.473,572,600,-28,2,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 09:31:35.254,1167,1200,-33,1,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 09:31:42.617,1174,1200,-26,3,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 09:41:29.654,1761,1800,-39,1,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,discomfort,2026-01-26 09:41:33.386,1765,1800,-35,1,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 09:41:41.968,1774,1800,-26,3,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,misc,2026-01-26 09:51:31.410,2363,2400,-37,1,"Real world, busy/mixed backdrop",false
+3010,KAM,AI Glasses & Neural Band,Setup & Device Management,1,1,eyestrain,2026-01-26 09:51:36.830,2368,2400,-32,2,"Real world, busy/mixed backdrop",false

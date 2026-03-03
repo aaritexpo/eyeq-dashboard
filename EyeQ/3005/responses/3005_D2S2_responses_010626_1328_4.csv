@@ -1,0 +1,10 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Study Day,Daily Session,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 12:57:00.280,571,600,-29,0,"Glasses screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 12:57:06.127,576,600,-24,1,"Glasses screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:06:55.309,1166,1200,-34,0,"Glasses screen, Phone screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:07:09.770,1180,1200,-20,3,"Glasses screen, Phone screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:16:58.482,1769,1800,-31,2,"Glasses screen, Phone screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,discomfort,2026-01-06 13:17:19.291,1790,1800,-10,2,"Glasses screen, Phone screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:17:27.272,1798,1800,-2,3,"Glasses screen, Phone screen",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,misc,2026-01-06 13:26:51.413,2362,2400,-38,0,"Glasses screen, Real world, busy/mixed backdrop",false
+3005,KAM,AI Glasses & Neural Band,Discover & Learn,2,2,eyestrain,2026-01-06 13:26:56.296,2367,2400,-33,2,"Glasses screen, Real world, busy/mixed backdrop",false

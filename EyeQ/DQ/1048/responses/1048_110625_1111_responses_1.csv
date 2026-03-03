@@ -1,0 +1,3 @@
+Participant ID,Moderator Initials,Device Type,Session Type,Survey Type,Timestamp,Global Time (seconds),Target Time (seconds),Deviation (seconds),Response,Focus,Missed
+1048,MAX,Gen 2 Glasses,Capture & Share,misc,2025-11-06 11:11:16.324,565,600,-35,0,"Glasses screen, Real world, plain backdrop",false
+1048,MAX,Gen 2 Glasses,Capture & Share,eyestrain,2025-11-06 11:11:17.816,566,600,-34,1,"Glasses screen, Real world, plain backdrop",false
