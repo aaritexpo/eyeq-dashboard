@@ -12,6 +12,13 @@ def load_data(base_dir):
     eyeq_data = pd.read_csv(os.path.join(base_dir, 'EyeQ Data - Master.csv'))
     vimssq_data = eyeq_data[['Participant ID', 'VIMSSQ-Intake']].drop_duplicates(subset=['Participant ID'])
 
+    # Build location lookup: map Morning->1, Afternoon->2 to match Daily Session
+    session_map = {'Morning': 1, 'Afternoon': 2}
+    location_data = eyeq_data[['Participant ID', 'Day', 'Session', 'Location']].dropna(subset=['Location']).drop_duplicates()
+    location_data['Daily Session'] = location_data['Session'].map(session_map)
+    location_data = location_data.rename(columns={'Day': 'Study Day'})
+    location_data = location_data[['Participant ID', 'Study Day', 'Daily Session', 'Location']]
+
     print(f"Searching for data in {base_dir}...")
     all_files = []
     
@@ -58,6 +65,7 @@ def load_data(base_dir):
             
             temp_df = temp_df.merge(vimssq_data[['Participant ID', 'VIMSSQ-Intake']], on='Participant ID', how='left')
             temp_df = temp_df.rename(columns={'VIMSSQ-Intake': 'VIMSSQ Score'})
+            temp_df = temp_df.merge(location_data, on=['Participant ID', 'Study Day', 'Daily Session'], how='left')
             df_list.append(temp_df)
 
         except Exception as e:
@@ -69,6 +77,13 @@ def load_data(base_dir):
 
     master_df = pd.concat(df_list, ignore_index=True)
     
+    # Create combined Session Type x Location variable
+    master_df['Session Type x Location'] = master_df.apply(
+        lambda r: f"{r['Session Type']} ({r['Location']})"
+        if pd.notna(r.get('Location')) else r['Session Type'],
+        axis=1
+    )
+
     # Ensure categorical columns are strings for cleaner plotting
     master_df['Participant ID'] = master_df['Participant ID'].astype(str)
     return master_df
@@ -92,6 +107,7 @@ variable_options = [
     {'label': 'Study Day', 'value': 'Study Day'},
     {'label': 'Daily Session', 'value': 'Daily Session'},
     {'label': 'VIMSSQ Bin', 'value': 'VIMSSQ Bin'},
+    {'label': 'Session Type x Location', 'value': 'Session Type x Location'},
 ]
 
 # --- LAYOUT ---
@@ -285,7 +301,8 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
             'Moderator Initials': 'Moderator Initials',
             'Study Day': 'Study Day',
             'Daily Session': 'Daily Session',
-            'VIMSSQ Bin': 'VIMSSQ Bin'
+            'VIMSSQ Bin': 'VIMSSQ Bin',
+            'Session Type x Location': 'Session Type x Location'
         }
     )
     
