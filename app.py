@@ -10,7 +10,7 @@ BASE_DIR = './EyeQ'
 # --- DATA LOADING FUNCTION ---
 def load_data(base_dir):
     eyeq_data = pd.read_csv(os.path.join(base_dir, 'EyeQ Data - Master.csv'))
-    vimssq_data = eyeq_data[['Participant ID', 'VIMSSQ-Intake']].drop_duplicates(subset=['Participant ID'])
+    vimssq_data = eyeq_data[['Participant ID', 'VIMSSQ-Intake', 'Age']].drop_duplicates(subset=['Participant ID'])
 
     # Build location lookup: map Morning->1, Afternoon->2 to match Daily Session
     session_map = {'Morning': 1, 'Afternoon': 2}
@@ -20,7 +20,7 @@ def load_data(base_dir):
     location_data = location_data[['Participant ID', 'Study Day', 'Daily Session', 'Location']]
 
     print(f"Searching for data in {base_dir}...")
-    all_files = []
+    all_files = [] 
     
     # Walk through directories
     for root, dirs, files in os.walk(base_dir):
@@ -63,7 +63,7 @@ def load_data(base_dir):
                 # Fallback if column is missing, though it shouldn't be based on specs
                 temp_df['Time_Minutes'] = temp_df['Global Time (seconds)'] / 60
             
-            temp_df = temp_df.merge(vimssq_data[['Participant ID', 'VIMSSQ-Intake']], on='Participant ID', how='left')
+            temp_df = temp_df.merge(vimssq_data[['Participant ID', 'VIMSSQ-Intake', 'Age']], on='Participant ID', how='left')
             temp_df = temp_df.rename(columns={'VIMSSQ-Intake': 'VIMSSQ Score'})
             temp_df = temp_df.merge(location_data, on=['Participant ID', 'Study Day', 'Daily Session'], how='left')
             df_list.append(temp_df)
@@ -82,6 +82,12 @@ def load_data(base_dir):
         lambda r: f"{r['Session Type']} ({r['Location']})"
         if pd.notna(r.get('Location')) else r['Session Type'],
         axis=1
+    )
+
+    # Age bin: Young (20-35) vs Older (50+)
+    master_df['Age Bin'] = master_df['Age'].apply(
+        lambda x: 'Young (20-35)' if pd.notna(x) and x <= 35
+        else ('Older (50+)' if pd.notna(x) and x >= 50 else None)
     )
 
     # Ensure categorical columns are strings for cleaner plotting
@@ -108,6 +114,7 @@ variable_options = [
     {'label': 'Daily Session', 'value': 'Daily Session'},
     {'label': 'VIMSSQ Bin', 'value': 'VIMSSQ Bin'},
     {'label': 'Session Type x Location', 'value': 'Session Type x Location'},
+    {'label': 'Age Bin', 'value': 'Age Bin'},
 ]
 
 # --- LAYOUT ---
@@ -302,7 +309,8 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
             'Study Day': 'Study Day',
             'Daily Session': 'Daily Session',
             'VIMSSQ Bin': 'VIMSSQ Bin',
-            'Session Type x Location': 'Session Type x Location'
+            'Session Type x Location': 'Session Type x Location',
+            'Age Bin': 'Age Bin'
         }
     )
     
