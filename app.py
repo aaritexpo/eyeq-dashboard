@@ -94,10 +94,77 @@ def load_data(base_dir):
     master_df['Participant ID'] = master_df['Participant ID'].astype(str)
     return master_df
 
+# --- SSQ DATA LOADING ---
+def load_ssq_data(base_dir, response_df):
+    """Load SSQ data from master CSV, reshape to long format, and merge session metadata."""
+    eyeq_data = pd.read_csv(os.path.join(base_dir, 'EyeQ Data - Master.csv'))
+
+    ssq_cols_pre = ['SSQ-T-Pre', 'SSQ-N-Pre', 'SSQ-O-Pre', 'SSQ-D-Pre']
+    ssq_cols_post = ['SSQ-T-Post', 'SSQ-N-Post', 'SSQ-O-Post', 'SSQ-D-Post']
+    id_cols = ['Participant ID', 'Day', 'Session']
+
+    # Only keep PIDs that are in the response data
+    valid_pids = response_df['Participant ID'].unique()
+    valid_pids_int = [int(p) for p in valid_pids]
+    ssq_raw = eyeq_data[eyeq_data['Participant ID'].isin(valid_pids_int)].copy()
+
+    # Map Morning/Afternoon to Daily Session 1/2
+    session_map = {'Morning': 1, 'Afternoon': 2}
+    ssq_raw['Daily Session'] = ssq_raw['Session'].map(session_map)
+    ssq_raw = ssq_raw.rename(columns={'Day': 'Study Day'})
+
+    # Get session metadata from response data
+    session_lookup = response_df[['Participant ID', 'Study Day', 'Daily Session',
+                                   'Device Type', 'Session Type', 'Moderator Initials',
+                                   'Location', 'Session Type x Location',
+                                   'VIMSSQ Score', 'Age', 'Age Bin']].drop_duplicates()
+    session_lookup['Participant ID'] = session_lookup['Participant ID'].astype(int)
+
+    ssq_raw = ssq_raw.merge(session_lookup,
+                            on=['Participant ID', 'Study Day', 'Daily Session'],
+                            how='left')
+
+    meta_cols = ['Participant ID', 'Study Day', 'Daily Session', 'Device Type',
+                 'Session Type', 'Moderator Initials', 'Location',
+                 'Session Type x Location', 'VIMSSQ Score', 'Age', 'Age Bin']
+    # Only keep meta columns that actually exist after the merge
+    meta_cols = [c for c in meta_cols if c in ssq_raw.columns]
+
+    # Melt Pre scores
+    ssq_pre = ssq_raw[meta_cols + ssq_cols_pre].melt(
+        id_vars=meta_cols, var_name='Subscale', value_name='Score')
+    ssq_pre['Timing'] = 'Pre'
+    ssq_pre['Subscale'] = ssq_pre['Subscale'].str.replace('SSQ-', '').str.replace('-Pre', '')
+
+    # Melt Post scores
+    ssq_post = ssq_raw[meta_cols + ssq_cols_post].melt(
+        id_vars=meta_cols, var_name='Subscale', value_name='Score')
+    ssq_post['Timing'] = 'Post'
+    ssq_post['Subscale'] = ssq_post['Subscale'].str.replace('SSQ-', '').str.replace('-Post', '')
+
+    # Enforce pairing: only keep sessions where BOTH Pre and Post exist
+    pair_keys = ['Participant ID', 'Study Day', 'Daily Session', 'Subscale']
+    pre_valid = ssq_pre.dropna(subset=['Score'])[pair_keys]
+    post_valid = ssq_post.dropna(subset=['Score'])[pair_keys]
+    valid_pairs = pre_valid.merge(post_valid, on=pair_keys)
+
+    ssq_pre = ssq_pre.merge(valid_pairs, on=pair_keys)
+    ssq_post = ssq_post.merge(valid_pairs, on=pair_keys)
+
+    ssq_long = pd.concat([ssq_pre, ssq_post], ignore_index=True)
+
+    subscale_labels = {'T': 'Total', 'N': 'Nausea', 'O': 'Oculomotor', 'D': 'Disorientation'}
+    ssq_long['Subscale'] = ssq_long['Subscale'].map(subscale_labels)
+    ssq_long['Participant ID'] = ssq_long['Participant ID'].astype(str)
+
+    return ssq_long
+
+
 # Load Data Once on Startup
 df = load_data(BASE_DIR)
+ssq_df = load_ssq_data(BASE_DIR, df)
 available_pids = sorted(df['Participant ID'].unique())
-survey_types = df['Survey Type'].unique()
+survey_types = list(df['Survey Type'].unique()) + ['SSQ']
 
 # --- DASH APP SETUP ---
 app = dash.Dash(__name__)
@@ -148,7 +215,7 @@ app.layout = html.Div([
             html.Label("1. Select Survey Type:"),
             dcc.Dropdown(
                 id='survey-dropdown',
-                options=[{'label': s.capitalize(), 'value': s} for s in survey_types],
+                options=[{'label': s.upper() if s == 'SSQ' else s.capitalize(), 'value': s} for s in survey_types],
                 value=survey_types[0] if len(survey_types) > 0 else None,
                 clearable=False
             ),
@@ -238,9 +305,15 @@ app.layout = html.Div([
      Input('show-sem-checkbox', 'value')]
 )
 def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row, exclude_vomiting, vimssq_threshold, show_sem):
+
+    if selected_survey == 'SSQ':
+        return build_ssq_figure(selected_pids, color_var, facet_row,
+                                vimssq_threshold, show_sem)
+
+    # --- Standard survey path (misc, eyestrain, etc.) ---
     # 1. Filter by Survey
     filtered_df = df[df['Survey Type'] == selected_survey].copy()
-    
+
     # Create VIMSSQ Bin column based on threshold
     if vimssq_threshold is not None:
         filtered_df['VIMSSQ Bin'] = filtered_df['VIMSSQ Score'].apply(
@@ -259,21 +332,19 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
     # 4. Dynamic Aggregation
     # We always group by Time
     group_cols = ['Time_Minutes']
-    
+
     # Add dynamic grouping variables if they are not 'None'
     if color_var != 'None': group_cols.append(color_var)
     if facet_col != 'None': group_cols.append(facet_col)
     if facet_row != 'None': group_cols.append(facet_row)
-    
+
     # Remove duplicates in group_cols (e.g. if Color and Facet Col are same)
     group_cols = list(set(group_cols))
 
     # Calculate Mean and Standard Error
-    # We use numeric_only=True to ensure we don't try to average string columns
     agg_df = filtered_df.groupby(group_cols)['Response'].agg(['mean', 'sem', 'count']).reset_index()
 
     # 5. Plotting
-    # Map 'None' inputs to Python None for Plotly
     c = color_var if color_var != 'None' else None
     fc = facet_col if facet_col != 'None' else None
     fr = facet_row if facet_row != 'None' else None
@@ -284,9 +355,8 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
     else:
         title += f" (n={filtered_df['Participant ID'].nunique()})"
 
-    # Conditionally add error bars based on checkbox
     error_y_val = 'sem' if 'show' in show_sem else None
-    
+
     fig = px.line(
         agg_df,
         x='Time_Minutes',
@@ -313,17 +383,14 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
             'Age Bin': 'Age Bin'
         }
     )
-    
-    # Improve styling
+
     fig.update_traces(mode="lines+markers")
     fig.update_layout(
         template="plotly_white",
-        title_x=0.5,  # Center the title
-        title_xanchor='center',  # Anchor title at center
-        # Increase font sizes
+        title_x=0.5,
+        title_xanchor='center',
         font=dict(size=14),
         title_font=dict(size=20),
-        # Legend positioning and styling
         legend=dict(
             yanchor="middle",
             y=0.5,
@@ -336,21 +403,110 @@ def update_graph(selected_survey, selected_pids, color_var, facet_col, facet_row
                 font=dict(size=16)
             )
         ),
-        # Increase axis label font sizes
         xaxis=dict(title_font=dict(size=16)),
         yaxis=dict(title_font=dict(size=16))
     )
-    
+
     for annotation in fig.layout.annotations:
         if "=" in annotation.text:
             split_text = annotation.text.split("=")
             if len(split_text) == 2:
                 annotation.text = split_text[1].strip()
 
-    # Update all axes in case of faceting
     fig.update_xaxes(title_font=dict(size=16), tickfont=dict(size=12))
     fig.update_yaxes(matches='y', title_font=dict(size=16), tickfont=dict(size=12))
-    
+
+    return fig
+
+
+def build_ssq_figure(selected_pids, color_var, facet_row, vimssq_threshold, show_sem):
+    """SSQ Pre vs Post, faceted by Subscale (columns), with optional color and row facet."""
+
+    filtered = ssq_df.copy()
+
+    # VIMSSQ binning
+    if vimssq_threshold is not None:
+        filtered['VIMSSQ Bin'] = filtered['VIMSSQ Score'].apply(
+            lambda x: 'High' if pd.notna(x) and x >= vimssq_threshold
+            else ('Low' if pd.notna(x) else None)
+        )
+
+    # Filter by PIDs
+    if selected_pids:
+        filtered = filtered[filtered['Participant ID'].isin(selected_pids)]
+
+    # Aggregation: always group by Subscale + Timing
+    c = color_var if color_var != 'None' else None
+    fr = facet_row if facet_row != 'None' else None
+
+    group_cols = ['Subscale', 'Timing']
+    if c:
+        group_cols.append(c)
+    if fr:
+        group_cols.append(fr)
+    group_cols = list(set(group_cols))
+
+    agg = filtered.groupby(group_cols)['Score'].agg(['mean', 'sem', 'count']).reset_index()
+
+    error_y_val = 'sem' if 'show' in show_sem else None
+
+    fig = px.line(
+        agg,
+        x='Timing',
+        y='mean',
+        error_y=error_y_val,
+        color=c,
+        facet_col='Subscale',
+        facet_row=fr,
+        markers=True,
+        category_orders={
+            'Timing': ['Pre', 'Post'],
+            'Subscale': ['Total', 'Nausea', 'Oculomotor', 'Disorientation'],
+        },
+        hover_data={'count': True},
+        labels={
+            'mean': 'SSQ Score',
+            'sem': 'Standard Error',
+            'Timing': '',
+        }
+    )
+
+    title = "SSQ Pre vs Post"
+    if selected_pids:
+        title += f" (n={len(selected_pids)})"
+    else:
+        title += f" (n={filtered['Participant ID'].nunique()})"
+
+    fig.update_traces(mode="lines+markers", marker_size=10)
+    fig.update_layout(
+        template="plotly_white",
+        title=dict(text=title, x=0.5, xanchor='center', font=dict(size=20)),
+        font=dict(size=14),
+        legend=dict(
+            yanchor="middle",
+            y=0.5,
+            xanchor="left",
+            x=1.02,
+            title_font=dict(size=16),
+            font=dict(size=14),
+            title=dict(side='top', font=dict(size=16))
+        ),
+        xaxis=dict(title_font=dict(size=16)),
+        yaxis=dict(title_font=dict(size=16)),
+    )
+
+    # Clean up facet labels (remove "Subscale=")
+    for annotation in fig.layout.annotations:
+        if "=" in annotation.text:
+            split_text = annotation.text.split("=")
+            if len(split_text) == 2:
+                annotation.text = split_text[1].strip()
+
+    # Let each subscale have its own y-axis scale
+    fig.update_yaxes(matches=None, showticklabels=True,
+                     title_font=dict(size=16), tickfont=dict(size=12))
+    fig.update_xaxes(title_font=dict(size=16), tickfont=dict(size=12))
+
     return fig
 
 if __name__ == '__main__':
