@@ -13,13 +13,20 @@ BASE_DIR = './EyeQ'
 FAILURE_METRICS = {
     'acc facility OU', 'acc facility OD', 'acc facility OS',
     'mem OD', 'mem OS',
+    'NPA tar size OD', 'NPA tar size OS',
+    'NPA OD', 'NPA OS',
 }
+
+# Columns with comma-separated triplet measurements to average (e.g. "10,10,11")
+NPA_TRIPLET_METRICS = ['NPA OD', 'NPA OS']
 
 # Columns that need VA parsing (x/y format -> extract y)
 VA_METRICS = [
     'VA Distance 10 feet OU',
     'VA Distance 10 feet OD',
     'VA Distance 10 feet OS',
+    'NPA tar size OD',
+    'NPA tar size OS',
 ]
 
 # Maps raw column names -> clean display labels for the dropdown
@@ -38,6 +45,11 @@ METRIC_LABELS = {
     'VA Distance 10 feet OU': 'Visual Acuity (Distance) — Both Eyes',
     'VA Distance 10 feet OD': 'Visual Acuity (Distance) — Right Eye',
     'VA Distance 10 feet OS': 'Visual Acuity (Distance) — Left Eye',
+    'NPA tar size OD': 'NPA Target Size — Right Eye',
+    'NPA tar size OS': 'NPA Target Size — Left Eye',
+    'NPA OD': 'Near Point of Accommodation — Right Eye',
+    'NPA OS': 'Near Point of Accommodation — Left Eye',
+    'Stereo 40 cm': 'Stereo Acuity (40 cm)',
 }
 
 METRIC_OPTIONS = list(METRIC_LABELS.keys())
@@ -67,6 +79,20 @@ def load_optometry_data():
     # Merge session metadata and VIMSSQ scores
     opto = opto.merge(session_lookup, on=['Participant ID', 'Study Day', 'Daily Session'], how='left')
     opto = opto.rename(columns={'VIMSSQ-Intake': 'VIMSSQ Score'})
+
+    # Parse NPA triplet columns: average comma-separated measurements (e.g. "10,10,11" -> 10.33)
+    for col in NPA_TRIPLET_METRICS:
+        def avg_triplet(val):
+            s = str(val).strip().lower()
+            if s in ('nan', 'unable to perform', 'utp', ''):
+                return np.nan
+            try:
+                # Handle typos like "10,10.,11" or "18,17.17" by cleaning each part
+                parts = [float(p.strip().rstrip('.')) for p in s.split(',') if p.strip()]
+                return np.mean(parts) if parts else np.nan
+            except (ValueError, TypeError):
+                return np.nan
+        opto[col] = opto[col].apply(avg_triplet)
 
     # Parse VA columns: extract denominator from "20/Y+Z" or "20/Y-Z" format
     for col in VA_METRICS:
